@@ -46,7 +46,7 @@ function openWindow()
 <body bgcolor=#ffffff leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" ONLOAD="openWindow();" ONUNLOAD="window.focus();">
 <table width="100%" border="0" cellspacing="0" cellpadding="10" height="100%">
   <tr> 
-    <td valign="top" align="left"><h1 align="left">www.austenconstable.com&nbsp;v1.2&nbsp;18&nbsp;May&nbsp;2005</h1></td>
+    <td valign="top" align="left"><h1 align="left">www.austenconstable.com&nbsp;v1.2</h1></td>
   </tr>
   <tr>
     <td valign="bottom" align="right"> 
