@@ -18,7 +18,7 @@
     <td valign="middle" align="center"> 
       <h1>
         <div align="center">
-          <p>v 1.2</p>
+          <p>v1.2.1</p>
           <p>welcome<br>
             </p>
         </div>
