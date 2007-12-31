@@ -32,5 +32,5 @@
         <a href="product4c.php">[4c]</a> [5a] <a href="product5b.php">[5b]</a></font></h1></td>
   </tr>
 </table>
-</body>
+<?php include("inc/ganalytics.inc") ?></body>
 </html>

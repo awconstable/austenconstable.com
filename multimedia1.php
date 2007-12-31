@@ -26,5 +26,5 @@
         <a href="multimedia2.php">[2]</a></h1></td>
   </tr>
 </table>
-</body>
+<?php include("inc/ganalytics.inc") ?></body>
 </html>

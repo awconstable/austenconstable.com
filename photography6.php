@@ -25,5 +25,5 @@
         <a href="photography5.php">[6]</a> [7]</h1></td>
   </tr>
 </table>
-</body>
+<?php include("inc/ganalytics.inc") ?></body>
 </html>

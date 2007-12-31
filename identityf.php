@@ -26,5 +26,5 @@
         <a href="identitye.php">[1e]</a> [1f]</h1></td>
   </tr>
 </table>
-</body>
+<?php include("inc/ganalytics.inc") ?></body>
 </html>

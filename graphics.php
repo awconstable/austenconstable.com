@@ -21,5 +21,5 @@
     <td valign="middle" align="center" width="50%">&nbsp;</td>
   </tr>
 </table>
-</body>
+<?php include("inc/ganalytics.inc") ?></body>
 </html>

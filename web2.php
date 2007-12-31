@@ -31,6 +31,6 @@
         [3] <a href="web3.php">[4]</a> <a href="web4.php">[5]</a></h1></td></td>
   </tr>
 </table>
-</body>
+<?php include("inc/ganalytics.inc") ?></body>
 </html>
 

@@ -17,5 +17,5 @@
     <h1>email&nbsp;:&nbsp;<font class="red"><a href="mailto:email@austenconstable.com">email@austenconstable.com</a></font></h1>
   </tr>
 </table>
-</body>
+<?php include("inc/ganalytics.inc") ?></body>
 </html>

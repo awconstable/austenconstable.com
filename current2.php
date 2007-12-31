@@ -28,6 +28,6 @@
         [2]</h1></td>
   </tr>
 </table>
-</body>
+<?php include("inc/ganalytics.inc") ?></body>
 </html>
 
