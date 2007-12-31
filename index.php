@@ -38,10 +38,6 @@ function openWindow()
 	}
 }
 
-//window.resizeTo(650,300);
-//window.innerHeight=300;
-//window.innerWidth=650;
-
 </SCRIPT>
 
 <link rel="stylesheet" href="inc/website.css" type="text/css">
@@ -50,18 +46,12 @@ function openWindow()
 <body bgcolor=#ffffff leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" ONLOAD="openWindow();" ONUNLOAD="window.focus();">
 <table width="100%" border="0" cellspacing="0" cellpadding="10" height="100%">
   <tr> 
-    <td valign="top" align="left"> <h1 align="left">www.austenconstable.com &nbsp;v1.2<br>
-        <?php require 'counter/phpcounter.php'; ?>
-        Since 18 May 2005</h1>
-        </td>
+    <td valign="top" align="left"><h1 align="left">www.austenconstable.com&nbsp;v1.2&nbsp;18&nbsp;May&nbsp;2005</h1></td>
   </tr>
   <tr>
     <td valign="bottom" align="right"> 
       <h1 align="right">The main window should automatically open. If it does 
         not please click <a href="javascript:openWindow();">here.</a> 
-      </h1>
-      <h1 align="right">This site uses Adobe Acrobat 5. Click <a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank">here</a> 
-        to install Adobe Acrobat Reader.<br>
       </h1>
       <h1 align="right"> A screen resolution of at least <strong>800x600</strong> 
         is recommended. <br>

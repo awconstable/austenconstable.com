@@ -1,8 +1,8 @@
 <html>
 <head>
 <title>www.austenconstable.com</title>
-<?php include("inc/meta.php") ?>
-<?php include("inc/java_header.php") ?>
+<meta http-equiv="Content-Type" content="text/html">
+<script src="inc/rollover.js" type="text/javascript"></script>
 <link rel="stylesheet" href="inc/website.css" type="text/css">
 </head>
 

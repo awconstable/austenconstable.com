@@ -1,8 +1,8 @@
 <html>
 <head>
 <title>www.austenconstable.com</title>
-<?php include("inc/meta.php") ?>
-<?php include("inc/java_header.php") ?>
+<meta http-equiv="Content-Type" content="text/html">
+<script src="inc/rollover.js" type="text/javascript"></script>
 <link rel="stylesheet" href="inc/website.css" type="text/css">
 </head>
 
@@ -23,10 +23,10 @@
         {Joint project | credit to Alex Chatzimikes}</h1>
       <h1>&nbsp;</h1>
       </td>
-    <td valign="middle" align="center" rowspan="2" width="50%"><img src="/images/sonicstation.jpg" alt="SonicStation" width="250" height="250" border="0"></td>
+    <td valign="middle" align="center" rowspan="2" width="50%"><img src="images/sonicstation.jpg" alt="SonicStation" width="250" height="250" border="0"></td>
   </tr>
   <tr>
-    <td height="10%" align="center" valign="bottom"> <h1><a href="/multimedia1.php">[1]</a> 
+    <td height="10%" align="center" valign="bottom"> <h1><a href="multimedia1.php">[1]</a> 
         [2]</h1></td>
   </tr>
 </table>

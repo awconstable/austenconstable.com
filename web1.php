@@ -1,8 +1,8 @@
 <html>
 <head>
 <title>www.austenconstable.com</title>
-<?php include("inc/meta.php") ?>
-<?php include("inc/java_header.php") ?>
+<meta http-equiv="Content-Type" content="text/html">
+<script src="inc/rollover.js" type="text/javascript"></script>
 <link rel="stylesheet" href="inc/website.css" type="text/css">
 </head>
 
@@ -29,8 +29,8 @@
     <td width="50%" rowspan="2" align="center" valign="middle"><a href="http://www.leicestershireemus.com" target="_blank"><img src="images/lemus.jpg" alt="Leicestershire Emus Website" width="250" height="250" border="0"></a></td>
   </tr>
   <tr>
-    <td width="50%" height="10%" align="center" valign="middle"><h1><a href="/web0.php">[1]</a> [2] 
-        <a href="web2.php">[3]</a> <a href="/web3.php">[4]</a> <a href="/web4.php">[5]</a></h1></td></td>
+    <td width="50%" height="10%" align="center" valign="middle"><h1><a href="web0.php">[1]</a> [2] 
+        <a href="web2.php">[3]</a> <a href="web3.php">[4]</a> <a href="web4.php">[5]</a></h1></td></td>
   </tr>
 </table>
 </body>

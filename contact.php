@@ -1,8 +1,8 @@
 <html>
 <head>
 <title>www.austenconstable.com</title>
-<?php include("inc/meta.php") ?>
-<?php include("inc/java_header.php") ?>
+<meta http-equiv="Content-Type" content="text/html">
+<script src="inc/rollover.js" type="text/javascript"></script>
 <link rel="stylesheet" href="inc/website.css" type="text/css">
 </head>
 
@@ -13,28 +13,8 @@
     <td height="26" align="center" valign="top"> <?php include("inc/buttons.php") ?> </td>
   </tr>
   <tr> 
-    <td align="center" valign="middle"> <h1>Austen Constable : <font class="red"> 
-        Technology Consultant</font></h1>
-      <table width="75%" height="100" border="0" cellpadding="4" cellspacing="0">
-        <tr valign="top"> 
-          <td align="right"> <h1>email :</h1></td>
-          <td align="left"><a href="mailto:email@austenconstable.com">email@austenconstable.com</a></td>
-          <td align="right" valign="top"><h1></h1></td>
-          <td align="left" valign="top"> </td>
-        </tr>
-        <tr valign="top"> 
-          <td align="right"> <h1>mail :</h1></td>
-          <td align="left"><h3> 6 Stamford Court<br>
-              Goldhawk Road<br>
-              London<br>
-	      W6 0XB<br>
-              UK </h3></td>
-          <td align="left"></td>
-          <td align="left"> </td>
-        </tr>
-      </table>
-      
-    </td>
+   <td align="center" valign="middle"><h1>Austen&nbsp;Constable&nbsp;:&nbsp;<font class="red">Technology&nbsp;Consultant</font><br/><br/>
+    <h1>email&nbsp;:&nbsp;<font class="red"><a href="mailto:email@austenconstable.com">email@austenconstable.com</a></font></h1>
   </tr>
 </table>
 </body>
