@@ -1,0 +1,13 @@
+a {
+	color:red;
+}
+body {
+	margin: 50px;
+	text-align: center;
+	font-size: 10pt;
+	font-family: monospace;
+}
+h1 {
+	font-size: 12pt;
+	color:black;
+}
