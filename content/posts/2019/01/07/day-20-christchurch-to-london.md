@@ -23,11 +23,11 @@ Our final day in New Zealand. We had a bit of a lie in after so many early start
 
 We had breakfast in the local cafe which was very popular with the locals and really great wholesome food.
 
-[gallery ids="681,682,683,684,685,686,687,688" type="rectangular"]
+![5uay899xt8ixnmkxmlv5wq](https://austenconstable.files.wordpress.com/2019/01/5uay899xt8ixnmkxmlv5wq.jpg)![b5umdpr8qyqgflrf01ocdq](https://austenconstable.files.wordpress.com/2019/01/b5umdpr8qyqgflrf01ocdq.jpg)![chadlmhtqoi5gduvkt3akq](https://austenconstable.files.wordpress.com/2019/01/chadlmhtqoi5gduvkt3akq.jpg)![zjf6hdepr0iy3r8eu5kb7w](https://austenconstable.files.wordpress.com/2019/01/zjf6hdepr0iy3r8eu5kb7w.jpg)![ibpjo0yaqw+bhttei5v7oa](https://austenconstable.files.wordpress.com/2019/01/ibpjo0yaqwbhttei5v7oa.jpg)![+nhllwyjqwqy27lzqi4uag](https://austenconstable.files.wordpress.com/2019/01/nhllwyjqwqy27lzqi4uag.jpg)![7bajw8amsquhhq3eqjq+4g](https://austenconstable.files.wordpress.com/2019/01/7bajw8amsquhhq3eqjq4g.jpg)![6gpygvk0ragj+c+4a1f48a](https://austenconstable.files.wordpress.com/2019/01/6gpygvk0ragjc4a1f48a.jpg)
 
 Afterwards we walked to North Hagley Park and the botanical gardens. We explored the rose garden, conservatory and fern garden which were all brilliant and kept us captivated looking at the fascinating plants.
 
-[gallery ids="689,690" type="rectangular"]
+![7ehkplpqqpyec2fmsi4bvq](https://austenconstable.files.wordpress.com/2019/01/7ehkplpqqpyec2fmsi4bvq.jpg)![q65ronb6qqcwjsykm9bvlw](https://austenconstable.files.wordpress.com/2019/01/q65ronb6qqcwjsykm9bvlw.jpg)
 
 Our family policy dictates it's not a holiday unless you have ice cream. We discovered Boysenberry ice cream while we were here, super delicious. After the ice cream the kids played on the play ground for a while before it was time to make a move.
 
