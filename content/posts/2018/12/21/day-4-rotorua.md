@@ -22,25 +22,25 @@ We had a breakfast of cereals and tea in the camper and slowly got ready for the
 
 It was a 2 hour drive to Rotorua and Hell's Gate geothermal Spa. The roads are fairly quiet in this area and now used to the size of the vehicle, so plane sailing.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_9831.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_9839.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_9840.jpg)
+![](../../../images/2018/12/img_9831.jpg)![](../../../images/2018/12/img_9839.jpg)![](../../../images/2018/12/img_9840.jpg)
 
 We stopped at the Rhubarb cafe along the way for coffee, the owner was very friendly and welcoming and the cafe itself was a little querkie with retro furnishings. We'd originally only stopped to get coffee but the food looked so delicious (it was) we ended up staying for cake and ice cream.
 
 We arrived at Hells Gate an hour later and had a light lunch in the camper of left over pizza and salad - the novelty hasn't worn off yet and the kids enjoyed setting up the table and swivelling the chairs around.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_2311.jpg)
+![](../../../images/2018/12/img_2311.jpg)
 
 The first thing we noticed on arrival was the pong of sulphur - so we kept the doors and windows shut. After lunch we took a self-guided walking tour around the hot springs and geothermal activity at Hell's gate. The pools ranged in temperature from 40-129°C and varied from bubbling to steaming to boiling, all smelled of sulphur and rotten eggs. We all enjoyed the walk and learning about geothermal activity before heading back to the spa.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_9842.jpg)
+![](../../../images/2018/12/img_9842.jpg)
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_9841.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_9845.jpg)
+![](../../../images/2018/12/img_9841.jpg)![](../../../images/2018/12/img_9845.jpg)
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_2320.jpg)![img_2323](https://austenconstable.files.wordpress.com/2018/12/img_2323.jpg?w=1536)![](https://austenconstable.files.wordpress.com/2018/12/img_2330.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_2331.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_2332.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_2335.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_2339.jpg)
+![](../../../images/2018/12/img_2320.jpg)![img_2323](../../../images/2018/12/img_2323.jpg?w=1536)![](../../../images/2018/12/img_2330.jpg)![](../../../images/2018/12/img_2331.jpg)![](../../../images/2018/12/img_2332.jpg)![](../../../images/2018/12/img_2335.jpg)![](../../../images/2018/12/img_2339.jpg)
 
 Next up was a Hells Gate mud bath in the spa using mud from the area. We changed and slid into the mud filled hot tub, smearing mud over ourselves. When our time was up we took a quick shower before a quick cool down in the plunge pool followed by a sulphur bath.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_9875.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_9883.jpg)
+![](../../../images/2018/12/img_9875.jpg)![](../../../images/2018/12/img_9883.jpg)
 
 It was difficult to explain to the children that the sulphur bath wasn't for swimming and they shouldn't drink the water or get it in their eyes or mouth. We did manage the escape without any lasting damage however.
 
@@ -48,11 +48,11 @@ Afterwards we sat in the cafe using their WiFi deciding where to camp and if we 
 
 Rather than the backup option we'd planned we decide to drive a little further and stay at the beach front campsite recommended by the Wilderness app - the sea views looked stunning. I called ahead and we got the last spot for 57 NZD, the setting looked amazing and they had facilities to empty and restock the various tanks on the camper.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_9885.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_9886.jpg)
+![](../../../images/2018/12/img_9885.jpg)![](../../../images/2018/12/img_9886.jpg)
 
 We arrived 1 hour later without passing a supermarket. The owner of the holiday park was really friendly and welcomed us to the site, helped us park the camper, and gave us some washing powder (washing required to remove the mud stink). We parked up right at the sea front and immediately set to work with Alex preparing the camper while Diana sorted dinner and Bella went to make friends at the trampoline. With the electricity plugged in, gas on, tables and chairs out and the BBQ assembled we were ready to cook.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_9888.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_9891.jpg)
+![](../../../images/2018/12/img_9888.jpg)![](../../../images/2018/12/img_9891.jpg)
 
 We BBQ'd lamb sausages, steak and enjoyed with salad sitting outside in camping chairs enjoying the sound of the ocean. This was our first gas BBQ as we usually use charcoal, we all lamented over the convenience and the food not being burnt. Our first bbq of the trip was a success.
 

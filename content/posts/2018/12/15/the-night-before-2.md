@@ -16,6 +16,6 @@ tags:
 - road trip
 ---
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_2150.jpg)
+![](../../../images/2018/12/img_2150.jpg)
 
 Our bags are packed, we've planned the route, watched the YouTube videos of how the camper works and we're ready for 28 hours in the air. The adventure starts tomorrow!

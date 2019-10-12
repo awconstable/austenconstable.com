@@ -19,15 +19,15 @@ tags:
 
 We woke to the patter of rain on the camper roof and had a quick breakfast. We decided to abandon our plans to cycle the mountain bike trail to the glacier car park thanks to the weather and prepared for a walk to see the Fox Glacier instead.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_2888.jpg)
+![](../../../images/2018/12/img_2888.jpg)
 
 A 5 minute drive via the most expensive garage so far, took us to the glacier car park which I'd scouted by mountain bike yesterday. The rain had kept people away so there was plenty of parking. It was our first opportunity to try out our wet weather gear and we set off prepared for the rain to continue, which it did.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_2897.jpg)
+![](../../../images/2018/12/img_2897.jpg)
 
 It's only 1.5 km from the car park to the glacier viewing point but took us 45mins due to the steepness of the terrain and a number of stream crossings - all good fun although I did have to bribe Alex with a toffee as he was about to give up 50m from the top.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_2898.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_2900.jpg)
+![](../../../images/2018/12/img_2898.jpg)![](../../../images/2018/12/img_2900.jpg)
 
 The glacier itself has receded significantly over the last 100 years but was still impressive if you knew what you were looking at. The main face was covered in scree and looked quite dull and camouflaged as part of the mountain with a large cave at the base where the melt water ran off. The valley we walked through was a dramatic demonstration of the power of a glacier and I enjoyed explaining to the kids how the valley was formed.
 
@@ -35,21 +35,21 @@ After viewing the glacier it was a much quicker decent, it was still raining and
 
 We arrived back at the camper and stripped off our wet clothing. Handy having a mobile place to change and dry off! Once dry we set a course for Wanaka via the Aspiring National Park.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_2914.jpg)
+![](../../../images/2018/12/img_2914.jpg)
 
 We'd really left civilisation behind at Fox Glacier and didn't see any significant structures until over an hour later when we stopped at Bruce's Bay for coffee and ice cream from a mobile cafe. The Boyzenberry ice cream was delicious.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_0231.jpg)
+![](../../../images/2018/12/img_0231.jpg)
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_0243.jpg)
+![](../../../images/2018/12/img_0243.jpg)
 
 Onward towards Wanaka. The rainforest in the hills here was something else. A layer of cloud circled the base of each hill making the whole part of this journey spectacular.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_2918.jpg)
+![](../../../images/2018/12/img_2918.jpg)
 
 We finally break through to an outpost of civilisation at Haast and stop for lunch at the roadside cafe - the only option in 100km. I sampled the whitebait salad which is an NZ speciality. The salad consisted of a side of coleslaw with chips but the whitebait was tasty! Thankfully it also stopped raining.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_0248.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_0256.jpg)
+![](../../../images/2018/12/img_0248.jpg)![](../../../images/2018/12/img_0256.jpg)
 
 Continuing on we drove around Lake Wanaka and then over The Neck and around Lake Hawea. The scenery is truly epic. Or epical as the kids like to say. The light is so vibrant the whole view is just mind blowing. The camera, even in panoramic mode really can't capture the epic scale and beauty of these scenes. Beautiful, amazing and stunning. Wow.
 

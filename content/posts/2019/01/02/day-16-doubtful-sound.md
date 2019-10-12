@@ -22,9 +22,9 @@ Last night when I'd checked how long it would take us to get to Manapouri it tur
 
 The sand flies had descended the second we stepped out of the van and were far more aggressive than any we'd encounter before. A sand fly bite hurts more than a mosquito but doesn't seem to be as itchy afterwards, at least for me. We were wearing long sleeves and trousers but applied the repellent liberally anyway.
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3169.jpg)
+![](../../../images/2019/01/img_3169.jpg)
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_0395.jpg)
+![](../../../images/2019/01/img_0395.jpg)
 
 After collecting our boarding passes and deluxe packed lunches we waited for the boat to arrive for the first leg of our journey. Once the boat mored up we all got on and found a good spot to sit by the window. We resisted the urge to eat our packed lunch, it still only being 10:30am - others tucked straight in.
 
@@ -34,31 +34,31 @@ When we arrived at the power station we disembarked and hurried into the visitor
 
 The tour guide come bus driver, Alix, was a real comedian and gave us an amusing running commentary of the history, wildlife and fun facts about the area. The route was pretty straight forward but on a dirt track with some steep climbs and descents. Clearly Alix knew the road like the back of her hand - I would like to drive it in the winter which apparently she does.
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3180.jpg)![](https://austenconstable.files.wordpress.com/2019/01/img_3178.jpg)
+![](../../../images/2019/01/img_3180.jpg)![](../../../images/2019/01/img_3178.jpg)
 
 The road was built specifically to construct the power station and is the only road in New Zealand that isn't connected to the rest of the network. It was also the most expensive to make, given that its literally in the middle of nowhere, that didn't come as a surprise. We stopped a couple of times along the way to take in the view and for photographs before reaching the jetty for the trip through the sound.
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3194.jpg)![](https://austenconstable.files.wordpress.com/2019/01/img_3193.jpg)
+![](../../../images/2019/01/img_3194.jpg)![](../../../images/2019/01/img_3193.jpg)
 
 We disembarked the bus and waited for our boat to land and everyone on the previous tour to get off. Once onboard we found another good spot by the window and tucked into our packed lunches.
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3237.jpg)
+![](../../../images/2019/01/img_3237.jpg)
 
 Once underway we had a running commentary from another tour guide who pointed out all of highlights and explained the history. The scenery is naturally spectacular with steep hills covered with rainforest on either side. Apparently Jurassic Park tried to film here and it has that kind of feel with so many tree ferns you could just imagine a Dinosaur poking its head out from behind a tree. (They gave up filming here and moved to Fiji due to the weather)
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_0374.jpg)![](https://austenconstable.files.wordpress.com/2019/01/img_3206.jpg)![](https://austenconstable.files.wordpress.com/2019/01/img_3253.jpg)
+![](../../../images/2019/01/img_0374.jpg)![](../../../images/2019/01/img_3206.jpg)![](../../../images/2019/01/img_3253.jpg)
 
 The tour took us all the way along the Sound, which is actually a Fiord (Glacier formed valley flooded by the sea) and we passed many cascades and waterfalls along the way. Some permanent and some temporary.
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3202.jpg)
+![](../../../images/2019/01/img_3202.jpg)
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3233.jpg)When we reached the end, whilst we were still mostly sheltered from the wind a school of dolphins came out to play next to the boat which was great. We then moved closer to some of the islands and observed two seal colonies before heading back down the sound on the other side.
+![](../../../images/2019/01/img_3233.jpg)When we reached the end, whilst we were still mostly sheltered from the wind a school of dolphins came out to play next to the boat which was great. We then moved closer to some of the islands and observed two seal colonies before heading back down the sound on the other side.
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3256.jpg)![](https://austenconstable.files.wordpress.com/2019/01/img_3261.jpg)
+![](../../../images/2019/01/img_3256.jpg)![](../../../images/2019/01/img_3261.jpg)
 
 Close to the end of our trip we took a diversion into one of the arms of the sound to one side of the main channel. Once inside at the end, sheltered from the wind the captain turned off the boat and we all stood in silence listening to the waterfalls and nothing else apart from the sound of the water lapping against the boat. A wonderful experience of this remote place.
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3263.jpg)
+![](../../../images/2019/01/img_3263.jpg)
 
 The final part of the journey took us back the way we'd arrived. Into the coaches, back over the pass. Dodging sand flies at the power station and then onto the boat back across Lake Manapouri. The tour guides remained silent and let us relax and take in the scenery - we were flagging by this point with all of that fresh air and the early start.
 

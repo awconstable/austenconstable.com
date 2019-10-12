@@ -66,12 +66,20 @@ do
 done
 ```
 
-## Download all images used in your posts on WordPress.com
+## Resize images
+```
+find . -iname '*.jpg' -exec convert {} -verbose -resize 1000000@ {} \;
+```
 
-```grep austenconstable.files.wordpress * > wp-images.txt```
+## Place the images in the root staic folder
 
-```cat wp-images.txt | sed -E 's/^([0-9]{4})-([0-9]{2}).*\((.*)\)$/wget -P\1\/\2 \3 /' > wp-images2.sh```
 
 ## Switch your posts to use the local images rather than Wordpress hosted.
+```
+find . -type f -exec sed -i '' 's=https://austenconstable.files.wordpress.com=../../../images=g' {} \;
+```
 
-find . -type f -exec sed -i .bak 's/../images/../images/g' {} \;
+## Manually update any captions
+```
+grep -rl '\[caption' *
+```

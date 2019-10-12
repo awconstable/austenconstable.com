@@ -25,23 +25,23 @@ My tooth has been gradually getting worse over the last few days and now on pain
 
 After breakfast and showers we headed for a walk along the harbour front to stretch our legs. We stopped for coffee and met up with Craig and the boys. The children all wanted milk shakes and they were massive! Failing Craig's golden rule of not eating anything bigger than your head on every count.
 
-![](https://austenconstable.files.wordpress.com/2018/12/6704b4b7-00d5-45b3-b5e4-633f7cc25d24.jpg)
+![](../../../images/2018/12/6704b4b7-00d5-45b3-b5e4-633f7cc25d24.jpg)
 
 We said our goodbyes as we walked back to the Camper for pain killers and ordered an Uber to take us to the Weta Workshop.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_0010.jpg)
+![](../../../images/2018/12/img_0010.jpg)
 
 The Weta Workshop tour was amazing and inspirational, they create movie props for many of the big Hollywood studios and their credits include The Lord of the Rings, Avatar and many many more. We were greeted by a large ogre at the doorway which was incredibly detailed and looked very realistic. Our tour guide was incredibly knowledgable and clearly passionate about telling us all about Weta. (A Weta is an insect that only exists in New Zealand and is pretty mean looking - like a giant cricket)
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_0005.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_0014.jpg)
+![](../../../images/2018/12/img_0005.jpg)![](../../../images/2018/12/img_0014.jpg)
 
 No photography unfortunately but each room was fascinating and our tour guide explained how many of the props were made, the various stages and materials and how they were used on set. The attention to detail was really amazing, even down to individual hairs. Every piece looked so realistic. The tour concluded with a demonstration from one of the crafts people who showed us how to get started with modelling using kitchen foil.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_0011.jpg)
+![](../../../images/2018/12/img_0011.jpg)
 
 For the next part of the tour we jumped on a bus for a short drive to one of their studio buildings to take a tour of their Thunderbirds are go props. One of the founders of Weta Workshop credited the original Thunderbirds tv series as his inspiration to get into modelling and prop making. They rebooted the series recently using hand built props as in the original but with animated characters over the top.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_0020.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_0022.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_2508.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_2513.jpg)
+![](../../../images/2018/12/img_0020.jpg)![](../../../images/2018/12/img_0022.jpg)![](../../../images/2018/12/img_2508.jpg)![](../../../images/2018/12/img_2513.jpg)
 
 Again real attention to detail and clever use of household materials to make stunning sets.
 
@@ -53,7 +53,7 @@ After the dentist we walked through the CBD down to the harbour stopping at a pl
 
 The first exhibit was a story about New Zealand's contribution to World War I which featured huge human models made by none other than the Weta Workshop. Great attention to detail and each piece told a story of a particular soldier from the war. Really impactful but a little scary for Alex so we rushed through the last part pausing at each of the models.
 
-![](https://austenconstable.files.wordpress.com/2018/12/img_2523.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_2526.jpg)![](https://austenconstable.files.wordpress.com/2018/12/img_2528.jpg)
+![](../../../images/2018/12/img_2523.jpg)![](../../../images/2018/12/img_2526.jpg)![](../../../images/2018/12/img_2528.jpg)
 
 The next two floors covered different parts of the National heritage but there was a lot of reading and the children found it hard to follow. We sped through until we got to the final floor which included lots of objects and some buildings from the Māori culture, we all found this really interesting and engaging.
 

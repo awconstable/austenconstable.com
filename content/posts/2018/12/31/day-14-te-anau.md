@@ -26,7 +26,7 @@ The chap from Paddle Wanaka picked us up and drove us the short distance down to
 
 Abby talked is through all of the kit and what we'd be doing today. The tour started from the beach and we'd paddle along the shoreline until with a few different options on the route depending on the weather as we progressed further into the lake.
 
-![fullsizeoutput_9489](https://austenconstable.files.wordpress.com/2018/12/fullsizeoutput_9489.jpeg)![fullsizeoutput_948b](https://austenconstable.files.wordpress.com/2018/12/fullsizeoutput_948b.jpeg)
+![fullsizeoutput_9489](../../../images/2018/12/fullsizeoutput_9489.jpeg)![fullsizeoutput_948b](../../../images/2018/12/fullsizeoutput_948b.jpeg)
 
 
 
@@ -36,23 +36,23 @@ We got changed and put on our skirts and spray jackets and found a paddle each a
 
 Diana and I have both been kayaking quite a few times before but never with a rudder so we practiced steering and travelling in a straight line, which was harder than it sounds with the waves being whipped up by the wind.
 
-![img_3079](https://austenconstable.files.wordpress.com/2019/01/img_3079.jpg)
+![img_3079](../../../images/2019/01/img_3079.jpg)
 
 Abby took us along the the shore line and through the marina keeping in the sheltered parts as much as possible while we got used to paddling and steering.
 
 We continued paddling (Alex mostly pretended to paddle) along the shore of the lake while Abby and Alex told us all about the lake, wildlife and town. After about 45 mins of paddling in relatively calm water we rounded a corner into the wind and faced rougher water. For the most part it was still relatively easy going, just more effort due to the wind and the occasional big wave which felt a bit like a roller coaster.
 
-![img_3089](https://austenconstable.files.wordpress.com/2019/01/img_3089.jpg)
+![img_3089](../../../images/2019/01/img_3089.jpg)
 
 The scenery along the route was amazing and we loved lake Wanaka with its 360° views of stunning mountains and beautiful clear (drinkable) water, it's like paradise.
 
 We persevered for another 45 mins and just when we started it flag we could see the beach where we were to land with the promise of muffins and coffee once we got there.
 
-![img_3097](https://austenconstable.files.wordpress.com/2019/01/img_3097.jpg)
+![img_3097](../../../images/2019/01/img_3097.jpg)
 
 We paddled up to the beach, remembering to pull up our rudders and then had a helping hand from Alex to pull the kayak onto the beach so we could get out and take a welcome refreshment break.
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3157.jpg)
+![](../../../images/2019/01/img_3157.jpg)
 
 Once everyone had rested we were done with kayaking and a speed boat arrived and took us the short distance to Ruby Island so that we could explore and have a swim. On arriving at the island one of our group jumped from the boat and swam into the shore which the kids were really impressed with. We alighted at the pier and took a brief stroll around the island before Alex wanted to get back to the group and to take a swim. We changed and jumped into the cool deep water off the jetty. The island is on a shelf and the bottom drops away swiftly so we were jumping into deep water but easily getting out from a shallow beach. After hesitating over the first jump the kids loved it and spent the next 30 minutes finding different ways to jump in with Abby encouraging them.
 
@@ -64,7 +64,7 @@ We loved Wanaka so much, it's like a ski reason in summer, (which is pretty much
 
 Abby drove us back to the camp site and we collected the camper, emptying the tanks and securing everything for a long drive. We then went back into town and parked in a side street while we went to find some lunch and visit the supermarket.
 
-![img_3127](https://austenconstable.files.wordpress.com/2019/01/img_3127.jpg)![img_3128](https://austenconstable.files.wordpress.com/2019/01/img_3128.jpg)
+![img_3127](../../../images/2019/01/img_3127.jpg)![img_3128](../../../images/2019/01/img_3128.jpg)
 
 Lunch was at a relaxed cafe on the street bordering the lake. I had a Salmon Poke Bowl, which was Salmon sashimi, brown rice, seaweed salad and coleslaw. It was delicious. The kids went for their staple fish and chips and scrambled eggs on toast and Diana had seafood chowder, also delicious.
 
@@ -72,7 +72,7 @@ Onward to the supermarket which it being New Year's Eve and with a music festiva
 
 We set a course for Te Anau and left town promising to return.
 
-![fullsizeoutput_9487](https://austenconstable.files.wordpress.com/2018/12/fullsizeoutput_9487.jpeg)
+![fullsizeoutput_9487](../../../images/2018/12/fullsizeoutput_9487.jpeg)
 
 The road headed up into the mountains and we passed several ski resorts along the way. We climbed for quite some time, the van complaining occasionally and we engaged the "hill" button a few times for extra power. The view from the top of the pass was breathtaking and we stopped for a quick photo opportunity before attempting the decent.
 
@@ -80,7 +80,7 @@ I thought the odd hair pin bend we'd experienced previously had been a bit hairy
 
 The rest of the drive went smoothly and we pressed on arriving at our camp site in Te Anau just after 7pm. After we'd checked in we found our spot and tried to park the camper, with no luck. We tried 3 different angles but we just couldn't fit without blocking the road - we had pre registered the length of the vehicle beforehand so we were expecting a space that would work for us. I headed back to reception and the chap reassigned us another bigger space (the last one) - he's hoping whoever turns up next is in a smaller van.
 
-![img_3134](https://austenconstable.files.wordpress.com/2019/01/img_3134.jpg)![img_3133](https://austenconstable.files.wordpress.com/2019/01/img_3133.jpg)
+![img_3134](../../../images/2019/01/img_3134.jpg)![img_3133](../../../images/2019/01/img_3133.jpg)
 
 Once parked up we had a quick appero and opened a bottle of bubbles while I fired up the bbq and got cooking. We were right next to the play ground so the children were off even before we'd come to a stand still.
 

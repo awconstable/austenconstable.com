@@ -24,21 +24,21 @@ We decided not to drive to Milford Sound today as originally planned as we wante
 
 I packed sandwiches for lunch and we were ready to go by 12pm. We crossed the main road and joined the gravel trail and we were off.
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3140.jpg)![](https://austenconstable.files.wordpress.com/2019/01/img_3138.jpg)
+![](../../../images/2019/01/img_3140.jpg)![](../../../images/2019/01/img_3138.jpg)
 
 We cycled for a while stopping to help Alex who was struggling with the soft edges of the trail and then stopped for lunch in the shade.
 
 After lunch was much smoother riding after Alex had some food.
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3145.jpg)![](https://austenconstable.files.wordpress.com/2019/01/img_3144.jpg)
+![](../../../images/2019/01/img_3145.jpg)![](../../../images/2019/01/img_3144.jpg)
 
 We rode 7km through forest by the side of Lake Te Anau and the river Waiau up and down hills on gravel track with a short stretch on deserted roads ( which the kids loved because it was nice and smooth) before we turned around and headed back.
 
 Bella's having no problems with the gravel and is enjoying herself racing ahead.
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3153.jpg)![](https://austenconstable.files.wordpress.com/2019/01/img_3152.jpg)
+![](../../../images/2019/01/img_3153.jpg)![](../../../images/2019/01/img_3152.jpg)
 
-![](https://austenconstable.files.wordpress.com/2019/01/img_3159.jpg)
+![](../../../images/2019/01/img_3159.jpg)
 
 We arrived back at the campsite in the late afternoon and had ice cream from the little shop on the camp site. The kids instantly ran to play on the playground while I cycled into town to the supermarket to pick up some beer and nibbles. On the way through town I noticed a pie shop which looked really good so I stopped to buy some for dinner. Venison, beef and sausage rolls.
 

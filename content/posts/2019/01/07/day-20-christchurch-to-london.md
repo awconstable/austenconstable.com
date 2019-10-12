@@ -19,15 +19,15 @@ tags:
 
 Our final day in New Zealand. We had a bit of a lie in after so many early starts over the past week. We couldn't linger too long though as the check out was 10am. We showered, packed and left our luggage at reception straight after check out.
 
-![fullsizeoutput_9a2a](https://austenconstable.files.wordpress.com/2019/01/fullsizeoutput_9a2a.jpeg)
+![fullsizeoutput_9a2a](../../../images/2019/01/fullsizeoutput_9a2a.jpeg)
 
 We had breakfast in the local cafe which was very popular with the locals and really great wholesome food.
 
-![5uay899xt8ixnmkxmlv5wq](https://austenconstable.files.wordpress.com/2019/01/5uay899xt8ixnmkxmlv5wq.jpg)![b5umdpr8qyqgflrf01ocdq](https://austenconstable.files.wordpress.com/2019/01/b5umdpr8qyqgflrf01ocdq.jpg)![chadlmhtqoi5gduvkt3akq](https://austenconstable.files.wordpress.com/2019/01/chadlmhtqoi5gduvkt3akq.jpg)![zjf6hdepr0iy3r8eu5kb7w](https://austenconstable.files.wordpress.com/2019/01/zjf6hdepr0iy3r8eu5kb7w.jpg)![ibpjo0yaqw+bhttei5v7oa](https://austenconstable.files.wordpress.com/2019/01/ibpjo0yaqwbhttei5v7oa.jpg)![+nhllwyjqwqy27lzqi4uag](https://austenconstable.files.wordpress.com/2019/01/nhllwyjqwqy27lzqi4uag.jpg)![7bajw8amsquhhq3eqjq+4g](https://austenconstable.files.wordpress.com/2019/01/7bajw8amsquhhq3eqjq4g.jpg)![6gpygvk0ragj+c+4a1f48a](https://austenconstable.files.wordpress.com/2019/01/6gpygvk0ragjc4a1f48a.jpg)
+![5uay899xt8ixnmkxmlv5wq](../../../images/2019/01/5uay899xt8ixnmkxmlv5wq.jpg)![b5umdpr8qyqgflrf01ocdq](../../../images/2019/01/b5umdpr8qyqgflrf01ocdq.jpg)![chadlmhtqoi5gduvkt3akq](../../../images/2019/01/chadlmhtqoi5gduvkt3akq.jpg)![zjf6hdepr0iy3r8eu5kb7w](../../../images/2019/01/zjf6hdepr0iy3r8eu5kb7w.jpg)![ibpjo0yaqw+bhttei5v7oa](../../../images/2019/01/ibpjo0yaqwbhttei5v7oa.jpg)![+nhllwyjqwqy27lzqi4uag](../../../images/2019/01/nhllwyjqwqy27lzqi4uag.jpg)![7bajw8amsquhhq3eqjq+4g](../../../images/2019/01/7bajw8amsquhhq3eqjq4g.jpg)![6gpygvk0ragj+c+4a1f48a](../../../images/2019/01/6gpygvk0ragjc4a1f48a.jpg)
 
 Afterwards we walked to North Hagley Park and the botanical gardens. We explored the rose garden, conservatory and fern garden which were all brilliant and kept us captivated looking at the fascinating plants.
 
-![7ehkplpqqpyec2fmsi4bvq](https://austenconstable.files.wordpress.com/2019/01/7ehkplpqqpyec2fmsi4bvq.jpg)![q65ronb6qqcwjsykm9bvlw](https://austenconstable.files.wordpress.com/2019/01/q65ronb6qqcwjsykm9bvlw.jpg)
+![7ehkplpqqpyec2fmsi4bvq](../../../images/2019/01/7ehkplpqqpyec2fmsi4bvq.jpg)![q65ronb6qqcwjsykm9bvlw](../../../images/2019/01/q65ronb6qqcwjsykm9bvlw.jpg)
 
 Our family policy dictates it's not a holiday unless you have ice cream. We discovered Boysenberry ice cream while we were here, super delicious. After the ice cream the kids played on the play ground for a while before it was time to make a move.
 
@@ -45,7 +45,7 @@ We slumped into our seats and relaxed for the 13 hour flight to LA and the dread
 
 Just a shorter 9 hour flight and then we were back in the UK with a very well organised immigration queue, even if we did have to wait a short time.
 
-![fdjyevdxqmkg1ylnbiqlsq](https://austenconstable.files.wordpress.com/2019/01/fdjyevdxqmkg1ylnbiqlsq.jpg)
+![fdjyevdxqmkg1ylnbiqlsq](../../../images/2019/01/fdjyevdxqmkg1ylnbiqlsq.jpg)
 
 A taxi picked us up from arrivals and took us home to find that Father Christmas had dropped by while we were away!
 
