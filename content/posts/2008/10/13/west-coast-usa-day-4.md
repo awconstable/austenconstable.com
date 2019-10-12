@@ -18,21 +18,21 @@ tags:
 
 An early start at 6am. Breakfast of bagels and coffee in the motel breakfast room. Lots of people about at this time in the morning.
 
-[caption id="" align="aligncenter" width="193" caption="The view from a mule"][![](http://lh5.ggpht.com/_9ikV2I29FeI/SRsOeuWblGI/AAAAAAAACW8/97FvvQefkUU/s288/IMG_3062.JPG)](http://lh5.ggpht.com/_9ikV2I29FeI/SRsOeuWblGI/AAAAAAAACW8/97FvvQefkUU/s800/IMG_3062.JPG)[/caption]
+![The view from a mule](http://lh5.ggpht.com/_9ikV2I29FeI/SRsOeuWblGI/AAAAAAAACW8/97FvvQefkUU/s800/IMG_3062.JPG)
 
 Drive up to Bright Angle Lodge and wait for the mules to arrive at 8am. Have a briefing from a cowboy and get into first group to be assigned mules. I get a mule called 'Bonnie' but the name tag says Norman, so not sure what to call it. We saddle up and start to ride down the trail without any practice or getting used to the mules on the flat. After 10 minutes we stop and readjust saddles. Stopping involves pointing the mule over the edge of cliff! 
 
-[caption id="" align="aligncenter" width="193" caption="The descent"][![](http://lh4.ggpht.com/_9ikV2I29FeI/SRsOgIn8sII/AAAAAAAACXE/bMrL--zib-g/s288/IMG_3067.JPG)](http://lh4.ggpht.com/_9ikV2I29FeI/SRsOgIn8sII/AAAAAAAACXE/bMrL--zib-g/s800/IMG_3067.JPG)[/caption]
+![The descent](http://lh4.ggpht.com/_9ikV2I29FeI/SRsOgIn8sII/AAAAAAAACXE/bMrL--zib-g/s800/IMG_3067.JPG)
 
 The descent turns out to be pretty scary as you have virtually no control over the mules who seem to like to walk right next to the edge. The weather is pretty cold while we're in the shadow of the canyon and doesn't warm up until later in the morning. We keep descending for 1.5 hours until we reach Indian Garden (called that because it was a Native American prickly pear garden) where we stop for a water break.
 
 We carry on out to Plateau Point for lunch at 11.30am stopping along the way for a group photo. Eat our packed lunches overlooking the river. Lunch consists of Beef jerky, apple, cheese, crisps, oreos and peanuts.
 
-[caption id="" align="aligncenter" width="300" caption="The group"][![](http://lh3.ggpht.com/_9ikV2I29FeI/SRsOuLpzXSI/AAAAAAAACYE/zZU_t7uAINg/s288/IMG_3097.JPG)](http://lh3.ggpht.com/_9ikV2I29FeI/SRsOuLpzXSI/AAAAAAAACYE/zZU_t7uAINg/s800/IMG_3097.JPG)[/caption]
+![The group](http://lh3.ggpht.com/_9ikV2I29FeI/SRsOuLpzXSI/AAAAAAAACYE/zZU_t7uAINg/s800/IMG_3097.JPG)
 
 After lunch and more photo's we saddle up and start the ride back up. It's starting to get warm again so we remove some layers. Stop again at Indian Garden for a water break. Now we start the proper ascent, there are a lot more people around at this time of day, mostly hikers who are camping in the canyon overnight. Ascent for 2-3 hours stopping regularly to enjoy the view and rest the mules. It gets cold again once we get into the shadow. Near the top we see mountain sheep and lots of tourists. Backsides are pretty soar! 
 
-[caption id="" align="aligncenter" width="300" caption="Di and myself in the canyon"][![](http://lh6.ggpht.com/_9ikV2I29FeI/SRsOwE9u7VI/AAAAAAAACYQ/LVwLs6Mz3xs/s288/IMG_3102.JPG)](http://lh6.ggpht.com/_9ikV2I29FeI/SRsOwE9u7VI/AAAAAAAACYQ/LVwLs6Mz3xs/s288/IMG_3102.JPG)[/caption]
+![Di and myself in the canyon](http://lh6.ggpht.com/_9ikV2I29FeI/SRsOwE9u7VI/AAAAAAAACYQ/LVwLs6Mz3xs/s288/IMG_3102.JPG)
 
 Once at the top we ride into the corral where we 'jump off' and goodbye to the guide and the mules.
 

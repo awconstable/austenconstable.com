@@ -22,7 +22,7 @@ Buy map - too large a scale - and head to the Hollywood sign. Use GPS to get the
 
 Drive to a "Dog Park" not too far from the store which has excellent views of the Hollywood sign. Get the tripod out and take some snaps.
 
-[caption id="" align="aligncenter" width="193" caption="The Hollywood sign"][![](http://lh3.ggpht.com/_9ikV2I29FeI/SQ4iLzL17oI/AAAAAAAACQc/ow9QhfRygFQ/s288/IMG_3005.JPG)](http://lh3.ggpht.com/_9ikV2I29FeI/SQ4iLzL17oI/AAAAAAAACQc/ow9QhfRygFQ/s800/IMG_3005.JPG)[/caption]
+![The Hollywood sign](http://lh3.ggpht.com/_9ikV2I29FeI/SQ4iLzL17oI/AAAAAAAACQc/ow9QhfRygFQ/s800/IMG_3005.JPG)
 
 
 After the photo shoot we head for Walmart using the GPS to stock up with supplies. In the end we stop at a 7-11 as Walmart seems to be miles away. Stock up with snacks and a crate of bottled water, which turns out to be very handy.

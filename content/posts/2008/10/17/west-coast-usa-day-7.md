@@ -21,19 +21,19 @@ Walk down to the main lodge for breakfast. Di has smoked salmon and cream cheese
 
 After breakfast we pack up the car and check out and drive down the road to the entrance to Yosemite national park. 
 
-[caption id="" align="aligncenter" width="193" caption="Hetch Hetchy Valley"][![](http://lh6.ggpht.com/_9ikV2I29FeI/SRsPP9hXudI/AAAAAAAACas/X0Mg-aU64CY/s288/IMG_3154.JPG)](http://lh6.ggpht.com/_9ikV2I29FeI/SRsPP9hXudI/AAAAAAAACas/X0Mg-aU64CY/s800/IMG_3154.JPG)[/caption]
+![Hetch Hetchy Valley](http://lh6.ggpht.com/_9ikV2I29FeI/SRsPP9hXudI/AAAAAAAACas/X0Mg-aU64CY/s800/IMG_3154.JPG)
 
 We head down to the Hetch Hetchy Valley entrance to the park which is 1 mile away from the lodge. The cash register isn't working at the gate so we avoid paying again!
 
-[caption id="" align="aligncenter" width="300" caption="Hetch Hetchy Valley"][![](http://lh3.ggpht.com/_9ikV2I29FeI/SRsPh0CowTI/AAAAAAAACb0/8hljUFoUr0o/s288/IMG_3176.JPG)](http://lh3.ggpht.com/_9ikV2I29FeI/SRsPh0CowTI/AAAAAAAACb0/8hljUFoUr0o/s800/IMG_3176.JPG)[/caption]
+![Hetch Hetchy Valley](http://lh3.ggpht.com/_9ikV2I29FeI/SRsPh0CowTI/AAAAAAAACb0/8hljUFoUr0o/s800/IMG_3176.JPG)
 
 Once we've parked up we take a nice walk to Yapama falls (2.5 miles). The route is along the side of the reservoir which supplies San Francisco with water and hydro-electric power. The falls are pretty dry at this time of year but it's a nice walk anyway. The weather quickly changes from a cold morning into a hot sunny day. I remove the legs from my walking trousers to Di's amusement. 
 
-[caption id="" align="aligncenter" width="193" caption="Removing my trouser legs"][![](http://lh6.ggpht.com/_9ikV2I29FeI/SRsPTsggDWI/AAAAAAAACa8/tyWdyRmHwk8/s288/IMG_3161.JPG)](http://lh6.ggpht.com/_9ikV2I29FeI/SRsPTsggDWI/AAAAAAAACa8/tyWdyRmHwk8/s800/IMG_3161.JPG)[/caption]
+![Removing my trouser legs](http://lh6.ggpht.com/_9ikV2I29FeI/SRsPTsggDWI/AAAAAAAACa8/tyWdyRmHwk8/s800/IMG_3161.JPG)
 
 We get back to the car around lunch time and head back to the lodge to get some lunch. We eat very nice burgers, Di has a bison burger, with coleslaw (Tom's treat) and ice tea in the tavern.
 
-[caption id="" align="aligncenter" width="300" caption="Us on the walk"][![](http://lh5.ggpht.com/_9ikV2I29FeI/SRsPZ77uikI/AAAAAAAACbU/k7TzeVyvjFs/s288/IMG_3171.JPG)](http://lh5.ggpht.com/_9ikV2I29FeI/SRsPZ77uikI/AAAAAAAACbU/k7TzeVyvjFs/s800/IMG_3171.JPG)[/caption]
+![Us on the walk](http://lh5.ggpht.com/_9ikV2I29FeI/SRsPZ77uikI/AAAAAAAACbU/k7TzeVyvjFs/s800/IMG_3171.JPG)
 
 After lunch we drive the 4 hours to SF, stopping along the way at Baskin Robbins for an ice cream break. We arrive into SF over the bay bridge while it's still light. We're getting pretty low on gas and we need to fill up before we return the car. We keep checking the satnav to see where the last gas station is so we don't need to fill up in the morning. Unfortunately we keep trying for the next gas station and run out. Thankfully find one in the city on the way to the hotel.
 

@@ -20,17 +20,17 @@ Breakfast in the hotel of bagels and coffee. Strange French-Canadian woman lurki
 
 Over breakfast we decide to walk into downtown as it;s only 10 blocks away. We end up walking and talking for 10 blocks in the wrong direction! Thankfully it's a nice day so we turn around and had 20 blocks in the other direction.
 
-[caption id="" align="aligncenter" width="193" caption="Waiting for the tram"][![](http://lh3.ggpht.com/_9ikV2I29FeI/SRsPtdl2p4I/AAAAAAAACcw/aeEDcseIwUc/s288/IMG_3190.JPG)](http://lh3.ggpht.com/_9ikV2I29FeI/SRsPtdl2p4I/AAAAAAAACcw/aeEDcseIwUc/s800/IMG_3190.JPG)[/caption]
+![Waiting for the tram](http://lh3.ggpht.com/_9ikV2I29FeI/SRsPtdl2p4I/AAAAAAAACcw/aeEDcseIwUc/s800/IMG_3190.JPG)
 
 When we finally get downtown we join the long queue for the cable car from Market Street. I purchase tickets and a MUNI map from the ticket booth and after 30 minutes or so waiting we ride the PH line to Fisherman's wharf.
 
 We walk along the front and stop to buy the mandatory fridge magnet and head towards the seafood restaurants for lunch. Decide on Alioto's as it looks nice and is apparently quite famous. We have both have clam chowder to start with, Di has the New York style (tomato based) and I have the New England style (cream based). We agree that the New York style chowder is the best. Afterwards Di has a Creole scallop dish with rice while I have crab ciotto which was crab legs, muscles, clams and shrimps in a delicious tomato sauce.
 
-[caption id="" align="aligncenter" width="300" caption="On the bike ride"][![](http://lh3.ggpht.com/_9ikV2I29FeI/SRsPzY9uZEI/AAAAAAAACdQ/faWApU1Gy38/s288/IMG_3196.JPG)](http://lh3.ggpht.com/_9ikV2I29FeI/SRsPzY9uZEI/AAAAAAAACdQ/faWApU1Gy38/s800/IMG_3196.JPG)[/caption]
+![On the bike ride](http://lh3.ggpht.com/_9ikV2I29FeI/SRsPzY9uZEI/AAAAAAAACdQ/faWApU1Gy38/s800/IMG_3196.JPG)
 
 After lunch we take a walk to see the seals and check out boat tours. We end up hiring two mountain bikes and ride them along the sea front and over the golden gate bridge! Once we get to the other side we decide not to take the ferry back and to ride instead. Di is a lot faster on her bike and makes it look effortless, I can't keep up!
 
-[caption id="" align="aligncenter" width="300" caption="On the bike ride"][![](http://lh5.ggpht.com/_9ikV2I29FeI/SRsP7xNCABI/AAAAAAAACd4/jyz1q497x-s/s288/IMG_3210.JPG)](http://lh5.ggpht.com/_9ikV2I29FeI/SRsP7xNCABI/AAAAAAAACd4/jyz1q497x-s/s800/IMG_3210.JPG)[/caption]
+![On the bike ride](http://lh5.ggpht.com/_9ikV2I29FeI/SRsP7xNCABI/AAAAAAAACd4/jyz1q497x-s/s800/IMG_3210.JPG)
 
 We get back to Fisherman's Wharf around 5pm and stop into a lot bar for pints of Bud Light and a fried calamari snack. On the way to the bus stop we drop into a Walgreens to buy stamps and Twinkies (For Spencer) and take the 47 bus back to the hotel.
 
