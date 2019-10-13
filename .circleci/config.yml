@@ -111,9 +111,9 @@ deploy_web_job: &deploy_web_job
         command: |
           if [ "${CIRCLE_BRANCH}" == "master" ]; \
           then \
-            echo 'export DEPLOYMENT_URI="s3://production.dcqaconsulting.com.us-east-1"' >> $BASH_ENV; \
+            echo 'export DEPLOYMENT_URI="s3://production.austenconstable.com.us-east-1"' >> $BASH_ENV; \
           else \
-            echo 'export DEPLOYMENT_URI="s3://${CIRCLE_BRANCH}.dcqaconsulting.com.us-east-1"' >> $BASH_ENV; \
+            echo 'export DEPLOYMENT_URI="s3://${CIRCLE_BRANCH}.austenconstable.com.us-east-1"' >> $BASH_ENV; \
           fi
     - aws-s3/sync:
         from: public
