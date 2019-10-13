@@ -14,21 +14,6 @@ resource "aws_route53_zone" "main" {
   name = "austenconstable.com"
 }
 
-resource "aws_route53_record" "mx" {
-  zone_id = "${aws_route53_zone.main.zone_id}"
-  name    = "austenconstable.com."
-  type    = "MX"
-  ttl     = 3600
-
-  records = [
-    "5 gmr-smtp-in.l.google.com",
-    "10 alt1.gmr-smtp-in.l.google.com",
-    "20 alt2.gmr-smtp-in.l.google.com",
-    "30 alt3.gmr-smtp-in.l.google.com",
-    "40 alt4.gmr-smtp-in.l.google.com",
-  ]
-}
-
 // Initialise s3 backend for environmental config
 
 // Staging

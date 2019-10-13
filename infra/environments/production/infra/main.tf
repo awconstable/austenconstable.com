@@ -10,11 +10,11 @@ resource "aws_route53_record" "mx" {
   ttl     = 3600
 
   records = [
-    "1 ASPMX.L.GOOGLE.COM",
-    "5 ALT1.ASPMX.L.GOOGLE.COM",
-    "5 ALT2.ASPMX.L.GOOGLE.COM",
-    "10 ALT3.ASPMX.L.GOOGLE.COM",
-    "10 ALT4.ASPMX.L.GOOGLE.COM",
+    "5 gmr-smtp-in.l.google.com",
+    "10 alt1.gmr-smtp-in.l.google.com",
+    "20 alt2.gmr-smtp-in.l.google.com",
+    "30 alt3.gmr-smtp-in.l.google.com",
+    "40 alt4.gmr-smtp-in.l.google.com",
   ]
 }
 
