@@ -18,7 +18,12 @@ _Note: These need to be manually created in the AWS console_
 This deploys the root domain name and backend storage for each environment.
 It should very rarely need to change and should have additional due diligence in place.
 
-1. Set env vars for AWS_ACCESS_KEY_ID & AWS_SECRET_ACCESS_KEY
+1. Set AWS credentials in ~/.aws/credentials
+```
+[default]
+  2 aws_access_key_id = XXXXXX
+  3 aws_secret_access_key = XXXXXX
+```
 1. Run:
 ```
 cd tf

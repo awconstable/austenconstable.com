@@ -4,7 +4,7 @@ environment = "production"
 
 region = "us-east-1"
 
-domain_zone_id = "Z37YWM9EF8SX1Z"
+domain_zone_id = "ZZ4JBX6HF8UTQ"
 
 domain_name_root = "austenconstable.com"
 
