@@ -1,0 +1,229 @@
+version: 2.1
+
+orbs:
+  aws-s3: circleci/aws-s3@1.0.8
+  aws-cli: circleci/aws-cli@0.1.13
+
+commands:
+  terraform_environment:
+    description: "Set Terraform Environment"
+    steps:
+      - run:
+          name: set terraform environment
+          command: |
+            cd && touch $BASH_ENV
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              echo 'export TERRAFORM_ENVIRONMENT=production' >> $BASH_ENV
+            else
+              echo 'export TERRAFORM_ENVIRONMENT=${CIRCLE_BRANCH}' >> $BASH_ENV
+            fi
+  terraform_fmt:
+    description: "Run Terraform fmt"
+    parameters:
+      module:
+        type: string
+    steps:
+      - run:
+          name: terraform fmt
+          command: |
+            source $BASH_ENV
+            cd infra/environments/$TERRAFORM_ENVIRONMENT/<< parameters.module >>
+            if [ $(terraform fmt | grep -v .terraform | tee fmt_result.txt | wc -l) -gt 0 ]; then
+              echo "Format of this terraform files is not appropiate:"
+              echo
+              cat fmt_result.txt
+              rm fmt_result.txt
+              git checkout -- .
+              echo
+              echo "Please run terraform fmt"
+              exit 1
+            fi
+  terraform_init:
+    description: "Run Terraform Init"
+    parameters:
+      module:
+        type: string
+    steps:
+      - run:
+          name: terraform init
+          command: |
+            source $BASH_ENV
+            cd infra/environments/$TERRAFORM_ENVIRONMENT/<< parameters.module >>
+            terraform init -input=false
+  terraform_plan:
+    description: "Run Terraform Plan"
+    parameters:
+      module:
+        type: string
+    steps:
+      - run:
+          name: terraform plan
+          command: |
+            source $BASH_ENV
+            cd infra/environments/$TERRAFORM_ENVIRONMENT/<< parameters.module >>
+            terraform plan -input=false -out=../../../../terraform.plan
+  terraform_apply:
+    description: "Run Terraform Apply"
+    parameters:
+      module:
+        type: string
+    steps:
+      - run:
+          name: terraform apply
+          command: |
+            source $BASH_ENV
+            cd infra/environments/$TERRAFORM_ENVIRONMENT/<< parameters.module >>
+            terraform apply --auto-approve -input=false ../../../../terraform.plan
+
+working_directory: &working_directory
+                     ~/repo
+infra_module_dir: &infra_module_dir
+                    infra
+
+default_config: &default_config
+  docker:
+    - image: 'hashicorp/terraform:0.11.14'
+  working_directory: *working_directory
+
+repo_cache_key: &repo_cache_key
+                  v1-repo-{{ .Branch }}-{{ .Revision }}
+
+restore_repo: &restore_repo
+  restore_cache:
+    key: *repo_cache_key
+
+save_repo: &save_repo
+  save_cache:
+    key: *repo_cache_key
+    paths:
+      - *working_directory
+
+deploy_web_job: &deploy_web_job
+  docker:
+    - image: 'circleci/python:2.7'
+  working_directory: *working_directory
+  steps:
+    - checkout
+    - aws-cli/install
+    - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
+    - run:
+        name: set deployment target uri
+        command: |
+          if [ "${CIRCLE_BRANCH}" == "master" ]; \
+          then \
+            echo 'export DEPLOYMENT_URI="s3://production.dcqaconsulting.com.us-east-1"' >> $BASH_ENV; \
+          else \
+            echo 'export DEPLOYMENT_URI="s3://${CIRCLE_BRANCH}.dcqaconsulting.com.us-east-1"' >> $BASH_ENV; \
+          fi
+    - aws-s3/sync:
+        from: public
+        to: ${DEPLOYMENT_URI}
+        aws-access-key-id: AWS_ACCESS_KEY_ID
+        aws-secret-access-key: AWS_SECRET_ACCESS_KEY
+        aws-region: AWS_REGION
+        arguments: |
+          --acl public-read \
+          --cache-control "max-age=86400" \
+          --delete
+    - run:
+        name: Invalidate the cloudfront cache
+        command: |
+          if [ "${CIRCLE_BRANCH}" == "master" ]; \
+          then \
+            aws cloudfront create-invalidation --distribution-id ${PRODUCTION_CDN_DISTRIBUTION_ID} --paths "/*"; \
+          else \
+            aws cloudfront create-invalidation --distribution-id ${STAGING_CDN_DISTRIBUTION_ID} --paths "/*"; \
+          fi
+workflows:
+  build_approve_deploy:
+    jobs:
+      - infra_build
+      - infra_plan:
+          requires:
+            - infra_build
+      - approve:
+          type: approval
+          requires:
+            - infra_plan
+          filters:
+            branches:
+              only: master
+      - infra_apply_with_approval:
+          requires:
+            - approve
+          filters:
+            branches:
+              only: master
+      - infra_apply:
+          requires:
+            - infra_plan
+          filters:
+            branches:
+              ignore: master
+      - app_deploy_web_with_approval:
+          requires:
+            - approve
+            - infra_apply_with_approval
+          filters:
+            branches:
+              only: master
+      - app_deploy_web:
+          requires:
+            - infra_apply
+          filters:
+            branches:
+              ignore: master
+
+jobs:
+  infra_build:
+    <<: *default_config
+    steps:
+      - checkout
+      - terraform_environment
+      - terraform_fmt:
+          module: *infra_module_dir
+      - *save_repo  
+
+  infra_plan:
+    <<: *default_config
+    steps:
+      - *restore_repo
+      - terraform_environment
+      - terraform_init:
+          module: *infra_module_dir
+      - terraform_plan:
+          module: *infra_module_dir
+      - persist_to_workspace:
+          root: *working_directory
+          paths:
+            - terraform.plan
+
+  infra_apply:
+    <<: *default_config
+    steps:
+      - *restore_repo
+      - terraform_environment
+      - terraform_init:
+          module: *infra_module_dir
+      - attach_workspace:
+          at: *working_directory
+      - terraform_apply:
+          module: *infra_module_dir
+    
+  infra_apply_with_approval:
+    <<: *default_config
+    steps:
+      - *restore_repo
+      - terraform_environment
+      - terraform_init:
+          module: *infra_module_dir
+      - attach_workspace:
+          at: *working_directory
+      - terraform_apply:
+          module: *infra_module_dir
+
+  app_deploy_web:
+    <<: *deploy_web_job
+
+  app_deploy_web_with_approval:
+    <<: *deploy_web_job
