@@ -155,9 +155,12 @@ workflows:
       - infra_apply:
           requires:
             - infra_plan
-      - app_deploy_web:
+      - app_build_web:
           requires:
             - infra_apply
+      - app_deploy_web:
+          requires:
+            - app_build_web
 
 jobs:
   infra_build:
