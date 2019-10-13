@@ -98,6 +98,17 @@ save_repo: &save_repo
     paths:
       - *working_directory
 
+build_web_job: &build_web_job
+  docker:
+    - image: 'circleci/node:12.11.1'
+  working_directory: *working_directory
+  steps:
+    - checkout 
+    - run: npm install -g gatsby-cli@2.7.33
+    - run: mkdir public
+    - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
+    - run: gatsby build
+
 deploy_web_job: &deploy_web_job
   docker:
     - image: 'circleci/python:2.7'
@@ -183,6 +194,9 @@ jobs:
           at: *working_directory
       - terraform_apply:
           module: *infra_module_dir
+
+  app_build_web:
+    <<: *build_web_job
 
   app_deploy_web:
     <<: *deploy_web_job
