@@ -107,6 +107,7 @@ build_web_job: &build_web_job
     - run: sudo npm install -g gatsby-cli@2.7.33
     - run: mkdir public
     - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
+    - run: npm install
     - run: gatsby build
 
 deploy_web_job: &deploy_web_job
