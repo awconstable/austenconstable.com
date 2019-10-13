@@ -14,5 +14,5 @@ tags:
 ### Test
 Testing
 
-![A test image](../images/2019-10-08-IMG_5374.jpeg)
+![A test image](../../../images/2019-10-08-IMG_5374.jpeg)
 
