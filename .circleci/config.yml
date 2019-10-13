@@ -135,44 +135,18 @@ deploy_web_job: &deploy_web_job
             aws cloudfront create-invalidation --distribution-id ${STAGING_CDN_DISTRIBUTION_ID} --paths "/*"; \
           fi
 workflows:
-  build_approve_deploy:
+  build_deploy:
     jobs:
       - infra_build
       - infra_plan:
           requires:
             - infra_build
-      - approve:
-          type: approval
-          requires:
-            - infra_plan
-          filters:
-            branches:
-              only: master
-      - infra_apply_with_approval:
-          requires:
-            - approve
-          filters:
-            branches:
-              only: master
       - infra_apply:
           requires:
             - infra_plan
-          filters:
-            branches:
-              ignore: master
-      - app_deploy_web_with_approval:
-          requires:
-            - approve
-            - infra_apply_with_approval
-          filters:
-            branches:
-              only: master
       - app_deploy_web:
           requires:
             - infra_apply
-          filters:
-            branches:
-              ignore: master
 
 jobs:
   infra_build:
@@ -209,21 +183,6 @@ jobs:
           at: *working_directory
       - terraform_apply:
           module: *infra_module_dir
-    
-  infra_apply_with_approval:
-    <<: *default_config
-    steps:
-      - *restore_repo
-      - terraform_environment
-      - terraform_init:
-          module: *infra_module_dir
-      - attach_workspace:
-          at: *working_directory
-      - terraform_apply:
-          module: *infra_module_dir
 
   app_deploy_web:
-    <<: *deploy_web_job
-
-  app_deploy_web_with_approval:
     <<: *deploy_web_job
