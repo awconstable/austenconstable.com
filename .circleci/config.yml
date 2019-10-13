@@ -101,12 +101,10 @@ save_repo: &save_repo
 build_web_job: &build_web_job
   docker:
     - image: 'circleci/node:12.11.1'
-    user: node
   working_directory: *working_directory
   steps:
     - checkout 
-    #- run: sudo chown -R $USER /usr/local/lib/node_modules
-    - run: npm install -g gatsby-cli@2.7.33
+    - run: sudo npm install -g gatsby-cli@2.7.33
     - run: mkdir public
     - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
     - run: gatsby build
