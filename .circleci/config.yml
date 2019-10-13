@@ -103,6 +103,7 @@ build_web_job: &build_web_job
     - image: 'circleci/node:12.11.1'
   working_directory: *working_directory
   steps:
+    - *restore_repo
     - run: sudo npm install -g gatsby-cli@2.7.33
     - run: mkdir public
     - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
@@ -118,6 +119,9 @@ deploy_web_job: &deploy_web_job
     - image: 'circleci/python:2.7'
   working_directory: *working_directory
   steps:
+    - *restore_repo
+    - attach_workspace:
+        at: *working_directory
     - aws-cli/install
     - run:
         name: set deployment target uri
