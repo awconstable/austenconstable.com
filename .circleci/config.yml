@@ -119,7 +119,6 @@ deploy_web_job: &deploy_web_job
     - image: 'circleci/python:2.7'
   working_directory: *working_directory
   steps:
-    - *restore_repo
     - attach_workspace:
         at: *working_directory
     - aws-cli/install
