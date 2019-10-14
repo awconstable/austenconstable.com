@@ -3,7 +3,7 @@ author: awconstable
 comments: true
 date: 2019-10-12
 layout: post
-slug: migrating-from-wordpress-to-gatsby
+slug: 2019-10-12-migrating-from-wordpress-to-gatsby
 title: Migrating from Workpress.com to Gatsby, CircleCI and AWS Hosting
 categories:
 - Code
@@ -86,5 +86,12 @@ find . -type f -exec sed -i '' 's=https://austenconstable.files.wordpress.com=..
 grep -rl '\[caption' *
 ```
 
+## Switch Google Maps tags to iframes
+```
+find . -type f -exec sed -i '' 's/\[googlemaps /<iframe src="/g' {} \;
+find . -type f -exec sed -i '' 's/w=640&h=480\]/w=640&h=480" width="640" height="480"><\/iframe>/g' {} \;
+find . -type f -exec sed -i '' 's/w=425&h=350\]/w=425&h=350" width="425" height="350"><\/iframe>/g' {} \;
+find . -type f -exec sed -i '' 's/h=350\]h=350/h=350/g' {} \;
+```
 
 Wait for part 2 for deployment and remote updates via iOS.

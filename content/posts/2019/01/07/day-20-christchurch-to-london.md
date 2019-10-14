@@ -15,7 +15,7 @@ tags:
 - road trip
 ---
 
-[googlemaps https://www.google.com/maps/d/embed?mid=1FELVb2WFizCxHieJdfAGMCokT0YJ3Q5d&w=640&h=480]
+<iframe src="https://www.google.com/maps/d/embed?mid=1FELVb2WFizCxHieJdfAGMCokT0YJ3Q5d&w=640&h=480" width="640" height="480"></iframe>
 
 Our final day in New Zealand. We had a bit of a lie in after so many early starts over the past week. We couldn't linger too long though as the check out was 10am. We showered, packed and left our luggage at reception straight after check out.
 
@@ -62,9 +62,3 @@ Number of teeth lost: 2
 Total flight time: 48 hours
 
 Number of sand fly bites: Too many
-
-
-
-
-
-

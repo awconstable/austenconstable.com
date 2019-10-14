@@ -16,7 +16,7 @@ tags:
 - road trip
 ---
 
-[googlemaps https://www.google.com/maps/d/embed?mid=1X3PQRx0AuKyLBWFWEKQvCICCbwAMJTNA&w=640&h=480]
+<iframe src="https://www.google.com/maps/d/embed?mid=1X3PQRx0AuKyLBWFWEKQvCICCbwAMJTNA&w=640&h=480" width="640" height="480"></iframe>
 
 Today is our Kayak adventure on Lake Wanaka. The activity Diana has been most looking forward to and what started the whole idea of a trip to New Zealand. It's also New Year's Eve.
 

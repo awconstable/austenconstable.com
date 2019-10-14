@@ -14,7 +14,7 @@ tags:
 - road trip
 ---
 
-[googlemaps https://www.google.com/maps/d/embed?mid=1ZGjbn1nslURu3eBeKElBe1AA3phtFC44&w=640&h=480]
+<iframe src="https://www.google.com/maps/d/embed?mid=1ZGjbn1nslURu3eBeKElBe1AA3phtFC44&w=640&h=480" width="640" height="480"></iframe>
 
 Christmas Day and a 4am start, not due to the children but to catch the ferry to the South Island.
 

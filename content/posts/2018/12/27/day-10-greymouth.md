@@ -15,7 +15,7 @@ tags:
 - road trip
 ---
 
-[googlemaps https://www.google.com/maps/d/embed?mid=1qOUTKsxuiUORGeHrRfe0NPIqaaFxA6NL&w=640&h=480]
+<iframe src="https://www.google.com/maps/d/embed?mid=1qOUTKsxuiUORGeHrRfe0NPIqaaFxA6NL&w=640&h=480" width="640" height="480"></iframe>
 
 6 am alarm and a run along the shore of Lake Rotoiti. Breakfast in the van and set off for Greymouth by 9am.
 

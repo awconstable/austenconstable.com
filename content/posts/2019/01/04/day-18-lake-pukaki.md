@@ -16,7 +16,7 @@ tags:
 - road trip
 ---
 
-[googlemaps https://www.google.com/maps/d/embed?mid=1kDjIystvPOu7TyMXh_XWaxcW6E4BPiB5&w=640&h=480]
+<iframe src="https://www.google.com/maps/d/embed?mid=1kDjIystvPOu7TyMXh_XWaxcW6E4BPiB5&w=640&h=480" width="640" height="480"></iframe>
 
 Early start as usual. Breakfast and out walking towards the lake front by 8:30am.
 

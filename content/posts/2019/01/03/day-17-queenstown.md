@@ -16,7 +16,7 @@ tags:
 - road trip
 ---
 
-[googlemaps https://www.google.com/maps/d/embed?mid=1rbo5FoOSEQphxvekE2_607EwOt15TUnJ&w=640&h=480]
+<iframe src="https://www.google.com/maps/d/embed?mid=1rbo5FoOSEQphxvekE2_607EwOt15TUnJ&w=640&h=480" width="640" height="480"></iframe>
 
 Our usual early start, breakfast, empty the camper tanks and away for 8am ready for today's horse trekking.
 

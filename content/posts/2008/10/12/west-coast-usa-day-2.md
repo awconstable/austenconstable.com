@@ -29,6 +29,6 @@ After the photo shoot we head for Walmart using the GPS to stock up with supplie
 
 Set off to Flagstaff around 12.30pm, it's a long 6 hour drive and we stop at In & Out Burger on the way for late lunch around 3pm. Stop in Needles - a one horse town - for gas on the way. Turns out to the most expensive gas in the country, over $4.5 a gallon, no wonder the clerk didn't know how to operate the till! Arrive at Yana and Slilas' house at 8pm as expected to a warm welcome. Ate eggplant and cheese bake while catching up. Diana and Yana met in Kindergarten and haven't seen each other for 17 years!
 
-[googlemaps https://maps.google.com/maps?f=d&saddr=7051+Sunset+Blvd.,+Hollywood,+CA+90028,+USA+(Comfort+Inn-Hollywood)&daddr=Needles,+AZ+to:Flagstaff,+AZ&hl=en&geocode=&mra=ls&sll=34.68747,-114.997265&sspn=4.56115,10.360107&ie=UTF8&s=AARTsJooRsUVpmvhfiknh6aKmwxZoiGWnw&ll=34.795762,-115.180664&spn=6.31366,9.338379&z=6&output=embed&w=425&h=350]
+<iframe src="https://maps.google.com/maps?f=d&saddr=7051+Sunset+Blvd.,+Hollywood,+CA+90028,+USA+(Comfort+Inn-Hollywood)&daddr=Needles,+AZ+to:Flagstaff,+AZ&hl=en&geocode=&mra=ls&sll=34.68747,-114.997265&sspn=4.56115,10.360107&ie=UTF8&s=AARTsJooRsUVpmvhfiknh6aKmwxZoiGWnw&ll=34.795762,-115.180664&spn=6.31366,9.338379&z=6&output=embed&w=425&h=350" width="425" height="350"></iframe>
 
 Have an early night as we're all exhausted.

@@ -14,7 +14,7 @@ tags:
 - road trip
 ---
 
-[googlemaps https://www.google.com/maps/d/embed?mid=1XOwIFQtCo3NWxV3vqJk1HMcVM59z4zZG&w=640&h=480]
+<iframe src="https://www.google.com/maps/d/embed?mid=1XOwIFQtCo3NWxV3vqJk1HMcVM59z4zZG&w=640&h=480" width="640" height="480"></iframe>
 
 We woke up early at 6am, had a quick breakfast, packed, checked out and took an Uber to Wilderness Motorhomes near the airport to pick up the Camper.
 

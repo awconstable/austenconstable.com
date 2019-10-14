@@ -21,4 +21,4 @@ My wonderful girlfriend Di and myself are off on a road trip of the west coast U
 
 Here's a rough outline of the route:
 
-[googlemaps https://maps.google.com/maps/ms?ie=UTF8&hl=en&doflg=ptm&s=AARTsJq-avoe8Pa0FTuIxeeY--u3sugKIg&msa=0&msid=108224973464480308147.000453804461ac4112fea&ll=36.385913,-117.641602&spn=12.371128,18.676758&t=p&z=5&output=embed&w=425&h=350]
+<iframe src="https://maps.google.com/maps/ms?ie=UTF8&hl=en&doflg=ptm&s=AARTsJq-avoe8Pa0FTuIxeeY--u3sugKIg&msa=0&msid=108224973464480308147.000453804461ac4112fea&ll=36.385913,-117.641602&spn=12.371128,18.676758&t=p&z=5&output=embed&w=425&h=350" width="425" height="350"></iframe>

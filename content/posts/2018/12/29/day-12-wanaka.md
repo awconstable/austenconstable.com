@@ -15,7 +15,7 @@ tags:
 - road trip
 ---
 
-[googlemaps https://www.google.com/maps/d/embed?mid=1GO6DV01TnUcZLZrfa-U-h-t2f0OmCztS&w=640&h=480]
+<iframe src="https://www.google.com/maps/d/embed?mid=1GO6DV01TnUcZLZrfa-U-h-t2f0OmCztS&w=640&h=480" width="640" height="480"></iframe>
 
 We woke to the patter of rain on the camper roof and had a quick breakfast. We decided to abandon our plans to cycle the mountain bike trail to the glacier car park thanks to the weather and prepared for a walk to see the Fox Glacier instead.
 

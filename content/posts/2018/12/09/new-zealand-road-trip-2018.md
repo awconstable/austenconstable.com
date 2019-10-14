@@ -20,6 +20,6 @@ We'll be flying into Auckland via LA, spending 3 weeks touring and then flying o
 
 Our intended route below sees us arriving in Auckland, touring the North Island and crossing to the South Island early on Christmas Day morning.
 
-[googlemaps https://www.google.com/maps/d/embed?mid=1Yvw6Abkp8vagP7oAj5bzeyh297kLeYLT&w=640&h=480]
+<iframe src="https://www.google.com/maps/d/embed?mid=1Yvw6Abkp8vagP7oAj5bzeyh297kLeYLT&w=640&h=480" width="640" height="480"></iframe>
 
 Just 1 week to go. We'll be blogging along the way so follow along the adventure.
