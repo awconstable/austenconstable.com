@@ -14,6 +14,3 @@ tags:
 ---
 
 My new home for 6 months or so...
-
-
-`[wp_geo_map]`

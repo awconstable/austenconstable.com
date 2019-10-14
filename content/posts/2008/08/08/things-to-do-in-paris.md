@@ -14,6 +14,6 @@ tags:
 - Paris
 ---
 
-Here's my maps of things we've discovered living in Paris over the last 6 months:
+Here's my map of things we've discovered living in Paris over the last 6 months:
 
-<iframe src="https://maps.google.com/maps/ms?ie=UTF8&hl=en&doflg=ptm&s=AARTsJrFSzjtQFxWOxfKsPTl7uLA46rQ5A&msa=0&msid=108224973464480308147.00044c8a1799b66c815dc&ll=48.870812,2.321205&spn=0.079038,0.145912&z=12&output=embed&w=640&h=480" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1fWUi-pzlcv9P7ocA-lTEZFz4j4Y" width="640" height="480"></iframe>
