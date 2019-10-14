@@ -37,7 +37,7 @@ We get back to the car around lunch time and head back to the lodge to get some 
 
 After lunch we drive the 4 hours to SF, stopping along the way at Baskin Robbins for an ice cream break. We arrive into SF over the bay bridge while it's still light. We're getting pretty low on gas and we need to fill up before we return the car. We keep checking the satnav to see where the last gas station is so we don't need to fill up in the morning. Unfortunately we keep trying for the next gas station and run out. Thankfully find one in the city on the way to the hotel.
 
-<iframe src="https://maps.google.com/maps?f=d&saddr=33160+Evergreen+Rd,+Groveland,+CA+95321,+USA&daddr=37.946567,-119.784536+to:1590+Sutter+St+San+Francisco,+CA+94109&hl=en&geocode=&mra=dme&mrcr=0,1&mrsp=1&sz=17&sll=37.945204,-119.78533&sspn=0.006405,0.011158&ie=UTF8&s=AARTsJpb_i4OqzncwuaQiAGDxYVzUEumjQ&ll=38.091337,-121.14624&spn=3.026157,4.669189&z=7&output=embed&w=425&h=350" width="425" height="350"></iframe>
+<iframe src="https://maps.google.com/maps?f=d&saddr=33160+Evergreen+Rd,+Groveland,+CA+95321,+USA&daddr=37.946567,-119.784536+to:1590+Sutter+St+San+Francisco,+CA+94109&hl=en&geocode=&mra=dme&mrcr=0,1&mrsp=1&sz=17&sll=37.945204,-119.78533&sspn=0.006405,0.011158&ie=UTF8&s=AARTsJpb_i4OqzncwuaQiAGDxYVzUEumjQ&ll=38.091337,-121.14624&spn=3.026157,4.669189&z=7&output=embed&w=640&h=480" width="640" height="480"></iframe>
 
 We abandon the car in the hotel's car park and check in. The hotel and room is eccentric Victorian style, lots of velvet, old furniture and kitsch. It's nice enough though and the room has two fireplaces.
 
