@@ -1,7 +1,11 @@
 resource "aws_s3_bucket" "site_bucket" {
   bucket        = "${var.environment}.${var.domain_name_root}.${var.region}"
-  acl           = "private"
+  acl           = "public-read"
   force_destroy = true
+  website {
+    index_document = "index.html"
+    error_document = "error.html"
+  }
 
   tags {
     environment = "${var.environment}"
