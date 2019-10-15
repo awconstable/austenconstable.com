@@ -4,7 +4,7 @@ locals {
 
 resource "aws_cloudfront_distribution" "s3_distribution" {
   origin {
-    domain_name = "${var.site_bucket_domain_name}"
+    domain_name = "${var.site_bucket_website_endpoint}"
     origin_id   = "${local.s3_origin_id}"
   }
 
