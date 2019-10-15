@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-19 08:42:17+00:00
 layout: post
 link: http://austenconstable.com/2018/12/19/day-2-auckland-2-2/
-slug: day-2-auckland-2-2
+slug: 2018-12-19-day-2-auckland-2-2
 title: Day 2 - Auckland (2/2)
 wordpress_id: 299
 categories:

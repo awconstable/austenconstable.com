@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-27 07:12:30+00:00
 layout: post
 link: http://austenconstable.com/2018/12/27/day-10-greymouth/
-slug: day-10-greymouth
+slug: 2018-12-27-day-10-greymouth
 title: Day 10 - Greymouth
 wordpress_id: 486
 categories:

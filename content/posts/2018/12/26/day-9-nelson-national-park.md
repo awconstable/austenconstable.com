@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-26 08:44:16+00:00
 layout: post
 link: http://austenconstable.com/2018/12/26/day-9-nelson-national-park/
-slug: day-9-nelson-national-park
+slug: 2018-12-26-day-9-nelson-national-park
 title: Day 9 - Nelson National Park
 wordpress_id: 479
 categories:

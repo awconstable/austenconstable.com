@@ -4,7 +4,7 @@ comments: true
 date: 2008-08-08 14:09:05+00:00
 layout: post
 link: http://austenconstable.com/2008/08/08/things-to-do-in-paris/
-slug: things-to-do-in-paris
+slug: 2008-08-08-things-to-do-in-paris
 title: Things to do in Paris
 wordpress_id: 76
 categories:

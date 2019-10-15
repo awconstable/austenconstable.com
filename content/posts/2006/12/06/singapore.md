@@ -4,7 +4,7 @@ comments: true
 date: 2006-12-06 15:27:00+00:00
 layout: post
 link: http://austenconstable.com/2006/12/06/singapore/
-slug: singapore
+slug: 2006-12-06-singapore
 title: Singapore
 wordpress_id: 10
 categories:

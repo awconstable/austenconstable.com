@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-11 20:32:37+00:00
 layout: post
 link: http://austenconstable.com/2008/10/11/west-coast-usa-day-1/
-slug: west-coast-usa-day-1
+slug: 2008-10-11-west-coast-usa-day-1
 title: West Coast USA - Day 1 - LA
 wordpress_id: 101
 categories:

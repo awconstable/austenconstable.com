@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-22 22:21:53+00:00
 layout: post
 link: http://austenconstable.com/2018/12/22/day-5-taupo/
-slug: day-5-taupo
+slug: 2018-12-22-day-5-taupo
 title: Day 5 - Taupo
 wordpress_id: 376
 categories:

@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-16 17:20:56+00:00
 layout: post
 link: http://austenconstable.com/2008/10/16/west-coast-usa-day-6/
-slug: west-coast-usa-day-6
+slug: 2008-10-16-west-coast-usa-day-6
 title: West Coast USA - Day 6 - Yosemite
 wordpress_id: 127
 categories:

@@ -4,7 +4,7 @@ comments: true
 date: 2019-01-05 07:29:56+00:00
 layout: post
 link: http://austenconstable.com/2019/01/05/day-19-christchurch/
-slug: day-19-christchurch
+slug: 2019-01-05-day-19-christchurch
 title: Day 19 - Christchurch
 wordpress_id: 669
 categories:

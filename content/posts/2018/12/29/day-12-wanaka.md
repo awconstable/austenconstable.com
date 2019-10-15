@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-29 10:29:13+00:00
 layout: post
 link: http://austenconstable.com/2018/12/29/day-12-wanaka/
-slug: day-12-wanaka
+slug: 2018-12-29-day-12-wanaka
 title: Day 12 - Wanaka
 wordpress_id: 527
 categories:

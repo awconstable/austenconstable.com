@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-09 20:49:40+00:00
 layout: post
 link: http://austenconstable.com/2018/12/09/new-zealand-road-trip-2018/
-slug: new-zealand-road-trip-2018
+slug: 2018-12-09-new-zealand-road-trip-2018
 title: New Zealand Road Trip 2018
 wordpress_id: 264
 categories:

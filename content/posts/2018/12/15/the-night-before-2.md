@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-15 21:04:50+00:00
 layout: post
 link: http://austenconstable.com/2018/12/15/the-night-before-2/
-slug: the-night-before-2
+slug: 2018-12-15-the-night-before
 title: The night before
 wordpress_id: 281
 categories:

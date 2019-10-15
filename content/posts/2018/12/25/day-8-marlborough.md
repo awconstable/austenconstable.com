@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-25 08:16:52+00:00
 layout: post
 link: http://austenconstable.com/2018/12/25/day-8-marlborough/
-slug: day-8-marlborough
+slug: 2018-12-25-day-8-marlborough
 title: Day 8 - Marlborough
 wordpress_id: 442
 categories:

@@ -4,7 +4,7 @@ comments: true
 date: 2006-12-15 09:23:00+00:00
 layout: post
 link: http://austenconstable.com/2006/12/15/fraser-island-aka-paradise/
-slug: fraser-island-aka-paradise
+slug: 2006-12-15-fraser-island-aka-paradise
 title: Fraser Island AKA Paradise
 wordpress_id: 16
 categories:

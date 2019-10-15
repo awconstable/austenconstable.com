@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-15 13:20:01+00:00
 layout: post
 link: http://austenconstable.com/2008/10/15/west-coast-usa-day-5/
-slug: west-coast-usa-day-5
+slug: 2008-10-15-west-coast-usa-day-5
 title: West Coast USA - Day 5 - Vegas
 wordpress_id: 125
 categories:

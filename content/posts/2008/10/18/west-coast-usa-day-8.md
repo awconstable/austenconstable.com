@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-18 16:14:31+00:00
 layout: post
 link: http://austenconstable.com/2008/10/18/west-coast-usa-day-8/
-slug: west-coast-usa-day-8
+slug: 2008-10-18-west-coast-usa-day-8
 title: West Coast USA - Day 8 - Golden Gate
 wordpress_id: 135
 categories:

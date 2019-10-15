@@ -4,7 +4,7 @@ comments: true
 date: 2019-01-01 10:39:43+00:00
 layout: post
 link: http://austenconstable.com/2019/01/01/day-15-te-anau/
-slug: day-15-te-anau
+slug: 2019-01-01-day-15-te-anau
 title: Day 15 - Te Anau
 wordpress_id: 587
 categories:

@@ -4,7 +4,7 @@ comments: true
 date: 2006-12-29 03:47:00+00:00
 layout: post
 link: http://austenconstable.com/2006/12/29/cairns-great-barrier-reef-cape-trib/
-slug: cairns-great-barrier-reef-cape-trib
+slug: 2006-12-29-cairns-great-barrier-reef-cape-trib
 title: Cairns, Great Barrier Reef & Cape Trib
 wordpress_id: 20
 categories:

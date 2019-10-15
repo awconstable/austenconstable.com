@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-12 22:51:14+00:00
 layout: post
 link: http://austenconstable.com/2008/10/13/west-coast-usa-day-3/
-slug: west-coast-usa-day-3
+slug: 2008-10-13-west-coast-usa-day-3
 title: West Coast USA - Day 3 - Sedona
 wordpress_id: 114
 categories:

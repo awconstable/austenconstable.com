@@ -4,7 +4,7 @@ comments: true
 date: 2006-12-02 22:39:00+00:00
 layout: post
 link: http://austenconstable.com/2006/12/03/the-night-before/
-slug: the-night-before
+slug: 2006-12-03-the-night-before
 title: The night before
 wordpress_id: 8
 categories:

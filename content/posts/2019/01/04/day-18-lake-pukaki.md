@@ -4,7 +4,7 @@ comments: true
 date: 2019-01-04 09:33:46+00:00
 layout: post
 link: http://austenconstable.com/2019/01/04/day-18-lake-pukaki/
-slug: day-18-lake-pukaki
+slug: 2019-01-04-day-18-lake-pukaki
 title: Day 18 - Lake Pukaki
 wordpress_id: 646
 categories:

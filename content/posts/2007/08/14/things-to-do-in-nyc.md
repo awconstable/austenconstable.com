@@ -4,7 +4,7 @@ comments: true
 date: 2007-08-14 14:13:43+00:00
 layout: post
 link: http://austenconstable.com/2007/08/14/things-to-do-in-nyc/
-slug: things-to-do-in-nyc
+slug: 2007-08-14-things-to-do-in-nyc
 title: Things to do in NYC
 wordpress_id: 79
 categories:

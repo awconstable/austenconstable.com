@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-12 20:52:58+00:00
 layout: post
 link: http://austenconstable.com/2008/10/12/west-coast-usa-day-2/
-slug: west-coast-usa-day-2
+slug: 2008-10-12-west-coast-usa-day-2
 title: West Coast USA - Day 2 - Flagstaff
 wordpress_id: 106
 categories:

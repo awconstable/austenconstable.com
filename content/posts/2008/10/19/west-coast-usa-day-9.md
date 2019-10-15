@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-19 16:17:31+00:00
 layout: post
 link: http://austenconstable.com/2008/10/19/west-coast-usa-day-9/
-slug: west-coast-usa-day-9
+slug: 2008-10-19-west-coast-usa-day-9
 title: West Coast USA - Day 9 - Last Day
 wordpress_id: 137
 categories:

@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-08 14:02:39+00:00
 layout: post
 link: http://austenconstable.com/2008/10/08/west-coast-usa-road-trip-the-route/
-slug: west-coast-usa-road-trip-the-route
+slug: 2008-10-08-west-coast-usa-road-trip-the-route
 title: West Coast USA - Road Trip - The route
 wordpress_id: 70
 categories:

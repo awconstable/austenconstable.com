@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-28 09:55:00+00:00
 layout: post
 link: http://austenconstable.com/2018/12/28/day-11-fox-glacier/
-slug: day-11-fox-glacier
+slug: 2018-12-28-day-11-fox-glacier
 title: Day 11 - Fox Glacier
 wordpress_id: 505
 categories:

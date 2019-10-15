@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-17 18:03:15+00:00
 layout: post
 link: http://austenconstable.com/2008/10/17/west-coast-usa-day-7/
-slug: west-coast-usa-day-7
+slug: 2008-10-17-west-coast-usa-day-7
 title: West Coast USA - Day 7 - Hetch Hetchy Valley
 wordpress_id: 133
 categories:

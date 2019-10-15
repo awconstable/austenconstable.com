@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-20 07:36:26+00:00
 layout: post
 link: http://austenconstable.com/2018/12/20/day-3-waitomo/
-slug: day-3-waitomo
+slug: 2018-12-20-day-3-waitomo
 title: Day 3 - Waitomo
 wordpress_id: 320
 categories:

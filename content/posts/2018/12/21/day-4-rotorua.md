@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-21 08:28:49+00:00
 layout: post
 link: http://austenconstable.com/2018/12/21/day-4-rotorua/
-slug: day-4-rotorua
+slug: 2018-12-21-day-4-rotorua
 title: Day 4 - Rotorua
 wordpress_id: 346
 categories:

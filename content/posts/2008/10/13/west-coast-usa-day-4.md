@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-13 22:47:46+00:00
 layout: post
 link: http://austenconstable.com/2008/10/14/west-coast-usa-day-4/
-slug: west-coast-usa-day-4
+slug: 2008-10-14-west-coast-usa-day-4
 title: West Coast USA - Day 4 - Mule Ride
 wordpress_id: 123
 categories:

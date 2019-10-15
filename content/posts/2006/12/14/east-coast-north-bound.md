@@ -4,7 +4,7 @@ comments: true
 date: 2006-12-14 06:44:00+00:00
 layout: post
 link: http://austenconstable.com/2006/12/14/east-coast-north-bound/
-slug: east-coast-north-bound
+slug: 2006-12-14-east-coast-north-bound
 title: East Coast - North bound
 wordpress_id: 14
 categories:
