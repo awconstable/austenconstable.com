@@ -13,6 +13,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {}
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
     }
   ],
   // Customize your site metadata:
