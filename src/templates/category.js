@@ -2,15 +2,15 @@ import React from "react"
 import PropTypes from "prop-types"
 // Components
 import { Link, graphql } from "gatsby"
-const Tags = ({ pageContext, data }) => {
-  const { tag } = pageContext
+const Category = ({ pageContext, data }) => {
+  const { category } = pageContext
   const { edges, totalCount } = data.allMdx
-  const tagHeader = `${totalCount} post${
+  const categoryHeader = `${totalCount} post${
     totalCount === 1 ? "" : "s"
-  } tagged with "${tag}"`
+  } categorised as "${category}"`
   return (
     <div>
-      <h1>{tagHeader}</h1>
+      <h1>{categoryHeader}</h1>
       <ul>
         {edges.map(({ node }) => {
           const { slug } = node.frontmatter
@@ -22,13 +22,13 @@ const Tags = ({ pageContext, data }) => {
           )
         })}
       </ul>
-      <Link to="/tags">All tags</Link>
+      <Link to="/category">All categories</Link>
     </div>
   )
 }
-Tags.propTypes = {
+Category.propTypes = {
   pageContext: PropTypes.shape({
-    tag: PropTypes.string.isRequired,
+    category: PropTypes.string.isRequired,
   }),
   data: PropTypes.shape({
     allMdx: PropTypes.shape({
@@ -48,13 +48,13 @@ Tags.propTypes = {
     }),
   }),
 }
-export default Tags
+export default Category
 export const pageQuery = graphql`
-  query($tag: String) {
+  query($category: String) {
     allMdx(
       limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { tags: { in: [$tag] } } }
+      filter: { frontmatter: { categories: { in: [$category] } } }
     ) {
       totalCount
       edges {
