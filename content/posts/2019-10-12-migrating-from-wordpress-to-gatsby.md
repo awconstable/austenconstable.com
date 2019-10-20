@@ -11,18 +11,20 @@ tags:
 - blog
 ---
 
-It's my Wordpress renewal time and $48+tax/year seems quite a lot for a service I rarely use. There's also some great free or very cheap services for personal site hosting out there and my preference is to have everything under source control anyway. 
+It's my Wordpress.com renewal time and whilst the service has been fine the whole paradigm and technical approach is a little dated. There's also some great free or very cheap services for personal site hosting out there and my preference is to have everything under source control and to follow CI/CD principles. There’s also a whole raft of static site generators which have matured significantly over the last few years which enable the above - so now seems like as good a time as any to migrate away. 
 
 ## Requirements
 * Everything must be under source control
-* I'd like to follow CI/CD principles
-* Updated must be possible remotely from iOS
+* Follow CI/CD principles and tooling
+* Minimise cost where possible
+* Updates must be possible remotely via iOS
 * The migration should be seamless. That is:
-    * Current URL's must still work
-    * Photo's and images currently hosted on Wordpress must migrate
-    * Posts with embedded Google Maps must still operate
-    * Google Analytics should continue to be used to monitor usage
-    * The migration must not require lots of manual change. i.e. it's scripted
+	* Current URL's should still work
+	* Photo's and images currently hosted on Wordpress must migrate
+	* Posts with embedded Google Maps must still operate
+	* Google Analytics should be used to monitor usage
+	* Existing comments must migrate
+	* The migration must not require lots of manual change. i.e. it's scripted
 
 ## Switch all Wordpress Gallery photo's to individual images
 
