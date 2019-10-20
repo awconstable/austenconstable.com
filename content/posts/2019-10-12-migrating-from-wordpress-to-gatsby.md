@@ -9,6 +9,7 @@ categories:
 - Code
 tags:
 - blog
+- gatsby
 ---
 
 It's my Wordpress.com renewal time and whilst the service has been fine the whole paradigm and technical approach is a little dated. There's also some great free or very cheap services for personal site hosting out there and my preference is to have everything under source control and to follow CI/CD principles. There’s also a whole raft of static site generators which have matured significantly over the last few years which enable the above - so now seems like as good a time as any to migrate away. 
