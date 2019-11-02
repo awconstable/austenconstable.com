@@ -32,7 +32,13 @@ module.exports = {
         display: `standalone`,
       }
     },
-    `gatsby-plugin-offline`
+    `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `austenconstable`
+      }
+    }
   ],
   // Customize your site metadata:
   siteMetadata: {
