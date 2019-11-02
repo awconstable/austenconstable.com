@@ -1,16 +1,20 @@
 import React from "react"
 import PropTypes from "prop-types"
 // Components
+import { Styled } from "theme-ui"
 import { Link, graphql } from "gatsby"
-const Tags = ({ pageContext, data }) => {
+import Layout from "gatsby-theme-blog/src/components/layout"
+
+const Tags = ({ pageContext, data, location }) => {
   const { tag } = pageContext
   const { edges, totalCount } = data.allMdx
   const tagHeader = `${totalCount} post${
     totalCount === 1 ? "" : "s"
   } tagged with "${tag}"`
   return (
-    <div>
-      <h1>{tagHeader}</h1>
+    <Layout location={location} title={data.site.siteMetadata.title}>
+    <main>
+      <Styled.h1>{tagHeader}</Styled.h1>
       <ul>
         {edges.map(({ node }) => {
           const { slug } = node.frontmatter
@@ -23,7 +27,8 @@ const Tags = ({ pageContext, data }) => {
         })}
       </ul>
       <Link to="/tags">All tags</Link>
-    </div>
+    </main>
+    </Layout>
   )
 }
 Tags.propTypes = {
@@ -51,6 +56,11 @@ Tags.propTypes = {
 export default Tags
 export const pageQuery = graphql`
   query($tag: String) {
+    site {
+      siteMetadata {
+        title
+      }
+    }
     allMdx(
       limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }

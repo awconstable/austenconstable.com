@@ -1,16 +1,20 @@
 import React from "react"
 import PropTypes from "prop-types"
 // Components
+import { Styled } from "theme-ui"
 import { Link, graphql } from "gatsby"
-const Category = ({ pageContext, data }) => {
+import Layout from "gatsby-theme-blog/src/components/layout"
+
+const Category = ({ pageContext, data, location }) => {
   const { category } = pageContext
   const { edges, totalCount } = data.allMdx
   const categoryHeader = `${totalCount} post${
     totalCount === 1 ? "" : "s"
   } categorised as "${category}"`
   return (
-    <div>
-      <h1>{categoryHeader}</h1>
+    <Layout location={location} title={data.site.siteMetadata.title}>
+    <main>
+      <Styled.h1>{categoryHeader}</Styled.h1>
       <ul>
         {edges.map(({ node }) => {
           const { slug } = node.frontmatter
@@ -23,7 +27,8 @@ const Category = ({ pageContext, data }) => {
         })}
       </ul>
       <Link to="/category">All categories</Link>
-    </div>
+      </main>
+    </Layout>
   )
 }
 Category.propTypes = {
@@ -51,6 +56,11 @@ Category.propTypes = {
 export default Category
 export const pageQuery = graphql`
   query($category: String) {
+    site {
+      siteMetadata {
+        title
+      }
+    }
     allMdx(
       limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }

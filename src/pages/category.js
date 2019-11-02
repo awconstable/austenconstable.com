@@ -3,8 +3,9 @@ import PropTypes from "prop-types"
 // Utilities
 import kebabCase from "lodash/kebabCase"
 // Components
-import { Helmet } from "react-helmet"
+import { Styled } from "theme-ui"
 import { Link, graphql } from "gatsby"
+import Layout from "gatsby-theme-blog/src/components/layout"
 
 const CategoryPage = ({
   data: {
@@ -13,11 +14,11 @@ const CategoryPage = ({
       siteMetadata: { title },
     },
   },
+  location
 }) => (
-  <div>
-    <Helmet title={title} />
-    <div>
-      <h1>Categories</h1>
+  <Layout location={location} title={title}>
+  <main>
+    <Styled.h1>Categories</Styled.h1>
       <ul>
         {group.map(category => (
           <li key={category.fieldValue}>
@@ -27,8 +28,8 @@ const CategoryPage = ({
           </li>
         ))}
       </ul>
-    </div>
-  </div>
+    </main>
+  </Layout>
 )
 CategoryPage.propTypes = {
   data: PropTypes.shape({
