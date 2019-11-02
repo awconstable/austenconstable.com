@@ -7,6 +7,7 @@ import kebabCase from "lodash/kebabCase"
 import { Styled } from "theme-ui"
 import { Link, graphql } from "gatsby"
 import Layout from "gatsby-theme-blog/src/components/layout"
+import SEO from "gatsby-theme-blog/src/components/seo"
 
 const TagsPage = ({
   data: {
@@ -18,6 +19,7 @@ const TagsPage = ({
   location
 }) => (
     <Layout location={location} title={title}>
+    <SEO title="Tags" />  
     <main>
       <Styled.h1>Tags</Styled.h1>
       <ul>

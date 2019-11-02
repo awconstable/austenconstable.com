@@ -4,6 +4,7 @@ import PropTypes from "prop-types"
 import { Styled } from "theme-ui"
 import { Link, graphql } from "gatsby"
 import Layout from "gatsby-theme-blog/src/components/layout"
+import SEO from "gatsby-theme-blog/src/components/seo"
 
 const Tags = ({ pageContext, data, location }) => {
   const { tag } = pageContext
@@ -13,6 +14,7 @@ const Tags = ({ pageContext, data, location }) => {
   } tagged with "${tag}"`
   return (
     <Layout location={location} title={data.site.siteMetadata.title}>
+    <SEO title={`Posts in tag "${tag}"`} />
     <main>
       <Styled.h1>{tagHeader}</Styled.h1>
       <ul>

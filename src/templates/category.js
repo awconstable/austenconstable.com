@@ -4,6 +4,7 @@ import PropTypes from "prop-types"
 import { Styled } from "theme-ui"
 import { Link, graphql } from "gatsby"
 import Layout from "gatsby-theme-blog/src/components/layout"
+import SEO from "gatsby-theme-blog/src/components/seo"
 
 const Category = ({ pageContext, data, location }) => {
   const { category } = pageContext
@@ -13,6 +14,7 @@ const Category = ({ pageContext, data, location }) => {
   } categorised as "${category}"`
   return (
     <Layout location={location} title={data.site.siteMetadata.title}>
+    <SEO title={`Posts in category "${category}"`} />
     <main>
       <Styled.h1>{categoryHeader}</Styled.h1>
       <ul>

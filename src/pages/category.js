@@ -6,6 +6,7 @@ import kebabCase from "lodash/kebabCase"
 import { Styled } from "theme-ui"
 import { Link, graphql } from "gatsby"
 import Layout from "gatsby-theme-blog/src/components/layout"
+import SEO from "gatsby-theme-blog/src/components/seo"
 
 const CategoryPage = ({
   data: {
@@ -17,6 +18,7 @@ const CategoryPage = ({
   location
 }) => (
   <Layout location={location} title={title}>
+  <SEO title="Categories" />
   <main>
     <Styled.h1>Categories</Styled.h1>
       <ul>
