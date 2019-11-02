@@ -3,10 +3,8 @@ author: awconstable
 comments: true
 date: 2006-12-14 06:44:00+00:00
 layout: post
-link: http://austenconstable.com/2006/12/14/east-coast-north-bound/
 slug: 2006-12-14-east-coast-north-bound
 title: East Coast - North bound
-wordpress_id: 14
 categories:
 - Travel
 tags:
@@ -17,7 +15,7 @@ tags:
 
 So. After 3.5 days, 1700 km's, 1 x $350 speeding fine, 1 x dropped bike, stuck in sand, some really really amazing riding and some pretty boring freeway (hence the fine), I'm finally at the most northern point of my trip. Hervey Bay right next to Fraser Island.
 
-**Day 1**
+## Day 1
 
 Set out from Sydney pretty late in the day on Monday and headed over the harbour bridge and up the Pacific Highway. Take in a nice ride through a national park just north of the city on the old pacific highway. Decide to get some distance done and get back to the free way. Heading for Seal Rocks, recommended by Craig's friend Suze.
 
@@ -31,7 +29,7 @@ Ride back out feeling more confident now that I've taken my sun glasses off and 
 Ride on through the forest in the dark towards what I'm hoping is a large enough town to have a late opening petrol station. All the time thinking about the rather frequent use of Kangaroo signs and lack of bull bars on motorbikes.
 End up staying in a motel in a small town called Forster-Tuncurry with not alot going on, so early night.
 
-**Day 2**
+## Day 2
 
 Heading for Byron Bay today. Mostly freeway riding since I want to get there and it's a long ride. Take a few tourist drives but mostly freeway. The 1200GS comes into it's own. This thing can just EAT road like nothing. The only problem is the ridiculously low speed limit. I mean you can't get far in a country this size at 100km/h can you? Keep roughly within the limit. Give or take 50km/h or so...
 
@@ -47,7 +45,7 @@ Head on down to The Rails for some beers and live music. This place is cool. It'
 
 Love this place, think I will try and come back on the way back down.
 
-**Day 3**
+## Day 3
 
 Get up late with a hangover and head on down to the beach for a swim and a little sun. Take a while to dry off in the sun and then grab some brekkie. Feeling much better.
 Ride out towards Nightcap National Park, the guide book has a great picture in it so find out what it's all about. Turns into the BEST ride so far. I actually got to ride into the rain forest on a dirt track, amazing. Rode into the national park and leave the bike to hike to nearby Protesters Falls (On account of the logging protests in the 70's). Walking in the rain forest is something else. The scales everything works on is just mind blowing. There's these massive tree's at one end and tiny ants crawling up them at the other. It's just a magical place that I really can't understand why anyone would want chop it down.
@@ -66,7 +64,7 @@ Pretty lucky I turned back too, as I sipped some water from the camel back it ra
 
 Miss the one motel on the island...somehow, maybe I just imagined in on the way through or sometimes they turn their signs off when they go to bed. Getting increasingly concerned because I'm now off the freeway looking for a motel and there doesn't seem to be one. Finally find one about 10.30pm and settled in with a beer.
 
-Day 4
+## Day 4
 
 Left the motel and took a nice Tourist drive, which aren't as good now I'm in Queensland for some reason, just stupid routes. One took me off the road and around in a circle just to see a golf course! End's up being a complete loop back to before the motel. Spent most of the morning on that and it wasn't that good riding either!
 

@@ -3,10 +3,8 @@ author: awconstable
 comments: true
 date: 2006-12-02 22:39:00+00:00
 layout: post
-link: http://austenconstable.com/2006/12/03/the-night-before/
 slug: 2006-12-03-the-night-before
 title: The night before
-wordpress_id: 8
 categories:
 - Travel
 tags:
@@ -23,7 +21,8 @@ The dates were originally based around a wedding...which got cancelled and the p
 
 Craig, the second rider in the trip, unfortunately didn't get around to taking his motorbike license. Even though we've been talking about it for around 18 MONTHS. So lone rider it is. Unless of course he miraculously passes a test in the next week. Odds not in his favour.
 
-Itinerary
+## Itinerary
+
 1. Fly to Singapore for a few days drinking and sight seeing with Hayesy.
 2. Arrive in Sydney. Meet up with a few friends, since it seems the place to be this year.
 3. Take the first flight to Melbourne and hire a bike. Ride the coast road!
