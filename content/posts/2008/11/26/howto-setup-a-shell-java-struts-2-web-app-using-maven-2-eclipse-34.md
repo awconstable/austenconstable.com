@@ -23,53 +23,38 @@ I did plenty of reading ([Maven: The Definitive Guide](http://books.sonatype.com
 
 So I've pieced my reading and research together and here it is:
 
-
 ### Prerequisites
 
+* Java
+* maven 2
+* eclipse 3.4.1
 
-Java
-maven 2
-eclipse 3.4.1
+### Create a new skeleton project
 
-
-### Create a new skeleton project:
-
-
-
-    
-    cd ~/workspace/
-    mvn archetype:generate -DgroupId={name of your group e.g. com.austenconstable} 
+```bash
+cd ~/workspace/
+mvn archetype:generate -DgroupId={name of your group e.g. com.austenconstable}
     -DartifactId={name of your app} 
     -DarchetypeGroupId=org.apache.struts 
     -DarchetypeArtifactId=struts2-archetype-starter 
     -DarchetypeVersion=2.0.11.2
-
+```
 
 If you're not sure on the latest struts 2 archetype release version check [here](http://repo1.maven.org/maven2/org/apache/struts/struts2-archetype-starter/).
 
+### Generate the eclipse project files
 
-### Generate the eclipse project files:
+```bash
+mvn eclipse:eclipse
+```
 
+### Configure eclipse
 
+```bash
+mvn eclipse:configure-workspace -Declipse.workspace=/path/to/your/workspace/
+```
 
-    
-    mvn eclipse:eclipse
-
-
-
-
-### Configure eclipse:
-
-
-
-    
-    mvn eclipse:configure-workspace -Declipse.workspace=/path/to/your/workspace/
-
-
-
-
-### Import the project into eclipse:
-
+### Import the project into eclipse
 
 Fire up eclipse and use File>Import...
 

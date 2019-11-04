@@ -19,14 +19,14 @@ tags:
 
 An easy way to recursively delete files matching a particular pattern is to use this one liner:
 
-    
-    find | grep "search" | perl -nle unlink
-
+```bash
+find | grep "search" | perl -nle unlink
+```
 
 UPDATE - Another handy one liner to recursively delete directories is:
 
-    
-    rm -rf `find . -type d -name .svn`
-
+```bash
+rm -rf `find . -type d -name .svn`
+```
 
 Obviously replacing ".svn" with whatever your directories are called.
