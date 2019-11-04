@@ -18,7 +18,7 @@ During our family beach holiday to Mexico we took the opportunity to visit Chich
 
 ![](../../../images/2018/08/unadjustednonraw_thumb_ed4a.jpg)
 
-![](../../../images//2018/08/unadjustednonraw_thumb_ed58.jpg)
+![](../../../images/2018/08/unadjustednonraw_thumb_ed58.jpg)
 
 ![](../../../images/2018/08/unadjustednonraw_thumb_ed5d.jpg)
 
