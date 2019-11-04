@@ -48,7 +48,7 @@ whilst I waited for my groups turn to dive. The Cay is reserved for
 40,000 or so wild birds. The smell was pretty bad, not what I was quite
 expecting!
 
-![Diving on the great barrier reef](http://lh6.google.co.uk/image/awconstable/RZ4r2CVjdhI/AAAAAAAAA88/i3O8pxt7SWc/s800/F1000007.JPG)
+![Diving on the great barrier reef](https://lh6.google.co.uk/image/awconstable/RZ4r2CVjdhI/AAAAAAAAA88/i3O8pxt7SWc/s800/F1000007.JPG)
 
 Amazing to be actually on the reef! I have been talking about this for so long.
 The guides throw food into the ocean around the boat while we're snorkelling so loads of fish come and greet us.

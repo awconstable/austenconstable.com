@@ -37,7 +37,7 @@ Take a route recommended by a biker I met on the way North. Lots of waterfalls a
 
 Stop at a waterfall for some photo's and take a power nap on a picnic bench.
 
-![](http://lh5.google.com/image/awconstable/RYckK2nesFI/AAAAAAAAAwY/F5WgQpVOOUM/s800/IMG_1664.jpg)
+![](https://lh5.google.com/image/awconstable/RYckK2nesFI/AAAAAAAAAwY/F5WgQpVOOUM/s800/IMG_1664.jpg)
 
 About 20k's out from Arimadale I'm cruising along about 120km/h down a hill when a police car comes into view. Shit! Slow down but have no idea what the speed limit is on this road. Keep riding and praying that he's gonna keep going and not turn around. Not to be. He turns around and follows me for a while before pulling me over. I guess they follow you for a while in case you try to peg it so they can have some sport.
 He takes my license and spends a long time in his patrol car. I'm starting to think he's found out about my other misdemeanor and is getting the hand cuffs ready.
@@ -59,11 +59,11 @@ Really try very hard for the first hour to stick within the speed limit. Get so 
 
 Ride through lots of small towns and nice national parks. Roads are good although the road surface is atrocious at times, especially on bends! Get some great riding up and down the hills of the national parks and scrap the GS's pegs on a few corners.
 
-![](http://lh6.google.com/image/awconstable/RYclNGnesPI/AAAAAAAAAxo/PMJKBRUe7_w/s800/IMG_1674.jpg)
+![](https://lh6.google.com/image/awconstable/RYclNGnesPI/AAAAAAAAAxo/PMJKBRUe7_w/s800/IMG_1674.jpg)
 
 About 200k out of Sydney I head for Wollemi National Park because it looks like good riding country only to divert when I see signs for the Hunter Valley where they make lots of wine.
 
-![](http://lh6.google.com/image/awconstable/RYcljGnesUI/AAAAAAAAAyQ/-F6XqqSN3OE/s800/IMG_1679.jpg)
+![](https://lh6.google.com/image/awconstable/RYcljGnesUI/AAAAAAAAAyQ/-F6XqqSN3OE/s800/IMG_1679.jpg)
 
 Hunter is nice and mean to stop and buy some wine but get the "I'll just stop at the next one" syndrome until I run out of Vineyards, which are called Winery's here...is that even a word? Can't be bothered to turn around since I've got lots of k's to do and it's getting late.
 
@@ -89,6 +89,3 @@ Signed the papers and walked out the door, so guess I got away with that one.
 The end...of the biking...
 
 Overall it's been a fantastic part of the trip. Met some great people, road some amazing roads and saw some beautiful scenery. I have to say I am pretty relieved to drop the bike off though, will be nice to not have to worry about speeding tickets and bike theft for the rest of the trip.
-
-Photo's are here: [http://picasaweb.google.com/awconstable/](http://picasaweb.google.com/awconstable/)
-Again not so many. Been riding hard.

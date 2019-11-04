@@ -19,17 +19,17 @@ Wake up at 8 and have French toast and home made jam for breakfast.
 
 Jana has Monday's off work and so she's taking us to Sedona. We drop Jana's two girls at a friends house to play while we are out for the day and head on down to towards Sedona. We take the freeway on the way down. The canyons are beautiful and the buildings blend in with the surroundings very well due to tight building regulations.
 
-![Bell Rock](http://lh6.ggpht.com/_9ikV2I29FeI/SRsN4tiE6eI/AAAAAAAACT0/QJ8TeSvERRs/s800/IMG_3015.JPG)
+![Bell Rock](https://lh6.ggpht.com/_9ikV2I29FeI/SRsN4tiE6eI/AAAAAAAACT0/QJ8TeSvERRs/s800/IMG_3015.JPG)
 
 After parking up we take a walking trail with the aim of walking around Bell Rock and Courthouse Butte. We get half way around and stop for a rest and a photo session. When we start up again we loose the trail and end up walking about trying to find it again. Find a smaller trail and keep walking in the general direction. This smaller trail disappears and we head through the scrub looking for signs of the trail again. Walk for 20-30 minutes not finding a trail until we stumble upon a couple having lunch on a rocky outcrop. They point us to the trail and we continue on. We make it back to car after a longer hike than expected, hungry and thirsty. We find a parking ticket on the car, we'd all failed to notice any signs to alert us that we needed to pay (and even on the way out we couldn't spot any). Thankfully the fine was only $5!
 
-![Myself, Di and Jana on the hike](http://lh6.ggpht.com/_9ikV2I29FeI/SRsOBxrXeEI/AAAAAAAACUg/JgsB7XzxaLo/s800/IMG_3029.JPG)
+![Myself, Di and Jana on the hike](https://lh6.ggpht.com/_9ikV2I29FeI/SRsOBxrXeEI/AAAAAAAACUg/JgsB7XzxaLo/s800/IMG_3029.JPG)
 
 Next we drive into Sedona proper and stop at a Mexican cantina for a well earned lunch. I have the special which consists of a large green chili pepper filled with cheese, dipped in egg white and fried. Then covered in cheese and wrapped in a soft tortilla with more cheese on top! Also served with refried and black beans, rice and all the usual trimmings. Di has a chicken 'salad' which is huge. Jana and myself have beers and none of us can finish our huge meals.
 
 Drive back to Jana's picking up the girls on the way. We say our goodbyes and take some courgette cake with us as we need to get to the grand canyon tonight. Would have loved to have stayed longer with Jana and Silas, but there is always next time!
 
-![The Grand Canyon](http://lh5.ggpht.com/_9ikV2I29FeI/SRsOOspPM2I/AAAAAAAACgM/dmJnchHpJEo/s800/IMG_3048.JPG)
+![The Grand Canyon](https://lh5.ggpht.com/_9ikV2I29FeI/SRsOOspPM2I/AAAAAAAACgM/dmJnchHpJEo/s800/IMG_3048.JPG)
 
 We drive to the Grand Canyon and arrive at the east entrance to the south rim just before sunset. We drive along the south rim stopping for photo's and watching the sun set over the Grand Canyon. We reach Grand Canyon village after dark and head over to the Bright Angel Lodge to check in for our mule ride. We get a long speech about what we need to wear and do and collect our ponchos (which are our tickets) and canteens. Also purchase cowboy hats and sunscreen.
 
