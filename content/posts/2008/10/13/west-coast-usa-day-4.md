@@ -32,7 +32,7 @@ We carry on out to Plateau Point for lunch at 11.30am stopping along the way for
 
 After lunch and more photo's we saddle up and start the ride back up. It's starting to get warm again so we remove some layers. Stop again at Indian Garden for a water break. Now we start the proper ascent, there are a lot more people around at this time of day, mostly hikers who are camping in the canyon overnight. Ascent for 2-3 hours stopping regularly to enjoy the view and rest the mules. It gets cold again once we get into the shadow. Near the top we see mountain sheep and lots of tourists. Backsides are pretty soar! 
 
-![Di and myself in the canyon](http://lh6.ggpht.com/_9ikV2I29FeI/SRsOwE9u7VI/AAAAAAAACYQ/LVwLs6Mz3xs/s288/IMG_3102.JPG)
+![Di and myself in the canyon](http://lh6.ggpht.com/_9ikV2I29FeI/SRsOwE9u7VI/AAAAAAAACYQ/LVwLs6Mz3xs/s800/IMG_3102.JPG)
 
 Once at the top we ride into the corral where we 'jump off' and goodbye to the guide and the mules.
 
