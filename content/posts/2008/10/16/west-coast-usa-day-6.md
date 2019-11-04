@@ -36,6 +36,6 @@ It's pitch black before we leave the park and end up getting stuck behind a cara
 
 We drink our beers out on the deck of the cabin wondering about bears and if they're interested enough in our snacks to jump the hand rails. The cabin is very nice, it's set back from the main grounds a little in the woods and the Lodge is a woodland paradise, very peaceful with lots of activities on offer and surrounded by beautiful scenery. We resolve to come back again and stay longer at some point in the future.
 
-![Enjoying a beer at the cabin](http://lh6.ggpht.com/_9ikV2I29FeI/SRsPDLXaZVI/AAAAAAAACZw/pkQXhVA8xgw/s288/IMG_3136.JPG)](http://lh6.ggpht.com/_9ikV2I29FeI/SRsPDLXaZVI/AAAAAAAACZw/pkQXhVA8xgw/s800/IMG_3136.JPG)
+![Enjoying a beer at the cabin](http://lh6.ggpht.com/_9ikV2I29FeI/SRsPDLXaZVI/AAAAAAAACZw/pkQXhVA8xgw/s800/IMG_3136.JPG)
 
 After the beers we stay up a little longer inside the cabin reading and listening to the satellite radio for a while and then get to bed in preparation for our day of walking tomorrow.
