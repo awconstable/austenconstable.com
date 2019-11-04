@@ -29,7 +29,7 @@ Next we drive into Sedona proper and stop at a Mexican cantina for a well earned
 
 Drive back to Jana's picking up the girls on the way. We say our goodbyes and take some courgette cake with us as we need to get to the grand canyon tonight. Would have loved to have stayed longer with Jana and Silas, but there is always next time!
 
-![The Grand Canyon](http://lh5.ggpht.com/_9ikV2I29FeI/SRsOOspPM2I/AAAAAAAACgM/dmJnchHpJEo/s288/IMG_3048.JPG)](http://lh5.ggpht.com/_9ikV2I29FeI/SRsOOspPM2I/AAAAAAAACgM/dmJnchHpJEo/s800/IMG_3048.JPG)
+![The Grand Canyon](http://lh5.ggpht.com/_9ikV2I29FeI/SRsOOspPM2I/AAAAAAAACgM/dmJnchHpJEo/s800/IMG_3048.JPG)
 
 We drive to the Grand Canyon and arrive at the east entrance to the south rim just before sunset. We drive along the south rim stopping for photo's and watching the sun set over the Grand Canyon. We reach Grand Canyon village after dark and head over to the Bright Angel Lodge to check in for our mule ride. We get a long speech about what we need to wear and do and collect our ponchos (which are our tickets) and canteens. Also purchase cowboy hats and sunscreen.
 
