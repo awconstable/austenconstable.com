@@ -26,11 +26,8 @@ The chap from Paddle Wanaka picked us up and drove us the short distance down to
 
 Abby talked is through all of the kit and what we'd be doing today. The tour started from the beach and we'd paddle along the shoreline until with a few different options on the route depending on the weather as we progressed further into the lake.
 
-![fullsizeoutput_9489](../../../images/2018/12/fullsizeoutput_9489.jpeg)![fullsizeoutput_948b](../../../images/2018/12/fullsizeoutput_948b.jpeg)
-
-
-
-
+![fullsizeoutput_9489](../../../images/2018/12/fullsizeoutput_9489.jpeg)
+![fullsizeoutput_948b](../../../images/2018/12/fullsizeoutput_948b.jpeg)
 
 We got changed and put on our skirts and spray jackets and found a paddle each and headed over to the line of kayaks by the waters edge. Alex came with me and Bella teamed up with Diana. We ran through fitting our skirts and what to do if we capsize, having a dry run of pulling off the skirts. Once everyone in the group was sorted we had a push into the water and off we went.
 
@@ -64,7 +61,8 @@ We loved Wanaka so much, it's like a ski reason in summer, (which is pretty much
 
 Abby drove us back to the camp site and we collected the camper, emptying the tanks and securing everything for a long drive. We then went back into town and parked in a side street while we went to find some lunch and visit the supermarket.
 
-![img_3127](../../../images/2019/01/img_3127.jpg)![img_3128](../../../images/2019/01/img_3128.jpg)
+![img_3127](../../../images/2019/01/img_3127.jpg)
+![img_3128](../../../images/2019/01/img_3128.jpg)
 
 Lunch was at a relaxed cafe on the street bordering the lake. I had a Salmon Poke Bowl, which was Salmon sashimi, brown rice, seaweed salad and coleslaw. It was delicious. The kids went for their staple fish and chips and scrambled eggs on toast and Diana had seafood chowder, also delicious.
 
@@ -80,7 +78,8 @@ I thought the odd hair pin bend we'd experienced previously had been a bit hairy
 
 The rest of the drive went smoothly and we pressed on arriving at our camp site in Te Anau just after 7pm. After we'd checked in we found our spot and tried to park the camper, with no luck. We tried 3 different angles but we just couldn't fit without blocking the road - we had pre registered the length of the vehicle beforehand so we were expecting a space that would work for us. I headed back to reception and the chap reassigned us another bigger space (the last one) - he's hoping whoever turns up next is in a smaller van.
 
-![img_3134](../../../images/2019/01/img_3134.jpg)![img_3133](../../../images/2019/01/img_3133.jpg)
+![img_3134](../../../images/2019/01/img_3134.jpg)
+![img_3133](../../../images/2019/01/img_3133.jpg)
 
 Once parked up we had a quick appero and opened a bottle of bubbles while I fired up the bbq and got cooking. We were right next to the play ground so the children were off even before we'd come to a stand still.
 

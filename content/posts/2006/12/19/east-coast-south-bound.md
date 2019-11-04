@@ -17,7 +17,7 @@ tags:
 
 Final score: 9 days, 3268 km's, 2 x Speeding fines, 1 x Dropped bike, 1 x Deep sand incident, some really really really amazing riding and some pretty boring freeway
 
-Day 6
+## Day 6
 
 Wake up about 5ish on account of the heat and light in the tent and get up for a swim. Seaweed seems to have overtaken the beach overnight and so don't really fancy it in the end and settle for a shower. Pack up the bike and walk into town to get a large hangover relieving breakfast. Take the back roads south heading for Brisbane. Take a tourist drive which sounds nice and turns out the be the one I went on before which was a waste of time. Doh! Get back on the freeway and head towards Byron Bay. Pretty boring freeway riding but just want to get back to Byron for the night.
 
@@ -29,7 +29,7 @@ Head over to The Rails again and drank with some locals. Met two backpackers fro
 
 Loved Byron Bay. Will have to come back for longer in the future.
 
-Day 7
+## Day 7
 
 Get back to my hotel room at 8.30am just in time for shower and power nap before riding the 400k to Armidale.
 
@@ -37,7 +37,7 @@ Take a route recommended by a biker I met on the way North. Lots of waterfalls a
 
 Stop at a waterfall for some photo's and take a power nap on a picnic bench.
 
-[![](http://lh5.google.com/image/awconstable/RYckK2nesFI/AAAAAAAAAwY/F5WgQpVOOUM/s288/IMG_1664.jpg)](http://lh5.google.com/image/awconstable/RYckK2nesFI/AAAAAAAAAwY/F5WgQpVOOUM/s288/IMG_1664.jpg)
+![](http://lh5.google.com/image/awconstable/RYckK2nesFI/AAAAAAAAAwY/F5WgQpVOOUM/s800/IMG_1664.jpg)
 
 About 20k's out from Arimadale I'm cruising along about 120km/h down a hill when a police car comes into view. Shit! Slow down but have no idea what the speed limit is on this road. Keep riding and praying that he's gonna keep going and not turn around. Not to be. He turns around and follows me for a while before pulling me over. I guess they follow you for a while in case you try to peg it so they can have some sport.
 He takes my license and spends a long time in his patrol car. I'm starting to think he's found out about my other misdemeanor and is getting the hand cuffs ready.
@@ -51,7 +51,7 @@ Wander into town to get some food, only to find the town deserted, guess Sunday'
 
 Take an early night. I needed it!
 
-Day 8
+## Day 8
 
 Take a look at the map and realise that there isn't a lot between here and Sydney. Decide to try and make it all the way and take a day trip to the Blue Mountains tomorrow.
 
@@ -59,11 +59,11 @@ Really try very hard for the first hour to stick within the speed limit. Get so 
 
 Ride through lots of small towns and nice national parks. Roads are good although the road surface is atrocious at times, especially on bends! Get some great riding up and down the hills of the national parks and scrap the GS's pegs on a few corners.
 
-[![](http://lh6.google.com/image/awconstable/RYclNGnesPI/AAAAAAAAAxo/PMJKBRUe7_w/s288/IMG_1674.jpg)](http://lh6.google.com/image/awconstable/RYclNGnesPI/AAAAAAAAAxo/PMJKBRUe7_w/s288/IMG_1674.jpg)
+![](http://lh6.google.com/image/awconstable/RYclNGnesPI/AAAAAAAAAxo/PMJKBRUe7_w/s800/IMG_1674.jpg)
 
 About 200k out of Sydney I head for Wollemi National Park because it looks like good riding country only to divert when I see signs for the Hunter Valley where they make lots of wine.
 
-[![](http://lh6.google.com/image/awconstable/RYcljGnesUI/AAAAAAAAAyQ/-F6XqqSN3OE/s288/IMG_1679.jpg)](http://lh6.google.com/image/awconstable/RYcljGnesUI/AAAAAAAAAyQ/-F6XqqSN3OE/s288/IMG_1679.jpg)
+![](http://lh6.google.com/image/awconstable/RYcljGnesUI/AAAAAAAAAyQ/-F6XqqSN3OE/s800/IMG_1679.jpg)
 
 Hunter is nice and mean to stop and buy some wine but get the "I'll just stop at the next one" syndrome until I run out of Vineyards, which are called Winery's here...is that even a word? Can't be bothered to turn around since I've got lots of k's to do and it's getting late.
 
@@ -74,7 +74,7 @@ Roads are getting pretty congested and the speed limit is also very low. Most of
 
 Get back to Craig and Caitlin's house in the dark doing a total of 690ish km's! Originally thought that Ewan and Charlie had it pretty easy on their round the world trip, but these guys did the same 600 odd k's a day for 3 months and on some roads a lot worse than this...gotta give them some respect for that.
 
-Day 9
+## Day 9
 
 Leave for the Blue Mountains around 11 without the panniers and cruise along the road the guide book recommended. Potentially pretty good riding and it is for a while, but most of the roads have the boring 60km/h speed limit and I don't feel like getting another ticket.
 

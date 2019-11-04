@@ -21,7 +21,7 @@ Set out from Sydney pretty late in the day on Monday and headed over the harbour
 
 Rode for most of the day nipping off the highway for "Tourist Drives" which are pretty good in NSW. Pass a nice view and head down the hill to turn around. Take the junction slow since I'm still getting used to all the weight and manage to stall the bike whilst pulling out. Tried to catch it but too heavy and positioned in the wrong way so it goes down. Oops! Had to flag down a friendly local to help pick the beast up again. Few dings and scratches on the engine block but nothing too serious. The view was rubbish when I finally got back to look.
 
-![](http://lh6.google.com.au/image/awconstable/RYclWGnesRI/AAAAAAAAAx4/VZK_xltgLLs/s288/IMG_1676.jpg)
+![](http://lh6.google.com.au/image/awconstable/RYclWGnesRI/AAAAAAAAAx4/VZK_xltgLLs/s800/IMG_1676.jpg)
 
 Head on over towards seal rocks. Just as it's starting to get dark the road disappears and turns into loose gravel. Not the best surface for motorbikes! Especially in the dark. Was also running rather low on fuel, just another minor problem... Stand around for a few minutes pondering the situation. Decide to screw it and ride on, can't be that far and this is an adventure after all. Get to seal rocks after a few k's of hills and dodgy bends to find that I had in fact confused it with the next nights stop and there was only camping. Which would have been fine, except I had decided to leave Craig's tent with him because it was too big.
 Ride back out feeling more confident now that I've taken my sun glasses off and can see the road ;)
@@ -29,13 +29,13 @@ Ride back out feeling more confident now that I've taken my sun glasses off and 
 Ride on through the forest in the dark towards what I'm hoping is a large enough town to have a late opening petrol station. All the time thinking about the rather frequent use of Kangaroo signs and lack of bull bars on motorbikes.
 End up staying in a motel in a small town called Forster-Tuncurry with not alot going on, so early night.
 
-## Day 2
+## Day 2
 
 Heading for Byron Bay today. Mostly freeway riding since I want to get there and it's a long ride. Take a few tourist drives but mostly freeway. The 1200GS comes into it's own. This thing can just EAT road like nothing. The only problem is the ridiculously low speed limit. I mean you can't get far in a country this size at 100km/h can you? Keep roughly within the limit. Give or take 50km/h or so...
 
 Stop for a stretch and bump into Joff, an English guy riding a PENNY FARTHING around the world! Crazy. Stop and chat to him and another chap and his family for a while. Seems like a nice guy and would have loved to have camped there with him for the night but still have lots of road to ride. I'm sure he's got a few stories to tell. Check him out at [http://www.pennyfarthingworldtour.com/](http://www.pennyfarthingworldtour.com/)
 
-![](http://lh4.google.com.au/image/awconstable/RYcc-mneq6I/AAAAAAAAAnI/D9KIg6R8neI/s288/IMG_1590.jpg)
+![](http://lh4.google.com.au/image/awconstable/RYcc-mneq6I/AAAAAAAAAnI/D9KIg6R8neI/s800/IMG_1590.jpg)
 
 Stop in K-Mart to buy a tent. Typically the smallest they have is 3 man and the same size as the one I left in Sydney. Sigh.
 
@@ -50,7 +50,7 @@ Love this place, think I will try and come back on the way back down.
 Get up late with a hangover and head on down to the beach for a swim and a little sun. Take a while to dry off in the sun and then grab some brekkie. Feeling much better.
 Ride out towards Nightcap National Park, the guide book has a great picture in it so find out what it's all about. Turns into the BEST ride so far. I actually got to ride into the rain forest on a dirt track, amazing. Rode into the national park and leave the bike to hike to nearby Protesters Falls (On account of the logging protests in the 70's). Walking in the rain forest is something else. The scales everything works on is just mind blowing. There's these massive tree's at one end and tiny ants crawling up them at the other. It's just a magical place that I really can't understand why anyone would want chop it down.
 
-![](http://lh4.google.com.au/image/awconstable/RYcdcmnerBI/AAAAAAAAAoA/raGIqKk4Frs/s288/IMG_1597.jpg)
+![](http://lh4.google.com.au/image/awconstable/RYcdcmnerBI/AAAAAAAAAoA/raGIqKk4Frs/s800/IMG_1597.jpg)
 
 Spent pretty much the whole day on that detour, but it was definitely worth it. Finally got back to the freeway to make some progress after the best day on the bike yet. Just out of this world.
 

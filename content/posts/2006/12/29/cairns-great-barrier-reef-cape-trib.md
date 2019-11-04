@@ -36,7 +36,7 @@ Tribulation. Spent the rest of the day swimming in the salt water lagoon and sun
 bathing before going out for Mexican food. Had a massive meal and drank lots of
 margarita's while calling the office to defuse a few issues.
 
-The Great Barrier Reef
+## The Great Barrier Reef
 
 Early start for the Reef from the pier. Travelling on a smallish boat with
 about 10 other people which seems like a good size party. Some of the
@@ -48,7 +48,7 @@ whilst I waited for my groups turn to dive. The Cay is reserved for
 40,000 or so wild birds. The smell was pretty bad, not what I was quite
 expecting!
 
-![Diving on the great barrier reef](http://lh6.google.co.uk/image/awconstable/RZ4r2CVjdhI/AAAAAAAAA88/i3O8pxt7SWc/s288/F1000007.JPG)
+![Diving on the great barrier reef](http://lh6.google.co.uk/image/awconstable/RZ4r2CVjdhI/AAAAAAAAA88/i3O8pxt7SWc/s800/F1000007.JPG)
 
 Amazing to be actually on the reef! I have been talking about this for so long.
 The guides throw food into the ocean around the boat while we're snorkelling so loads of fish come and greet us.
@@ -94,7 +94,7 @@ an Irish pub. They're playing all covers mostly but all my kind of
 music. Reminds me that I haven't listened to anything for weeks, should
 have bought my iPod with me, but the battery life is rubbish...might have to look into buying myself an Xmas present...
 
-Cape Tribulation
+## Cape Tribulation
 
 Rolled out of bed into the tour bus at 7am and we headed towards Cape Tribulation and the Rain Forest.
 

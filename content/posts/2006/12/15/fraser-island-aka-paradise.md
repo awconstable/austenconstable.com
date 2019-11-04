@@ -28,26 +28,26 @@ Take a walk around a creek at Central Station with it's crystal clear water and 
 
 Stop to walk up a Eli Creek which is brilliant in the clear water and feels tropical.
 
-![](http://lh5.google.com.au/image/awconstable/RYchW2nereI/AAAAAAAAArk/McLgWGLUbew/s288/IMG_1626.jpg)
+![](http://lh5.google.com.au/image/awconstable/RYchW2nereI/AAAAAAAAArk/McLgWGLUbew/s800/IMG_1626.jpg)
 
 Next stop is the ship wreck. A boat bought by the Japanese which go into trouble in a storm on the way back to Japan and ended up here. Ozzie air force used it for target practice so not much left of it really.
 
-![](http://lh4.google.com.au/image/awconstable/RYch-mneroI/AAAAAAAAAs0/zuUfBgIeifc/s288/IMG_1636.jpg)
+![](http://lh4.google.com.au/image/awconstable/RYch-mneroI/AAAAAAAAAs0/zuUfBgIeifc/s800/IMG_1636.jpg)
 
 Head on up the beach and stop to look at the coloured sands. Some people get back on the bus while myself and a few others take a plane ride over the island. Fantastic! What can I say? The photo's will say it all...
 
-![](http://lh3.google.com.au/image/awconstable/RYciWWnertI/AAAAAAAAAtc/TIUZ0GdevIg/s288/IMG_1641.jpg)
+![](http://lh3.google.com.au/image/awconstable/RYciWWnertI/AAAAAAAAAtc/TIUZ0GdevIg/s800/IMG_1641.jpg)
 
-![](http://lh6.google.com.au/image/awconstable/RYcizGner1I/AAAAAAAAAuc/4vTtmxA406c/s288/IMG_1649.jpg)
+![](http://lh6.google.com.au/image/awconstable/RYcizGner1I/AAAAAAAAAuc/4vTtmxA406c/s800/IMG_1649.jpg)
 
 Land back down the beach and pick up the bus for lunch with Charlie, guy from Sheffield I met on the bus, and a couple of backpacker girls from Ipswich.
 
-![](http://lh5.google.com.au/image/awconstable/RYcjk2ner9I/AAAAAAAAAvc/s-0VGIFwHlc/s288/IMG_1657.jpg)
+![](http://lh5.google.com.au/image/awconstable/RYcjk2ner9I/AAAAAAAAAvc/s-0VGIFwHlc/s800/IMG_1657.jpg)
 
 After lunch it's a 30 min ride up to Lake McKenzie and the highlight of the trip. The Aborigine name for the island roughly translates into paradise and this freshwater lake explains it.
 It's totally isolated at the top of a massive sand hill surrounded by rain forest. There's no streams or water coming in or going out, apart from rainwater and evaporation, so no plant or animal life. Which means crystal clear waters and great swimming. Perfect sandy beaches with the best sand...paradise! Swim for half an hour then it's back on the bus to catch the last ferry to the main land.
 
-![Paradise](http://lh5.google.com.au/image/awconstable/RYcjv2nesAI/AAAAAAAAAv0/znQZZ5s_GRA/s288/IMG_1660.jpg)
+![Paradise](http://lh5.google.com.au/image/awconstable/RYcjv2nesAI/AAAAAAAAAv0/znQZZ5s_GRA/s800/IMG_1660.jpg)
 
 What a day!
 
