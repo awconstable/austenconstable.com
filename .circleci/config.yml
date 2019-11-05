@@ -105,6 +105,7 @@ build_web_job: &build_web_job
   steps:
     - checkout
     - run: sudo npm install -g gatsby-cli@2.8.8
+    - run: sudo apt-get -y install ruby
     - run: mkdir public
     - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
     - run: npm install
