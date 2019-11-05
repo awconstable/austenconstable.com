@@ -118,7 +118,8 @@ build_web_job: &build_web_job
         name: Validate with htmlproofer
         command: |
           htmlproofer public --allow-hash-href --check-html \
-          --empty-alt-ignore --disable-external
+          --empty-alt-ignore --disable-external \
+          --file-ignore public/offline-plugin-app-shell-fallback/index.html
     - persist_to_workspace:
           root: *working_directory
           paths:
