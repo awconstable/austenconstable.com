@@ -16,18 +16,18 @@ During our family beach holiday to Mexico we took the opportunity to visit Chich
 
 ## Chichén Itzá
 
-![](../../../images/2018/08/unadjustednonraw_thumb_ed4a.jpg)
+![](../images/2018/08/unadjustednonraw_thumb_ed4a.jpg)
 
-![](../../../images/2018/08/unadjustednonraw_thumb_ed58.jpg)
+![](../images/2018/08/unadjustednonraw_thumb_ed58.jpg)
 
-![](../../../images/2018/08/unadjustednonraw_thumb_ed5d.jpg)
+![](../images/2018/08/unadjustednonraw_thumb_ed5d.jpg)
 
-![](../../../images/2018/08/unadjustednonraw_thumb_ed75.jpg)
+![](../images/2018/08/unadjustednonraw_thumb_ed75.jpg)
 
-![](../../../images/2018/08/unadjustednonraw_thumb_ed79.jpg)
+![](../images/2018/08/unadjustednonraw_thumb_ed79.jpg)
 
 ## Cenote Hubiku
 
-![Swimming in Cenote Hubiku with the Catfish](../../../images/2018/08/ihjyw7npso6kbwwjjrpl2q_thumb_ed49.jpg)
+![Swimming in Cenote Hubiku with the Catfish](../images/2018/08/ihjyw7npso6kbwwjjrpl2q_thumb_ed49.jpg)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1E5aJMkA6q0EabKOXTLd8wdy1jv-lYWlt" width="640" height="480"></iframe>

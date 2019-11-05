@@ -20,31 +20,31 @@ Christmas Day and a 4am start, not due to the children but to catch the ferry to
 
 The kids opened their presents from Craig and Caitlin (Father Christmas delivered to our home in London) and they were really pleased. Alex got some Lego and Bella, The Game Of Life board game. Cold pizza for early breakfast and then we set off.
 
-![](../../../images/2018/12/img_2601.jpg)![](../../../images/2018/12/img_2606.jpg)![](../../../images/2018/12/img_2603.jpg)
+![](../images/2018/12/img_2601.jpg)![](../images/2018/12/img_2606.jpg)![](../images/2018/12/img_2603.jpg)
 
-![](../../../images/2018/12/img_0054.jpg)
+![](../images/2018/12/img_0054.jpg)
 
 We drove the 10mins to the ferry terminal and queue to check in. 3rd in line so plenty of time for the 6:30am.
 
-![](../../../images/2018/12/img_0055.jpg)
+![](../images/2018/12/img_0055.jpg)
 
 Bella entered and won the colouring competition on board the ferry, the prize was 10 NZD to spend on board. She bought a lovely kiwi necklace.
 
 The crossing was 3.5 hours sovthe kids also had the chance to watch a movie at the on board theatre - the grinch which the kids of course loved.
 
-![](../../../images/2018/12/img_2609.jpg)![](../../../images/2018/12/img_0056.jpg)
+![](../images/2018/12/img_2609.jpg)![](../images/2018/12/img_0056.jpg)
 
 Diana and I read and watched the rain.
 
-![](../../../images/2018/12/img_0059.jpg)
+![](../images/2018/12/img_0059.jpg)
 
 Once off the ferry we stopped at a camper dump site and refreshed the tanks and then on to a rest stop to have showers and get ready for lunch.
 
-![](../../../images/2018/12/img_0064.jpg)![](../../../images/2018/12/9e8dde7d-7c15-4088-9d5a-bdd6934c6f5f.jpg)
+![](../images/2018/12/img_0064.jpg)![](../images/2018/12/9e8dde7d-7c15-4088-9d5a-bdd6934c6f5f.jpg)
 
 12pm lunch at Hanz Hergog winery. Really nice. Ravioli, pork belly and trifle. Chicken and chips for the kids. 4 wines paired with the meal. No Christmas cracker but all delicious and a pleasant atmosphere.
 
-![](../../../images/2018/12/img_2617.jpg)![](../../../images/2018/12/img_2619.jpg)![](../../../images/2018/12/img_0071.jpg)![](../../../images/2018/12/img_0073.jpg)![](../../../images/2018/12/img_0080.jpg)
+![](../images/2018/12/img_2617.jpg)![](../images/2018/12/img_2619.jpg)![](../images/2018/12/img_0071.jpg)![](../images/2018/12/img_0073.jpg)![](../images/2018/12/img_0080.jpg)
 
 Afterwards it was a 10min drive back the way we'd came to the camp site. The office was closed but map of where we were staying was on display. We parked up, Alex finished his Lego and we played UNO while it continued to rain as it had been all day!
 
@@ -54,7 +54,7 @@ Moved onto Its a game of life afterwards which was really good fun and the kids 
 
 Afterwards the kids played outside in the rain while I read and Diana had a nap.
 
-![](../../../images/2018/12/img_0093.jpg)
+![](../images/2018/12/img_0093.jpg)
 
 The girl who lives at the camp site showed us the eels that live in the river, massive. They really enjoyed their meal of left over chicken.
 
