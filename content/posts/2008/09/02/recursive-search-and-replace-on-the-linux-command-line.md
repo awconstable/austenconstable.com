@@ -5,7 +5,7 @@ date: 2008-09-02 15:35:16+00:00
 layout: post
 link: http://austenconstable.com/?p=58
 published: false
-slug: recursive-search-and-replace-on-the-linux-command-line
+slug: 2008-09-02-recursive-search-and-replace-on-the-linux-command-line
 title: 'HOWTO: Recursive search and replace on the Linux command line'
 wordpress_id: 58
 categories:

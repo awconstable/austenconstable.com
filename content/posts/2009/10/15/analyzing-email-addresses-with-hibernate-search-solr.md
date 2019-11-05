@@ -5,7 +5,7 @@ date: 2009-10-15 16:02:25+00:00
 layout: post
 link: http://austenconstable.com/?p=229
 published: false
-slug: analyzing-email-addresses-with-hibernate-search-solr
+slug: 2009-10-15-analyzing-email-addresses-with-hibernate-search-solr
 title: Analysing email addresses with Hibernate Search & Solr
 wordpress_id: 229
 categories:

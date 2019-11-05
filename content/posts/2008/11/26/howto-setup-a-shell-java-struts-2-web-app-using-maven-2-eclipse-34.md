@@ -5,7 +5,7 @@ date: 2008-11-26 16:17:16+00:00
 layout: post
 link: http://austenconstable.com/?p=180
 published: false
-slug: howto-setup-a-shell-java-struts-2-web-app-using-maven-2-eclipse-34
+slug: 2008-11-26-howto-setup-a-shell-java-struts-2-web-app-using-maven-2-eclipse-34
 title: 'HOWTO: Setup a shell Java Struts 2 web app using Maven 2 & Eclipse 3.4'
 wordpress_id: 180
 categories:
