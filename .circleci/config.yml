@@ -113,7 +113,7 @@ build_web_job: &build_web_job
     - run:
         name: Install htmlproofer
         command: |
-          gem install html-proofer
+          sudo gem install html-proofer
     - run:
         name: Validate with htmlproofer
         command: |
