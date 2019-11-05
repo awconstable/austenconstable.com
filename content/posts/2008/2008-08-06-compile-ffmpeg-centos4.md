@@ -131,5 +131,4 @@ I'm not convinced that this is the [correct thing](http://xahlee.org/UnixResourc
 
 ## Additional resources
 
-[http://www.nazly.net/index.php?page=showevents&selTopic=230](http://www.nazly.net/index.php?page=showevents&selTopic=230)
 [http://www.tuxmachines.org/node/17063](http://www.tuxmachines.org/node/17063)

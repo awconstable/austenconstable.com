@@ -19,7 +19,7 @@ tags:
 
 The latest project I'm working on is a Java web app using Struts 2. I wanted to use the eclipse IDE since it's industry standard and the Maven 2 build system for compatibility with other company projects.
 
-I did plenty of reading ([Maven: The Definitive Guide](http://books.sonatype.com/maven-book/) is a good place to start), but nowhere did I find an easy step-by-step quickstart for this combination of tools.
+I did plenty of reading, but nowhere did I find an easy step-by-step quickstart for this combination of tools.
 
 So I've pieced my reading and research together and here it is:
 
