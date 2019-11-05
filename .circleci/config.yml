@@ -110,6 +110,10 @@ build_web_job: &build_web_job
     - run: npm install
     - run: gatsby build
     - run:
+        name: Install htmlproofer
+        command: |
+          gem install html-proofer
+    - run:
         name: Validate with htmlproofer
         command: |
           htmlproofer public --allow-hash-href --check-html \
