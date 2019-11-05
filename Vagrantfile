@@ -39,7 +39,7 @@ Vagrant.configure(2) do |config|
 
     sudo apt-get update
 
-    sudo apt-get -y install docker-ce docker-compose ruby
+    sudo apt-get -y install docker-ce docker-compose ruby ruby-dev build-essential patch zlib1g-dev liblzma-dev
 
     sudo usermod -aG docker vagrant
 
