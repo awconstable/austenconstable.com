@@ -57,5 +57,5 @@ Using this approach we have a really lightweight way to version releases which d
 
 ## References
 
-<https://stackoverflow.com/questions/42044160/gradle-equivalent-of-maven-versions-plugin>
-<https://axelfontaine.com/blog/maven-releases-steroids.html>
+* <https://stackoverflow.com/questions/42044160/gradle-equivalent-of-maven-versions-plugin>
+* <https://axelfontaine.com/blog/maven-releases-steroids.html>
