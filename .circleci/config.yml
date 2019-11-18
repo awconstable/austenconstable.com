@@ -104,7 +104,7 @@ build_web_job: &build_web_job
   working_directory: *working_directory
   steps:
     - checkout
-    - run: sudo npm install -g gatsby-cli@2.8.8
+    - run: sudo npm install -g gatsby-cli@2.8.11
     - run: sudo apt-get -y install ruby ruby-dev build-essential patch zlib1g-dev liblzma-dev
     - run: mkdir public
     - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
