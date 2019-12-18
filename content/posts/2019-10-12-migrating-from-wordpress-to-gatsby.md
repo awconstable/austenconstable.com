@@ -4,15 +4,16 @@ comments: true
 date: 2019-10-12
 layout: post
 slug: 2019-10-12-migrating-from-wordpress-to-gatsby
-title: Migrating from WorkPress.com to Gatsby, CircleCI and AWS Hosting
+title: Migrating from WorkPress.com to Gatsby, CircleCI and AWS Hosting - Part 1
 categories:
 - Code
 tags:
 - blog
 - gatsby
+- JAMStack
 ---
 
-It's my WordPress.com renewal time and whilst the service has been fine the whole paradigm and technical approach is a little dated. There's also some great free or very cheap services for personal site hosting out there and my preference is to have everything under source control and to follow CI/CD principles. There’s also a whole raft of static site generators which have matured significantly over the last few years which enable the above - so now seems like as good a time as any to migrate away.
+It's my WordPress.com renewal time and whilst the service has been fine the whole paradigm and technical approach is a little dated. There's also some great free or very cheap services for personal site hosting out there and my preference is to have everything under source control and to follow CI/CD principles. The JAMStack movement has really matured significantly and there’s a whole raft of static site generators which enable the above - so now seems like as good a time as any to migrate away.
 
 ## Requirements
 
@@ -28,9 +29,26 @@ It's my WordPress.com renewal time and whilst the service has been fine the whol
   * Existing comments must migrate
   * The migration must not require lots of manual change. i.e. it's scripted
 
+I selected Gatsby because it has a mature offering which continues to be maintained, an active community and I wanted to learn more about JavaScript and React.
+
+## Install Gatsby
+
+```bash
+brew install node gatsby-cli
+```
+
+## Install Gatsby Starter Blog
+
+```bash
+# create a new Gatsby site using the blog starter
+gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
+cd my-blog-starter/
+gatsby develop
+```
+
 ## Switch all WordPress Gallery photo's to individual images
 
-TIP: to save looking through each of your posts. Complete steps 1 and 2 below and then run the following on the Markdown output:
+TIP: to save looking through each of your posts. Complete the next 2 steps below and then run the following on the Markdown output:
 
 ```bash
 grep -l '\[gallery' *
@@ -48,6 +66,8 @@ grep -l '\[gallery' *
 ## Move and rename Markdown files
 
 From the output directory of ExitWP use the following script to move posts to a directory structure which preserves WordPress' url scheme.
+
+_Update 06/11/2019: I misunderstood the role of directories in url scheme. In fact the url is specified by the slug in Front Matter. Ultimately I did change my url schema for simplicity. The bash script below may still be useful to organise your posts._
 
 ```bash
 #!/bin/bash
@@ -90,7 +110,7 @@ mv images/* static/images/
 ## Switch your posts to use the local images rather than WordPress hosted
 
 ```bash
-find . -type f -exec sed -i '' 's=https://austenconstable.files.wordpress.com=../../../images=g' {} \;
+find . -type f -exec sed -i '' 's=https://austenconstable.files.wordpress.com=../images=g' {} \;
 ```
 
 ## Manually update any captions
@@ -109,4 +129,16 @@ find . -type f -exec sed -i '' 's/w=425&h=350\]/w=425&h=350" width="425" height=
 find . -type f -exec sed -i '' 's/h=350\]h=350/h=350/g' {} \;
 ```
 
-Wait for part 2 for deployment and remote updates via iOS.
+## Run up Gatsby
+
+Now we have the content in place it's time to run up Gatsby
+
+```bash
+gatsby develop
+```
+
+Navigate to [http://localhost:8000](http://localhost:8000) and you should see your new blog!
+
+---
+
+In [part two](/2019-11-06-migrating-to-gatsby-part2) we'll finish the migration and build a continuous deployment pipeline to deploy to production.
