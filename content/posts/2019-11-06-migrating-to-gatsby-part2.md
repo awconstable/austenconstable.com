@@ -91,7 +91,7 @@ See the CircleCI config [here](https://github.com/awconstable/austenconstable.co
 
 ## Migrate my custom domain
 
-In order to move my custom domain name ([austenconstable.com](austenconstable.com)) to AWS the following steps were required:
+In order to move my custom domain name ([austenconstable.com](/)) to AWS the following steps were required:
 
 1. Remove custom domain from WordPress
 1. Migrate domain hosting to Google Domains
