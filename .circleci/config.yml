@@ -177,15 +177,14 @@ workflows:
       - infra_apply:
           requires:
             - infra_plan
-      - app_build_web:
-          requires:
-            - infra_apply
+      - app_build_web
       - app_test_web:
           requires:
             - app_build_web
       - app_deploy_web:
           requires:
             - app_test_web
+            - infra_apply
 
 jobs:
   infra_build:
