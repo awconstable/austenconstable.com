@@ -3,7 +3,6 @@ version: 2.1
 orbs:
   aws-s3: circleci/aws-s3@1.0.8
   aws-cli: circleci/aws-cli@0.1.13
-  hugo: circleci/hugo@0.4.1
 
 commands:
   terraform_environment:
@@ -122,13 +121,15 @@ test_web_job: &test_web_job
   steps:
     - attach_workspace:
         at: *working_directory
-    - hugo/html-proofer:
-        path: public
-        allow-hash-href: true
-        check-html: true
-        empty-alt-ignore: true
-        disable-external: true
-        file-ignore: offline-plugin-app-shell-fallback/index.html
+    - run:
+        name: Validate with htmlproofer
+        command: |
+          htmlproofer public \
+          --allow-hash-href \
+          --check-html \
+          --empty-alt-ignore \
+          --disable-external \
+          --file-ignore public/offline-plugin-app-shell-fallback/index.html
 
 deploy_web_job: &deploy_web_job
   docker:
