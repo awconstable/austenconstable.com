@@ -117,7 +117,7 @@ build_web_job: &build_web_job
 
 test_web_job: &test_web_job
   docker:
-    - image: cibuilds/base
+    - image: 'cibuilds/hugo:0.61'
   working_directory: *working_directory
   steps:
     - attach_workspace:
