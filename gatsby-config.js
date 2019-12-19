@@ -93,6 +93,12 @@ module.exports = {
         ]
       }
     },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://austenconstable.com`,
+      },
+    },
   ],
   // Customize your site metadata:
   siteMetadata: {
