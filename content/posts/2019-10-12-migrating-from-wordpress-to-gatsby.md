@@ -4,7 +4,7 @@ comments: true
 date: 2019-10-12
 layout: post
 slug: 2019-10-12-migrating-from-wordpress-to-gatsby
-title: Migrating from WorkPress.com to Gatsby, CircleCI and AWS Hosting - Part 1
+title: Migrating from WordPress.com to Gatsby, CircleCI and AWS Hosting - Part 1
 categories:
 - Code
 tags:
