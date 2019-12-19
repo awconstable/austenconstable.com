@@ -129,7 +129,8 @@ test_web_job: &test_web_job
           --check-html \
           --empty-alt-ignore \
           --disable-external \
-          --file-ignore public/offline-plugin-app-shell-fallback/index.html
+          --file-ignore public/offline-plugin-app-shell-fallback/index.html \
+          --log-level
 
 deploy_web_job: &deploy_web_job
   docker:
