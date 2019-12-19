@@ -3,6 +3,7 @@ version: 2.1
 orbs:
   aws-s3: circleci/aws-s3@1.0.8
   aws-cli: circleci/aws-cli@0.1.13
+  hugo: circleci/hugo@0.4.1
 
 commands:
   terraform_environment:
@@ -105,25 +106,29 @@ build_web_job: &build_web_job
   steps:
     - checkout
     - run: sudo npm install -g gatsby-cli@2.8.19
-    - run: sudo apt-get -y install ruby ruby-dev build-essential patch zlib1g-dev liblzma-dev
     - run: mkdir public
     - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
     - run: npm install
     - run: gatsby build
-    - run:
-        name: Install htmlproofer
-        command: |
-          sudo gem install html-proofer
-    - run:
-        name: Validate with htmlproofer
-        command: |
-          htmlproofer public --allow-hash-href --check-html \
-          --empty-alt-ignore --disable-external \
-          --file-ignore public/offline-plugin-app-shell-fallback/index.html
     - persist_to_workspace:
           root: *working_directory
           paths:
             - public
+
+test_web_job: &test_web_job
+  docker:
+    - image: cibuilds/base
+  working_directory: *working_directory
+  steps:
+    - attach_workspace:
+        at: *working_directory
+    - hugo/html-proofer
+        path: public
+        allow-hash-href: true
+        check-html: true
+        empty-alt-ignore: true
+        disable-external: true
+        file-ignore: offline-plugin-app-shell-fallback/index.html
 
 deploy_web_job: &deploy_web_job
   docker:
@@ -161,6 +166,7 @@ deploy_web_job: &deploy_web_job
           else \
             aws cloudfront create-invalidation --distribution-id ${STAGING_CDN_DISTRIBUTION_ID} --paths "/*"; \
           fi
+
 workflows:
   build_deploy:
     jobs:
@@ -174,9 +180,12 @@ workflows:
       - app_build_web:
           requires:
             - infra_apply
-      - app_deploy_web:
+      - app_test_web:
           requires:
             - app_build_web
+      - app_deploy_web:
+          requires:
+            - app_test_web
 
 jobs:
   infra_build:
@@ -216,6 +225,9 @@ jobs:
 
   app_build_web:
     <<: *build_web_job
+
+  app_test_web:
+    <<: *test_web_job
 
   app_deploy_web:
     <<: *deploy_web_job
