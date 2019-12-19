@@ -122,7 +122,7 @@ test_web_job: &test_web_job
   steps:
     - attach_workspace:
         at: *working_directory
-    - hugo/html-proofer
+    - hugo/html-proofer:
         path: public
         allow-hash-href: true
         check-html: true
