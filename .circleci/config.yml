@@ -130,7 +130,7 @@ test_web_job: &test_web_job
           --empty-alt-ignore \
           --disable-external \
           --file-ignore public/offline-plugin-app-shell-fallback/index.html \
-          --log-level
+          --log-level :debug
 
 deploy_web_job: &deploy_web_job
   docker:
