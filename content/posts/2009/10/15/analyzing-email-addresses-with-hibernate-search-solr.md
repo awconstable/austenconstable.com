@@ -9,7 +9,7 @@ slug: 2009-10-15-analyzing-email-addresses-with-hibernate-search-solr
 title: Analysing email addresses with Hibernate Search & Solr
 wordpress_id: 229
 categories:
-- Java
+- Code
 tags:
 - Hibernate
 - Lucene

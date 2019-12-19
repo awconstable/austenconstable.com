@@ -6,7 +6,6 @@ layout: post
 slug: 2008-08-06-howto-compile-ffmpeg-centos4
 title: 'HOWTO: Compiling the latest FFmpeg & x264 on CentOS 4'
 categories:
-- HOWTO
 - Linux
 tags:
 - FLV

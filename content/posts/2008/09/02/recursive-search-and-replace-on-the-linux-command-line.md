@@ -9,7 +9,6 @@ slug: 2008-09-02-recursive-search-and-replace-on-the-linux-command-line
 title: 'HOWTO: Recursive search and replace on the Linux command line'
 wordpress_id: 58
 categories:
-- HOWTO
 - Linux
 tags:
 - grep

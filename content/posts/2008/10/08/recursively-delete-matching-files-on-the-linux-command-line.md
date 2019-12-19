@@ -9,7 +9,6 @@ slug: 2008-10-08-recursively-delete-matching-files-on-the-linux-command-line
 title: 'HOWTO: Recursively delete matching files on the Linux command line'
 wordpress_id: 67
 categories:
-- HOWTO
 - Linux
 tags:
 - find
