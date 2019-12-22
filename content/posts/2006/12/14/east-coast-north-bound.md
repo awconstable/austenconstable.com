@@ -4,7 +4,7 @@ comments: true
 date: 2006-12-14 06:44:00+00:00
 layout: post
 slug: 2006-12-14-east-coast-north-bound
-title: East Coast - North bound
+title: Australia - East Coast - North bound
 categories:
 - Travel
 tags:

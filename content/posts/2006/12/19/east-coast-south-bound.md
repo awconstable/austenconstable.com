@@ -5,7 +5,7 @@ date: 2006-12-19 05:55:00+00:00
 layout: post
 link: http://austenconstable.com/2006/12/19/east-coast-south-bound/
 slug: 2006-12-19-east-coast-south-bound
-title: East Coast - South bound
+title: Australia - East Coast - South bound
 wordpress_id: 18
 categories:
 - Travel
