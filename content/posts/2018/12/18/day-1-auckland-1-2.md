@@ -5,7 +5,7 @@ date: 2018-12-18 09:15:29+00:00
 layout: post
 link: http://austenconstable.com/2018/12/18/day-1-auckland-1-2/
 slug: 2018-12-18-day-1-auckland-1-2
-title: Day 1 - Auckland (1/2)
+title: New Zealand - Day 1 - Auckland (1/2)
 wordpress_id: 282
 categories:
 - Travel

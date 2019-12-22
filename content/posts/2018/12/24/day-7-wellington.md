@@ -5,7 +5,7 @@ date: 2018-12-24 07:33:18+00:00
 layout: post
 link: http://austenconstable.com/2018/12/24/day-7-wellington/
 slug: 2018-12-24-day-7-wellington
-title: Day 7 - Wellington
+title: New Zealand - Day 7 - Wellington
 wordpress_id: 419
 categories:
 - Travel

@@ -5,7 +5,7 @@ date: 2018-12-31 08:35:51+00:00
 layout: post
 link: http://austenconstable.com/2018/12/31/day-14-te-anau/
 slug: 2018-12-31-day-14-te-anau
-title: Day 14 - Te Anau
+title: New Zealand - Day 14 - Te Anau
 wordpress_id: 564
 categories:
 - Travel

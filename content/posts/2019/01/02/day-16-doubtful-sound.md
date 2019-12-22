@@ -5,7 +5,7 @@ date: 2019-01-02 09:08:01+00:00
 layout: post
 link: http://austenconstable.com/2019/01/02/day-16-doubtful-sound/
 slug: 2019-01-02-day-16-doubtful-sound
-title: Day 16 - Doubtful Sound
+title: New Zealand - Day 16 - Doubtful Sound
 wordpress_id: 598
 categories:
 - Travel

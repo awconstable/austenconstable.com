@@ -5,7 +5,7 @@ date: 2018-12-30 10:09:18+00:00
 layout: post
 link: http://austenconstable.com/2018/12/30/day-13-wanaka/
 slug: 2018-12-30-day-13-wanaka
-title: Day 13 - Wanaka
+title: New Zealand - Day 13 - Wanaka
 wordpress_id: 540
 categories:
 - Travel

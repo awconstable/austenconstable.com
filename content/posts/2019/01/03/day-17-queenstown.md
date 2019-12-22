@@ -5,7 +5,7 @@ date: 2019-01-03 07:42:42+00:00
 layout: post
 link: http://austenconstable.com/2019/01/03/day-17-queenstown/
 slug: 2019-01-03-day-17-queenstown
-title: Day 17 - Queenstown
+title: New Zealand - Day 17 - Queenstown
 wordpress_id: 618
 categories:
 - Travel

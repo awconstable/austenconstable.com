@@ -5,7 +5,7 @@ date: 2018-12-23 08:38:04+00:00
 layout: post
 link: http://austenconstable.com/2018/12/23/day-6-wellington/
 slug: 2018-12-23-day-6-wellington
-title: Day 6 - Wellington
+title: New Zealand - Day 6 - Wellington
 wordpress_id: 406
 categories:
 - Travel

@@ -5,7 +5,7 @@ date: 2019-01-07 20:37:56+00:00
 layout: post
 link: http://austenconstable.com/2019/01/07/day-20-christchurch-to-london/
 slug: 2019-01-07-day-20-christchurch-to-london
-title: Day 20 - Christchurch to London
+title: New Zealand - Day 20 - Christchurch to London
 wordpress_id: 679
 categories:
 - Travel
