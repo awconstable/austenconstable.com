@@ -2,7 +2,7 @@
 date: 2018-08-27 21:31:00+00:00
 layout: post
 slug: 2018-08-27-chichen-itza-cenote-hubiku
-title: Chichén Itzá & Cenote Hubiku
+title: Mexico - Chichén Itzá & Cenote Hubiku
 categories:
 - Travel
 tags:
