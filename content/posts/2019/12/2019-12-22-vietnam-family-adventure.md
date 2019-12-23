@@ -3,6 +3,7 @@ date: 2019-12-22
 layout: post
 slug: 2019-12-22-vietnam-family-adventure
 title: Vietnam Family Adventure
+author: Austen Constable
 categories:
 - Travel
 tags:
