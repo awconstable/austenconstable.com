@@ -147,52 +147,53 @@ deploy_web_job: &deploy_web_job
   steps:
     - attach_workspace:
         at: *working_directory
-        - aws-cli/install
-        - run:
-            name: set deployment target uri
-            command: |
-              if [ "${CIRCLE_BRANCH}" == "master" ]; \
-              then \
-                echo 'export DEPLOYMENT_URI="s3://production.austenconstable.com.us-east-1"' >> $BASH_ENV; \
-              else \
-                echo 'export DEPLOYMENT_URI="s3://${CIRCLE_BRANCH}.austenconstable.com.us-east-1"' >> $BASH_ENV; \
-              fi
-        - aws-s3/sync:
-            from: public
-            to: ${DEPLOYMENT_URI}
-            aws-access-key-id: AWS_ACCESS_KEY_ID
-            aws-secret-access-key: AWS_SECRET_ACCESS_KEY
-            aws-region: AWS_REGION
-            arguments: |
-              --acl public-read \
-              --include * \
-              --exclude "sw.js" --exclude "*.html" --exclude "page-data/*" \
-              --exclude "rss.xml" --exclude "sitemap.xml" --exclude "robots.txt" \
-              --exclude "build_number.txt" \
-              --cache-control "public, max-age=31536000, immutable" \
-              --delete
-        - aws-s3/sync:
-            from: public
-            to: ${DEPLOYMENT_URI}
-            aws-access-key-id: AWS_ACCESS_KEY_ID
-            aws-secret-access-key: AWS_SECRET_ACCESS_KEY
-            aws-region: AWS_REGION
-            arguments: |
-              --acl public-read \
-              --exclude * \
-              --include "sw.js" --include "*.html" --include "page-data/*" \
-              --include "rss.xml" --include "sitemap.xml" --include "robots.txt" \
-              --include "build_number.txt" \
-              --cache-control "public, max-age=0, must-revalidate"    
-        - run:
-            name: Invalidate the cloudfront cache
-            command: |
-              if [ "${CIRCLE_BRANCH}" == "master" ]; \
-              then \
-                aws cloudfront create-invalidation --distribution-id ${PRODUCTION_CDN_DISTRIBUTION_ID} --paths "/*"; \
-              else \
-                aws cloudfront create-invalidation --distribution-id ${STAGING_CDN_DISTRIBUTION_ID} --paths "/*"; \
-              fi
+    - aws-cli/install
+    - run:
+        name: set deployment target uri
+        command: |
+          if [ "${CIRCLE_BRANCH}" == "master" ]; \
+          then \
+            echo 'export DEPLOYMENT_URI="s3://production.austenconstable.com.us-east-1"' >> $BASH_ENV; \
+          else \
+            echo 'export DEPLOYMENT_URI="s3://${CIRCLE_BRANCH}.austenconstable.com.us-east-1"' >> $BASH_ENV; \
+          fi
+    - aws-s3/sync:
+        from: public
+        to: ${DEPLOYMENT_URI}
+        aws-access-key-id: AWS_ACCESS_KEY_ID
+        aws-secret-access-key: AWS_SECRET_ACCESS_KEY
+        aws-region: AWS_REGION
+        arguments: |
+          --acl public-read \
+          --include * \
+          --exclude "sw.js" --exclude "*.html" --exclude "page-data/*" \
+          --exclude "rss.xml" --exclude "sitemap.xml" --exclude "robots.txt" \
+          --exclude "build_number.txt" \
+          --cache-control "public, max-age=31536000, immutable" \
+          --delete
+    - aws-s3/sync:
+        from: public
+        to: ${DEPLOYMENT_URI}
+        aws-access-key-id: AWS_ACCESS_KEY_ID
+        aws-secret-access-key: AWS_SECRET_ACCESS_KEY
+        aws-region: AWS_REGION
+        arguments: |
+          --acl public-read \
+          --exclude * \
+          --include "sw.js" --include "*.html" --include "page-data/*" \
+          --include "rss.xml" --include "sitemap.xml" --include "robots.txt" \
+          --include "build_number.txt" \
+          --cache-control "public, max-age=0, must-revalidate"    
+    - run:
+        name: Invalidate the cloudfront cache
+        command: |
+          if [ "${CIRCLE_BRANCH}" == "master" ]; \
+          then \
+            aws cloudfront create-invalidation --distribution-id ${PRODUCTION_CDN_DISTRIBUTION_ID} --paths "/*"; \
+          else \
+            aws cloudfront create-invalidation --distribution-id ${STAGING_CDN_DISTRIBUTION_ID} --paths "/*"; \
+          fi
+
 workflows:
   build_deploy:
     jobs:
