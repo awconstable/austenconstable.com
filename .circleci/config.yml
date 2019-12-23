@@ -134,40 +134,15 @@ test_web_job: &test_web_job
 
 deploy_web_job: &deploy_web_job
   docker:
-    - image: 'circleci/python:2.7'
+    - image: 'circleci/node:12.11.1'
   working_directory: *working_directory
   steps:
     - attach_workspace:
         at: *working_directory
-    - aws-cli/install
     - run:
-        name: set deployment target uri
-        command: |
-          if [ "${CIRCLE_BRANCH}" == "master" ]; \
-          then \
-            echo 'export DEPLOYMENT_URI="s3://production.austenconstable.com.us-east-1"' >> $BASH_ENV; \
-          else \
-            echo 'export DEPLOYMENT_URI="s3://${CIRCLE_BRANCH}.austenconstable.com.us-east-1"' >> $BASH_ENV; \
-          fi
-    - aws-s3/sync:
-        from: public
-        to: ${DEPLOYMENT_URI}
-        aws-access-key-id: AWS_ACCESS_KEY_ID
-        aws-secret-access-key: AWS_SECRET_ACCESS_KEY
-        aws-region: AWS_REGION
-        arguments: |
-          --acl public-read \
-          --cache-control "max-age=86400" \
-          --delete
-    - run:
-        name: Invalidate the cloudfront cache
-        command: |
-          if [ "${CIRCLE_BRANCH}" == "master" ]; \
-          then \
-            aws cloudfront create-invalidation --distribution-id ${PRODUCTION_CDN_DISTRIBUTION_ID} --paths "/*"; \
-          else \
-            aws cloudfront create-invalidation --distribution-id ${STAGING_CDN_DISTRIBUTION_ID} --paths "/*"; \
-          fi
+      name: Deploy to S3 using the gatsby-plugin-s3
+      command: |
+        npm run deploy
 
 workflows:
   build_deploy:
