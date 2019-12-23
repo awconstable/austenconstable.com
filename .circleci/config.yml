@@ -140,9 +140,9 @@ deploy_web_job: &deploy_web_job
     - attach_workspace:
         at: *working_directory
     - run:
-      name: Deploy to S3 using the gatsby-plugin-s3
-      command: |
-        npm run deploy
+        name: Deploy to S3 using the gatsby-plugin-s3
+        command: |
+          npm run deploy
 
 workflows:
   build_deploy:
