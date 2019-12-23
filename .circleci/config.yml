@@ -113,6 +113,7 @@ build_web_job: &build_web_job
     - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
     - run: npm install
     - run: gatsby build
+    - run: npm run deploy
     - persist_to_workspace:
           root: *working_directory
           paths:
