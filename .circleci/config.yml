@@ -104,6 +104,10 @@ build_web_job: &build_web_job
   working_directory: *working_directory
   steps:
     - checkout
+    - restore_cache:
+          keys:
+            - v1-myapp-{{ arch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
+            - v1-myapp-
     - run: sudo npm install -g gatsby-cli@2.8.19
     - run: mkdir public
     - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
@@ -113,6 +117,10 @@ build_web_job: &build_web_job
           root: *working_directory
           paths:
             - public
+    - save_cache:
+          key: v1-myapp-{{ arch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
+          paths:
+            - /node_modules
 
 test_web_job: &test_web_job
   docker:
@@ -137,8 +145,13 @@ deploy_web_job: &deploy_web_job
     - image: 'circleci/node:12.11.1'
   working_directory: *working_directory
   steps:
+    - checkout
     - attach_workspace:
         at: *working_directory
+    - restore_cache:
+        keys:
+          - v1-myapp-{{ arch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
+          - v1-myapp-
     - run:
         name: Deploy to S3 using the gatsby-plugin-s3
         command: |
