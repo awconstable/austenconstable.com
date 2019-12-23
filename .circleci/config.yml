@@ -120,7 +120,7 @@ build_web_job: &build_web_job
     - save_cache:
           key: v1-myapp-{{ arch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
           paths:
-            - /node_modules
+            - node_modules
 
 test_web_job: &test_web_job
   docker:
