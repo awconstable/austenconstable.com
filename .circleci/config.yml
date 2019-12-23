@@ -165,11 +165,11 @@ deploy_web_job: &deploy_web_job
         aws-region: AWS_REGION
         arguments: |
           --acl public-read \
-          --include * \
+          --include "*" \
           --exclude "sw.js" --exclude "*.html" --exclude "page-data/*" \
           --exclude "rss.xml" --exclude "sitemap.xml" --exclude "robots.txt" \
           --exclude "build_number.txt" \
-          --cache-control "public, max-age=31536000, immutable" \
+          --cache-control "public,max-age=31536000,immutable" \
           --delete
     - aws-s3/sync:
         from: public
@@ -179,11 +179,11 @@ deploy_web_job: &deploy_web_job
         aws-region: AWS_REGION
         arguments: |
           --acl public-read \
-          --exclude * \
+          --exclude "*" \
           --include "sw.js" --include "*.html" --include "page-data/*" \
           --include "rss.xml" --include "sitemap.xml" --include "robots.txt" \
           --include "build_number.txt" \
-          --cache-control "public, max-age=0, must-revalidate"    
+          --cache-control "public,max-age=0,must-revalidate"    
     - run:
         name: Invalidate the cloudfront cache
         command: |
@@ -193,7 +193,6 @@ deploy_web_job: &deploy_web_job
           else \
             aws cloudfront create-invalidation --distribution-id ${STAGING_CDN_DISTRIBUTION_ID} --paths "/*"; \
           fi
-
 workflows:
   build_deploy:
     jobs:
