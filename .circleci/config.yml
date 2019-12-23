@@ -119,6 +119,7 @@ test_web_job: &test_web_job
     - image: 'cibuilds/hugo:0.61'
   working_directory: *working_directory
   steps:
+    - checkout
     - attach_workspace:
         at: *working_directory
     - run:
