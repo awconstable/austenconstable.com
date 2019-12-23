@@ -99,12 +99,6 @@ module.exports = {
         siteUrl: `https://austenconstable.com`,
       },
     },
-    {
-      resolve: `gatsby-plugin-s3`,
-      options: {
-          bucketName: 'production.austenconstable.com.us-east-1'
-      },
-    },
   ],
   // Customize your site metadata:
   siteMetadata: {

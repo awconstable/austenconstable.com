@@ -1,12 +1,11 @@
 {
   "name": "gatsby-starter-blog-theme",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build",
-    "deploy": "gatsby-plugin-s3 deploy --yes"
+    "build": "gatsby build"
   },
   "dependencies": {
     "eslint-plugin-flowtype": "^4.3.0",
@@ -18,7 +17,6 @@
     "gatsby-plugin-manifest": "^2.2.26",
     "gatsby-plugin-offline": "^3.0.17",
     "gatsby-plugin-robots-txt": "^1.5.0",
-    "gatsby-plugin-s3": "^0.3.2",
     "gatsby-plugin-sitemap": "^2.2.19",
     "gatsby-theme-blog": "^1.2.1",
     "react": "^16.12.0",
