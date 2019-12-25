@@ -1,5 +1,5 @@
 ---
-date: 2019-12-22
+date: 2019-12-22 21:49:40+00:00
 layout: post
 slug: 2019-12-22-vietnam-family-adventure
 title: Vietnam Family Adventure

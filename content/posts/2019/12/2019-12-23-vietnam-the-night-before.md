@@ -1,5 +1,5 @@
 ---
-date: 2019-12-23
+date: 2019-12-23 21:49:40+00:00
 layout: post
 slug: 2019-12-23-vietnam-the-night-before
 title: Vietnam - The Night Before
