@@ -65,8 +65,7 @@ module.exports = {
                 html = html
                   .replace(/href="\//g, `href="${siteUrl}/`)
                   .replace(/src="\//g, `src="${siteUrl}/`)
-                  .replace(/"\/static\//g, `"${siteUrl}/static/`)
-                  .replace(/,\s*\/static\//g, `,${siteUrl}/static/`);
+                  .replace(/"\.\.\/images\//g, `"${siteUrl}/images/`);
                   
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
