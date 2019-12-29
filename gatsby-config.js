@@ -58,12 +58,22 @@ module.exports = {
           {
             serialize: ({ query: { site, allMdx } }) => {
               return allMdx.edges.map(edge => {
+              const siteUrl = site.siteMetadata.siteUrl;
+              
+                let html = edge.node.html;
+                // Hacky workaround for https://github.com/gaearon/overreacted.io/issues/65
+                html = html
+                  .replace(/href="\//g, `href="${siteUrl}/`)
+                  .replace(/src="\//g, `src="${siteUrl}/`)
+                  .replace(/"\/static\//g, `"${siteUrl}/static/`)
+                  .replace(/,\s*\/static\//g, `,${siteUrl}/static/`);
+                  
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + '/' + edge.node.frontmatter.slug,
                   guid: site.siteMetadata.siteUrl + '/' + edge.node.frontmatter.slug,
-                  custom_elements: [{ 'content:encoded': edge.node.html }]
+                  custom_elements: [{ 'content:encoded': html }]
                 })
               })
             },
