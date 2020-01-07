@@ -2,7 +2,6 @@ version: 2.1
 
 orbs:
   aws-s3: circleci/aws-s3@1.0.8
-  aws-cli: circleci/aws-cli@0.1.13
 
 commands:
   terraform_environment:
@@ -147,7 +146,6 @@ deploy_web_job: &deploy_web_job
   steps:
     - attach_workspace:
         at: *working_directory
-    - aws-cli/install
     - run:
         name: set deployment target uri
         command: |
@@ -184,15 +182,6 @@ deploy_web_job: &deploy_web_job
           --include "rss.xml" --include "sitemap.xml" --include "robots.txt" \
           --include "build_number.txt" \
           --cache-control "public,max-age=0,must-revalidate"    
-    - run:
-        name: Invalidate the cloudfront cache
-        command: |
-          if [ "${CIRCLE_BRANCH}" == "master" ]; \
-          then \
-            aws cloudfront create-invalidation --distribution-id ${PRODUCTION_CDN_DISTRIBUTION_ID} --paths "/*"; \
-          else \
-            aws cloudfront create-invalidation --distribution-id ${STAGING_CDN_DISTRIBUTION_ID} --paths "/*"; \
-          fi
 workflows:
   build_deploy:
     jobs:
