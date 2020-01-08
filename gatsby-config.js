@@ -24,8 +24,8 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         icon: `src/images/icon.jpeg`,
-        name: `Austen Constable's Blog`,
-        short_name: `Austen's Blog`,
+        name: `Austen Constable's Travel Blog`,
+        short_name: `Austen's Travel Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#037acc`,
@@ -97,7 +97,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Austen's Blog",
+            title: "Austen's Travel Blog",
           }
         ]
       }
@@ -111,10 +111,10 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `Austen's Blog`,
+    title: `Austen's Travel Blog`,
     siteUrl: `https://austenconstable.com`,
     author: `Austen Constable`,
-    description: `A blog of travel, linux and coding`,
+    description: `A travel blog`,
     social: [
       {
         name: `twitter`,
