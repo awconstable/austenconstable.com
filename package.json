@@ -14,7 +14,7 @@
     "gatsby-plugin-disqus": "^1.1.4",
     "gatsby-plugin-feed": "^2.3.22",
     "gatsby-plugin-google-analytics": "^2.1.23",
-    "gatsby-plugin-manifest": "^2.2.26",
+    "gatsby-plugin-manifest": "^2.6.1",
     "gatsby-plugin-offline": "^3.0.17",
     "gatsby-plugin-robots-txt": "^1.5.0",
     "gatsby-plugin-sitemap": "^2.2.19",
