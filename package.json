@@ -17,7 +17,7 @@
     "gatsby-plugin-manifest": "^2.2.26",
     "gatsby-plugin-offline": "^3.0.17",
     "gatsby-plugin-robots-txt": "^1.5.0",
-    "gatsby-plugin-sitemap": "^2.2.19",
+    "gatsby-plugin-sitemap": "^2.12.0",
     "gatsby-theme-blog": "^1.2.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
