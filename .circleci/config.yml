@@ -11,7 +11,7 @@ commands:
           name: set terraform environment
           command: |
             cd && touch $BASH_ENV
-            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+            if [ "${CIRCLE_BRANCH}" == "main" ]; then
               echo 'export TERRAFORM_ENVIRONMENT=production' >> $BASH_ENV
             else
               echo 'export TERRAFORM_ENVIRONMENT=${CIRCLE_BRANCH}' >> $BASH_ENV
@@ -149,7 +149,7 @@ deploy_web_job: &deploy_web_job
     - run:
         name: set deployment target uri
         command: |
-          if [ "${CIRCLE_BRANCH}" == "master" ]; \
+          if [ "${CIRCLE_BRANCH}" == "main" ]; \
           then \
             echo 'export DEPLOYMENT_URI="s3://production.austenconstable.com.us-east-1"' >> $BASH_ENV; \
           else \
