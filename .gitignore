@@ -73,3 +73,7 @@ yarn-error.log
 
 # Vagrant
 .vagrant
+
+# IntelliJ
+.idea
+*.iml
