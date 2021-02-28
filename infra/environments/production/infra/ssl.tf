@@ -6,9 +6,6 @@ resource "aws_acm_certificate" "cert" {
   tags {
     environment = "${var.environment}"
   }
-  lifecycle {
-    create_before_destroy = true
-  }
 }
 
 resource "aws_route53_record" "cert_validation" {
