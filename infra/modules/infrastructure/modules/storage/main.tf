@@ -7,8 +7,8 @@ resource "aws_s3_bucket" "site_bucket" {
     error_document = "404.html"
   }
 
-  tags {
-    environment = "${var.environment}"
+  tags = {
+    environment = var.environment
   }
 }
 
@@ -17,7 +17,7 @@ resource "aws_s3_bucket" "log_bucket" {
   acl           = "private"
   force_destroy = true
 
-  tags {
-    environment = "${var.environment}"
+  tags = {
+    environment = var.environment
   }
 }

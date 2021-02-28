@@ -1,6 +1,6 @@
 provider "aws" {
-  region = "us-east-1"
-  version = "~> 2.10"
+  region  = "us-east-1"
+  version = "~> 2.46.0"
 }
 
 /* --------- AWS & Terraform bootstrap --------
@@ -26,9 +26,9 @@ resource "aws_s3_bucket" "staging-state-file-bucket" {
 }
 
 resource "aws_dynamodb_table" "staging-state-file-locking-table" {
-  name           = "austenconstable.com-staging-state-file-locking"
-  hash_key       = "LockID"
-  billing_mode   = "PAY_PER_REQUEST"
+  name         = "austenconstable.com-staging-state-file-locking"
+  hash_key     = "LockID"
+  billing_mode = "PAY_PER_REQUEST"
 
   attribute {
     name = "LockID"
@@ -37,9 +37,9 @@ resource "aws_dynamodb_table" "staging-state-file-locking-table" {
 }
 
 resource "aws_dynamodb_table" "staging-app-state-file-locking-table" {
-  name           = "austenconstable.com-staging-app-state-file-locking"
-  hash_key       = "LockID"
-  billing_mode   = "PAY_PER_REQUEST"
+  name         = "austenconstable.com-staging-app-state-file-locking"
+  hash_key     = "LockID"
+  billing_mode = "PAY_PER_REQUEST"
 
   attribute {
     name = "LockID"
@@ -57,9 +57,9 @@ resource "aws_s3_bucket" "production-state-file-bucket" {
 }
 
 resource "aws_dynamodb_table" "production-state-file-locking-table" {
-  name           = "austenconstable.com-production-state-file-locking"
-  hash_key       = "LockID"
-  billing_mode   = "PAY_PER_REQUEST"
+  name         = "austenconstable.com-production-state-file-locking"
+  hash_key     = "LockID"
+  billing_mode = "PAY_PER_REQUEST"
 
   attribute {
     name = "LockID"
@@ -68,12 +68,13 @@ resource "aws_dynamodb_table" "production-state-file-locking-table" {
 }
 
 resource "aws_dynamodb_table" "production-app-state-file-locking-table" {
-  name           = "austenconstable.com-production-app-state-file-locking"
-  hash_key       = "LockID"
-  billing_mode   = "PAY_PER_REQUEST"
+  name         = "austenconstable.com-production-app-state-file-locking"
+  hash_key     = "LockID"
+  billing_mode = "PAY_PER_REQUEST"
 
   attribute {
     name = "LockID"
     type = "S"
   }
 }
+

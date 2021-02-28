@@ -1,10 +1,10 @@
 provider "aws" {
   region  = "us-east-1"
-  version = "2.46.0"
+  version = "~> 2.70.0"
 }
 
 resource "aws_route53_record" "mx" {
-  zone_id = "${var.domain_zone_id}"
+  zone_id = var.domain_zone_id
   name    = "austenconstable.com."
   type    = "MX"
   ttl     = 3600
@@ -19,12 +19,13 @@ resource "aws_route53_record" "mx" {
 }
 
 module "production-infrastructure" {
-  source = "../../../modules/infrastructure"
+  source = "./../../../modules/infrastructure"
 
-  environment      = "${var.environment}"
-  region           = "${var.region}"
-  domain_zone_id   = "${var.domain_zone_id}"
-  domain_name_root = "${var.domain_name_root}"
-  ssl_cert_arn     = "${aws_acm_certificate_validation.cert.certificate_arn}"
-  cdn_aliases      = "${var.cdn_aliases}"
+  environment      = var.environment
+  region           = var.region
+  domain_zone_id   = var.domain_zone_id
+  domain_name_root = var.domain_name_root
+  ssl_cert_arn     = aws_acm_certificate_validation.cert.certificate_arn
+  cdn_aliases      = var.cdn_aliases
 }
+

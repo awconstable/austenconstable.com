@@ -10,4 +10,4 @@ domain_name_root = "austenconstable.com"
 
 dns_aliases = ["austenconstable.com", "www.austenconstable.com"]
 
-cdn_aliases = ["production.austenconstable.com","austenconstable.com", "www.austenconstable.com"]
+cdn_aliases = ["production.austenconstable.com", "austenconstable.com", "www.austenconstable.com"]

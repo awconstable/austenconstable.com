@@ -4,13 +4,13 @@ locals {
 
 resource "aws_cloudfront_distribution" "s3_distribution" {
   origin {
-    domain_name = "${var.site_bucket_website_endpoint}"
-    origin_id   = "${local.s3_origin_id}"
+    domain_name = var.site_bucket_website_endpoint
+    origin_id   = local.s3_origin_id
 
     custom_origin_config {
-      http_port = 80,
-      https_port = 80,
-      origin_protocol_policy = "http-only",
+      http_port = 80
+      https_port = 80
+      origin_protocol_policy = "http-only"
       origin_ssl_protocols = ["SSLv3", "TLSv1", "TLSv1.1", "TLSv1.2"]
     }
   }
@@ -21,16 +21,16 @@ resource "aws_cloudfront_distribution" "s3_distribution" {
 
   logging_config {
     include_cookies = false
-    bucket          = "${var.log_bucket_domain_name}"
+    bucket          = var.log_bucket_domain_name
     prefix          = "${var.environment}-cloudfront"
   }
 
-  aliases = "${var.cdn_aliases}"
+  aliases = var.cdn_aliases
 
   default_cache_behavior {
     allowed_methods  = ["DELETE", "GET", "HEAD", "OPTIONS", "PATCH", "POST", "PUT"]
     cached_methods   = ["GET", "HEAD"]
-    target_origin_id = "${local.s3_origin_id}"
+    target_origin_id = local.s3_origin_id
 
     forwarded_values {
       query_string = false
@@ -51,7 +51,7 @@ resource "aws_cloudfront_distribution" "s3_distribution" {
     path_pattern     = "/*"
     allowed_methods  = ["GET", "HEAD", "OPTIONS"]
     cached_methods   = ["GET", "HEAD", "OPTIONS"]
-    target_origin_id = "${local.s3_origin_id}"
+    target_origin_id = local.s3_origin_id
 
     forwarded_values {
       query_string = false
@@ -78,12 +78,12 @@ resource "aws_cloudfront_distribution" "s3_distribution" {
   }
 
   viewer_certificate {
-    acm_certificate_arn = "${var.ssl_cert_arn}"
+    acm_certificate_arn = var.ssl_cert_arn
     cloudfront_default_certificate = false
     ssl_support_method = "sni-only"
   }
 
-  tags {
-    environment = "${var.environment}"
+  tags = {
+    environment = var.environment
   }
 }
