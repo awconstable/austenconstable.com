@@ -1,6 +1,6 @@
 provider "aws" {
   region  = "us-east-1"
-  version = "~> 2.10"
+  version = "2.46.0"
 }
 
 resource "aws_route53_record" "mx" {
