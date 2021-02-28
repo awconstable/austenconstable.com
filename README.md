@@ -1,6 +1,6 @@
 # austenconstable.com
 
-The code repository for [austenconstable.com](austenconstable.com), a personal travel blog. 
+The code repository for [austenconstable.com](https://austenconstable.com), a personal travel blog. 
 
 [![CircleCI](https://circleci.com/gh/awconstable/austenconstable.com.svg?style=shield)](https://circleci.com/gh/awconstable/austenconstable.com)
 ![CodeQL](https://github.com/awconstable/austenconstable.com/workflows/CodeQL/badge.svg)
