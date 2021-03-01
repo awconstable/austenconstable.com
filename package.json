@@ -21,6 +21,6 @@
     "gatsby-theme-blog": "^1.2.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "typescript": "^3.6.4"
+    "typescript": "^4.2.2"
   }
 }
