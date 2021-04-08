@@ -186,6 +186,9 @@ workflows:
   build_deploy:
     jobs:
       - infra_build
+          filters:
+            branches:
+              only: main
       - infra_plan:
           requires:
             - infra_build
@@ -200,6 +203,9 @@ workflows:
           requires:
             - app_test_web
             - infra_apply
+          filters:
+            branches:
+              only: main
 
 jobs:
   infra_build:
