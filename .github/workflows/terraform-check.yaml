@@ -68,7 +68,6 @@ jobs:
         with:
           directory: ${{ inputs.working_directory }}
           quiet: true
-          soft-fail: true
           output_format: sarif
           download_external_modules: true
 
