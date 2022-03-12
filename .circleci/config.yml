@@ -81,7 +81,7 @@ infra_module_dir: &infra_module_dir
 
 default_config: &default_config
   docker:
-    - image: 'hashicorp/terraform:0.12.30'
+    - image: 'hashicorp/terraform:0.13.7'
   working_directory: *working_directory
 
 repo_cache_key: &repo_cache_key

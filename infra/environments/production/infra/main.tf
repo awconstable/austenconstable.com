@@ -1,7 +1,3 @@
-provider "aws" {
-  region  = "us-east-1"
-  version = "~> 2.70.0"
-}
 
 resource "aws_route53_record" "mx" {
   zone_id = var.domain_zone_id
