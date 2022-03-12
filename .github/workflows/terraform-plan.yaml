@@ -1,0 +1,115 @@
+---
+name: 'Terraform: Plan'
+
+# Reusable workflow - only callable from another workflow.
+on:
+  workflow_call:
+    inputs:
+      tf_version:
+        required: true
+        type: string
+      working_directory:
+        required: true
+        type: string
+    secrets:
+      aws_access_key_id:
+        required: true
+      aws_secret_access_key:
+        required: true
+
+env:
+  TERRAFORM_PLANFILE: terraform.tfplan
+  AWS_ACCESS_KEY_ID: ${{ secrets.aws_access_key_id }}
+  AWS_SECRET_ACCESS_KEY: ${{ secrets.aws_secret_access_key }}
+
+jobs:
+  terraform-plan:
+    name: Terraform Plan
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+
+      - name: Config Terraform plugin cache
+        run: |
+          echo 'plugin_cache_dir="$HOME/.terraform.d/plugin-cache"' >~/.terraformrc
+          mkdir --parents ~/.terraform.d/plugin-cache
+
+      - name: Cache Terraform
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.terraform.d/plugin-cache
+          key: ${{ runner.os }}-terraform-${{ hashFiles('**/.terraform.lock.hcl') }}
+          restore-keys: |
+            ${{ runner.os }}-terraform-
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v1
+        with:
+          terraform_version: ${{ inputs.tf_version }}
+
+      - name: Terraform Init
+        working-directory: ${{ inputs.working_directory }}
+        run: |
+          terraform init
+
+      - name: Check Dependencies
+        working-directory: ${{ inputs.working_directory }}
+        run: |
+          
+          if git ls-files --error-unmatch .terraform.lock.hcl &>/dev/null; then
+            echo ".terraform.lock.hcl *is* under version control"
+          else
+            echo ".terraform.lock.hcl is not under version control"
+            echo "**** In future, workflows will fail if .terraform.lock.hcl is not under version control ****"
+            #TODO update to exit 1 to fail the workflow if .terraform.lock.hcl is not in version control
+            exit 0
+          fi
+          
+          if [[ `git status --porcelain --untracked-files=no` ]]; then
+            # changes
+            echo "There are changes to the .terraform.lock.hcl file. Please update versions.tf and .terraform.lock.hcl before retrying."
+            git diff --color | cat
+            exit 1
+          else
+            # no changes
+            echo "No dependencies have changed, .terraform.lock.hcl remains unchanged"
+          fi
+
+      - name: Terraform Validate
+        working-directory: ${{ inputs.working_directory }}
+        run: |
+          terraform validate
+
+      - name: Terraform Plan
+        working-directory: ${{ inputs.working_directory }}
+        run: |
+          terraform plan -lock-timeout=60s -out=$TERRAFORM_PLANFILE
+
+      - name: Tar .terraform directory
+        working-directory: ${{ inputs.working_directory }}
+        run: tar -czvf .terraform.tar .terraform
+
+      - name: Upload .terraform.tar
+        uses: actions/upload-artifact@v3
+        with:
+          name: .terraform
+          path: ${{ inputs.working_directory }}/.terraform.tar
+          retention-days: 1
+
+      - name: Upload .terraform.lock.hcl
+        uses: actions/upload-artifact@v3
+        with:
+          name: .terraform.lock.hcl
+          path: ${{ inputs.working_directory }}/.terraform.lock.hcl
+          retention-days: 1
+
+      - name: Upload Plan File
+        uses: actions/upload-artifact@v3
+        with:
+            name: plan-file
+            path: ${{ inputs.working_directory }}/${{ env.TERRAFORM_PLANFILE }}
+            retention-days: 90
