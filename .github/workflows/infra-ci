@@ -1,0 +1,28 @@
+---
+name: 'Infra CI'
+
+on:
+  push:
+    paths:
+      - '.github/workflows/**'
+      - 'infra/**'
+  workflow_dispatch:
+
+env:
+  TERRAFORM_PLANFILE: terraform.tfplan
+
+jobs:
+  terraform-check:
+    uses: ./.github/workflows/terraform-check.yaml
+    with:
+      tf_version: 1.1.7
+      working_directory: infra/environments/production/infra
+
+  terraform-plan:
+    uses: ./.github/workflows/terraform-plan.yaml
+    with:
+      tf_version: 1.1.7
+      working_directory: infra/environments/production/infra
+    secrets:
+      aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
