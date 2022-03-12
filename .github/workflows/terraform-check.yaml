@@ -75,9 +75,9 @@ jobs:
       - name: Upload Terrascan SARIF file
         uses: github/codeql-action/upload-sarif@v1
         with:
-          sarif_file: ${{ inputs.working_directory }}/terrascan.sarif
+          sarif_file: terrascan.sarif
       
       - name: Upload Checkov SARIF file
         uses: github/codeql-action/upload-sarif@v1
         with:
-          sarif_file: ${{ inputs.working_directory }}/results.sarif
+          sarif_file: results.sarif
