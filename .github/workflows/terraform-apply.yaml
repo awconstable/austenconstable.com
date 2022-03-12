@@ -1,0 +1,83 @@
+---
+name: 'Terraform: Apply'
+
+# Reusable workflow - only callable from another workflow.
+on:
+  workflow_call:
+    inputs:
+      tf_version:
+        required: true
+        type: string
+      working_directory:
+        required: true
+        type: string
+    secrets:
+      aws_access_key_id:
+        required: true
+      aws_secret_access_key:
+        required: true
+
+env:
+  TERRAFORM_PLANFILE: terraform.tfplan
+
+jobs:
+  terraform-apply:
+    name: Terraform Apply
+    runs-on: ubuntu-20.04
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.aws_access_key_id }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.aws_secret_access_key }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+
+      - name: Config Terraform plugin cache
+        run: |
+          echo 'plugin_cache_dir="$HOME/.terraform.d/plugin-cache"' >~/.terraformrc
+          mkdir --parents ~/.terraform.d/plugin-cache
+
+      - name: Cache Terraform
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.terraform.d/plugin-cache
+          key: ${{ runner.os }}-terraform-${{ hashFiles('**/.terraform.lock.hcl') }}
+          restore-keys: |
+            ${{ runner.os }}-terraform-          
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v1
+        with:
+          terraform_version: ${{ inputs.tf_version }}
+
+      - name: Download .terraform
+        uses: actions/download-artifact@v3
+        with:
+          name: .terraform
+
+      - name: Untar .terraform directory
+        run: tar -xzvf .terraform.tar
+
+      - name: Download .terraform.lock.hcl
+        uses: actions/download-artifact@v3
+        with:
+          name: .terraform.lock.hcl
+
+      - name: Download Plan File
+        uses: actions/download-artifact@v3
+        with:
+          name: plan-file
+
+      - name: Move files to correct working directory
+        working-directory: ${{ inputs.working_directory }}
+        run: |
+          mv ../.terraform ./
+          mv ../.terraform.lock.hcl ./
+          mv ../${{ env.TERRAFORM_PLANFILE }} ./
+
+      - name: Terraform Apply
+        working-directory: ${{ inputs.working_directory }}
+        run: |         
+          terraform apply -auto-approve -lock-timeout=60s ${{ env.TERRAFORM_PLANFILE }}
