@@ -1,0 +1,82 @@
+---
+name: 'Terraform: Check'
+
+# Reusable workflow - only callable from another workflow.
+on:
+  workflow_call:
+    inputs:
+      tf_version:
+        required: true
+        type: string
+      working_directory:
+        required: true
+        type: string
+
+jobs:
+  terraform-check:
+    name: Terraform Check
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v1
+        with:
+          terraform_version: ${{ inputs.tf_version }}
+
+      - name: Terraform fmt Check
+        working-directory: ${{ inputs.working_directory }}
+        run: |
+          if ! terraform fmt -recursive -check -list=false; then
+            echo "Format of the following terraform files does not meet coding standards. Please run terraform fmt."
+            echo
+            terraform fmt -recursive -check -diff
+          fi
+
+      - uses: actions/cache@v2
+        name: Cache TFLint Plugin Dir
+        with:
+          path: ~/.tflint.d/plugins
+          key: tflint-${{ hashFiles('.tflint.hcl') }}
+
+      - uses: terraform-linters/setup-tflint@v1
+        name: Setup TFLint
+        with:
+          tflint_version: latest
+
+      - name: Init TFLint
+        run: tflint --init
+
+      - name: Run TFLint
+        run: tflint -f compact
+
+      - name: Terrascan IaC scanner
+        uses: accurics/terrascan-action@v1
+        with:
+          iac_type: 'terraform'
+          iac_version: 'v14'
+          iac_dir: ${{ inputs.working_directory }}
+          policy_type: 'aws'
+          only_warn: true
+          sarif_upload: true
+
+      - name: Run Checkov action
+        uses: bridgecrewio/checkov-action@master
+        with:
+          directory: ${{ inputs.working_directory }}
+          quiet: true
+          output_format: sarif
+          download_external_modules: true
+
+      - name: Upload Terrascan SARIF file
+        uses: github/codeql-action/upload-sarif@v1
+        with:
+          sarif_file: ${{ inputs.working_directory }}/terrascan.sarif
+      
+      - name: Upload Checkov SARIF file
+        uses: github/codeql-action/upload-sarif@v1
+        with:
+          sarif_file: ${{ inputs.working_directory }}/results.sarif
