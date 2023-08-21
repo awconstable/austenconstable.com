@@ -107,7 +107,7 @@ build_web_job: &build_web_job
           keys:
             - v1-myapp-{{ arch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
             - v1-myapp-
-    - run: sudo npm install -g gatsby-cli@2.32.8
+    - run: sudo npm install -g gatsby-cli@2.19.2
     - run: mkdir public
     - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
     - run: npm install --no-optional
