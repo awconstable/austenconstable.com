@@ -2,6 +2,7 @@ version: 2.1
 
 orbs:
   aws-s3: circleci/aws-s3@1.0.8
+  node: circleci/node@5.1.0
 
 commands:
   terraform_environment:
@@ -99,7 +100,7 @@ save_repo: &save_repo
 
 build_web_job: &build_web_job
   docker:
-    - image: 'circleci/node:20.3.0'
+    - image: cimg/base:stable
   working_directory: *working_directory
   steps:
     - checkout
@@ -107,6 +108,9 @@ build_web_job: &build_web_job
           keys:
             - v1-myapp-{{ arch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
             - v1-myapp-
+    - node/install:
+        install-yarn: true
+        node-version: '20.3.0'
     - run: sudo npm install -g gatsby-cli@2.19.2
     - run: mkdir public
     - run: echo ${CIRCLE_BUILD_NUM} > public/build_number.txt
