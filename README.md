@@ -2,11 +2,9 @@
 
 The code repository for [austenconstable.com](https://austenconstable.com), a personal travel blog. 
 
+[![Infra CI](https://github.com/awconstable/austenconstable.com/actions/workflows/infra-ci.yaml/badge.svg)](https://github.com/awconstable/austenconstable.com/actions/workflows/infra-ci.yaml)
 [![CircleCI](https://circleci.com/gh/awconstable/austenconstable.com.svg?style=shield)](https://circleci.com/gh/awconstable/austenconstable.com)
-![CodeQL](https://github.com/awconstable/austenconstable.com/workflows/CodeQL/badge.svg)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/awconstable/austenconstable.com.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/awconstable/austenconstable.com/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/awconstable/austenconstable.com.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/awconstable/austenconstable.com/context:javascript)
-
+[![CodeQL](https://github.com/awconstable/austenconstable.com/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/awconstable/austenconstable.com/actions/workflows/codeql-analysis.yml)
 
 ## Infrastructure
 
