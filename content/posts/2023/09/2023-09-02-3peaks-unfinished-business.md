@@ -53,7 +53,7 @@ We run the last kilometer in order to catch the next Sherpa bus. Arriving back a
 
 Overall it took us 436 hours to complete the challenge, but I'm really pleased to have finally done it!
 
-<iframe src="../html/2023/09/2023-09-02-3peaks-unfinished-business" width="640" height="640" style="border:none;" scrolling="no"></iframe>
+<iframe src="../html/2023/09/2023-09-02-3peaks-unfinished-business.html" width="640" height="640" style="border:none;" scrolling="no"></iframe>
 
 Distance Hiked: 14.2 km  
 Elevation gain: 1438 m  
