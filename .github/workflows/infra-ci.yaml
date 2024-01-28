@@ -3,9 +3,6 @@ name: 'Infra CI'
 
 on:
   push:
-    paths:
-      - '.github/workflows/**'
-      - 'infra/**'
   workflow_dispatch:
 
 env:
